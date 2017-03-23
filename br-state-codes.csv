@@ -1,0 +1,33 @@
+subdivision,name,id,idNow,idIBGE,lexLabel,creation,extinction,lastLevel,notes
+FN,Fernando de Noronha,9,,,fernando.de.noronha,1943,1946,Territory,"extinct, merged into PE"
+GU,Guaporé,12,,,guapore,1943,1946,Territory,renamed to Rondônia (RO)
+PP,Ponta Porã,21,,,ponta.pora,1943,1946,Territory,extinct
+RB,Rio Branco,23,,,rio.branco,1943,1946,State,renamed to Roraima (RR)
+GB,Guanabara,10,,,guanabara,1960,1975,State,"extinct, merged as city into RJ"
+AC,Acre,1,1,12,acre,1904,,State,
+AL,Alagoas,2,2,27,alagoas,1889,,State,
+AM,Amazonas,3,3,13,amazonas,1889,,State,
+AP,Amapá,4,4,16,amapa,1943,,State,
+BA,Bahia,5,5,29,bahia,1889,,State,
+CE,Ceará,6,6,23,ceara,1889,,State,
+DF,Distrito Federal,7,7,53,distrito.federal,1889,,Federal district,"use as generic subdiv. since 1975, reference changed in 1960 and 1975"
+ES,Espírito Santo,8,8,32,espirito.santo,1889,,State,
+GO,Goiás,11,9,52,goias,1889,,State,
+MA,Maranhão,13,10,21,maranhao,1889,,State,
+MG,Minas Gerais,14,11,31,minas.gerais,1889,,State,
+MS,Mato Grosso do Sul,15,12,50,mato.grosso.do.sul,1977,,State,
+MT,Mato Grosso,16,13,51,mato.grosso,1889,,State,
+PA,Pará,17,14,15,para,1889,,State,
+PB,Paraíba,18,15,25,paraiba,1889,,State,
+PE,Pernambuco,19,16,26,pernambuco,1889,,State,
+PI,Piauí,20,17,22,piaui,1889,,State,
+PR,Paraná,22,18,41,parana,1889,,State,
+RJ,Rio de Janeiro,24,19,33,rio.de.janeiro,1889,,State,
+RN,Rio Grande do Norte,25,20,24,rio.grande.do.norte,1889,,State,
+RO,Rondônia,26,21,11,rondonia,1981,,State,
+RR,Roraima,27,22,14,roraima,1947,,State,changed level in 1988
+RS,Rio Grande do Sul,28,23,43,rio.grande.do.sul,1889,,State,
+SC,Santa Catarina,29,24,42,santa.catarina,1889,,State,
+SE,Sergipe,30,25,28,sergipe,1889,,State,
+SP,São Paulo,31,26,35,sao.paulo,1889,,State,
+TO,Tocantins,32,27,17,tocantins,1988,,State,
