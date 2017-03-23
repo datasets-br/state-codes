@@ -1,5 +1,8 @@
 # state-codes
-Brazilian states 2-letter codes (ISO 3166-2:BR), official "Unidades da Federação" abbreviations throughout the country's history
+
+Comprehensive Brazilian state code information, including ISO 3166-2:BR codes (the official 2-letter code abbreviations), IBGE state codes,  and "timelines" of each state creation. Provided as a Simple Data Format Data Package.
+
+Strictly, each code designates an *federation unit* ("Unidade da Federação" - UF), that can be a  [state](https://schema.org/State) as usual  country-scale area segmentation, and can be also [capital districts and territories](https://en.wikipedia.org/wiki/Capital_districts_and_territories).
 
 ## Collaboration
 
@@ -10,4 +13,4 @@ See also [ISO 3166-2:BR at Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:B
 
 ## Preparation
 
-Download as CSV.
+Download the spreadsheet as CSV, and upload to here.
