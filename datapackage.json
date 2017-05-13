@@ -1,0 +1,96 @@
+{
+  "name": "br-state-codes",
+  "title": "Federation units of Brazil and ISO3166:BR",
+  "description": "Brazilian states 2-letter codes (ISO 3166-2:BR), official 'Unidades da Federação' abbreviations throughout the country's history",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datasets-br/state-codes"
+  },
+  "sources": [{
+    "name": "ISO",
+    "web": "https://www.iso.org/obp/ui/#iso:code:3166:BR"
+  },
+  {
+    "name": "IBGE",
+    "web": "http://www.ibge.gov.br/estadosat"
+  }],
+  "keywords": [
+    "geodata",
+    "state",
+    "brazil"
+  ],
+  "license": {
+    "type": "ODC-PDDL",
+    "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+  },
+  "resources": [
+    {
+      "name": "br-state-codes",
+      "path": "br-state-codes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "subdivision",
+            "description": "State-name 2-letter abbreviation (in portuguese 'sigla da unidade da federação'), ISO 3166:BR",
+            "semantic-class": "https://www.wikidata.org/wiki/Q27798",
+            "type": "string",
+            "regex": "^[A-Z]{2,2}$"
+          },
+          {
+            "name": "name",
+            "description": "Common name of the state, in portuguese",
+            "semantic-class": "http://schema.org/State",
+            "semantic-equiv": "http://schema.org/name",
+            "type": "string"
+          },
+          {
+            "name": "id",
+            "semantic-equiv": "http://schema.org/identifier",
+            "type": "integer"
+          },
+          {
+            "name": "id-current",
+            "description": "Identifier for current (in use) abbreviations. Current ranges from 1 to maximum 32, historic states are null.",
+            "type": "integer"
+          },
+          {
+            "name": "id-IBGE",
+            "description": "IBGE statdandard identifier",
+            "semantic-source": "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm",
+            "type": "string"
+          },
+          {
+            "name": "lexLabel",
+            "description": "Brazilian's LEX URN syntax translation of the official state name. Used in URLs and other contexts",
+            "description-ref": "http://projeto.lexml.gov.br",
+            "type": "string"
+          },
+          {
+            "name": "creation",
+            "description": "State official creation year",
+            "type": "integer"
+          },
+          {
+            "name": "extinction",
+            "description": "State official creation year (null for in use)",
+            "type": "integer"
+          },
+          {
+            "name": "category",
+            "description": "Subdivision category (see ISO 3166-2)",
+            "type": "string"
+          },
+          {
+            "name": "notes",
+            "description": "Notes about assegments, dates or changes",
+            "type": "string"
+          }
+        ]
+      },
+      "primaryKey": "id"
+    }
+  ],
+  "homepage": "https://github.com/datasets-br/state-codes"
+}

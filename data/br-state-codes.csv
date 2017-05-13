@@ -1,4 +1,4 @@
-subdivision,name,id,idNow,idIBGE,lexLabel,creation,extinction,lastLevel,notes
+subdivision,name,id,id-current,id-IBGE,lexLabel,creation,extinction,category,notes
 FN,Fernando de Noronha,9,,,fernando.de.noronha,1943,1946,Territory,"extinct, merged into PE"
 GU,Guaporé,12,,,guapore,1943,1946,Territory,renamed to Rondônia (RO)
 PP,Ponta Porã,21,,,ponta.pora,1943,1946,Territory,extinct
