@@ -26,7 +26,8 @@
   "resources": [
     {
       "name": "br-state-codes",
-      "path": "br-state-codes.csv",
+      "path": "data/country-codes.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/state-codes/master/data/br-state-codes.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
