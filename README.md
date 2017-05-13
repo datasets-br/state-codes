@@ -1,6 +1,6 @@
 # state-codes
 
-Comprehensive Brazilian state code information, including ISO 3166-2:BR codes (the official 2-letter code abbreviations), IBGE state codes,  and "timelines" of each state creation. Provided as a Simple Data Format Data Package.
+Comprehensive Brazilian state code information, including ISO 3166-2:BR codes (the official 2-letter code abbreviations), IBGE state codes,  and "timelines" of each state creation. Provided as a Simple Data Format Data Package (see [datapackage.json visualization](http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdatasets-br%2Fstate-codes%2Fmaster%2Fdatapackage.json)).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/br-states-map.png)
 
