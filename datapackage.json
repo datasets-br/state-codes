@@ -52,12 +52,12 @@
             "type": "integer"
           },
           {
-            "name": "id-current",
-            "description": "Identifier for current (in use) abbreviations. Current ranges from 1 to maximum 32, historic states are null.",
+            "name": "idShort",
+            "description": "Short ID for current (in use) subdivisions, a base36 digit. Historic (non-current) are null.",
             "type": "integer"
           },
           {
-            "name": "id-IBGE",
+            "name": "idIBGE",
             "description": "IBGE statdandard identifier",
             "semantic-source": "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm",
             "type": "string"
@@ -82,6 +82,21 @@
             "name": "category",
             "description": "Subdivision category (see ISO 3166-2)",
             "type": "string"
+          },
+          {
+            "name": "timeZone",
+            "description": "Time Zone",
+            "type": "string"
+          },
+          {
+            "name": "utcDiff",
+            "description": "UTC difference",
+            "type": "integer"
+          },
+          {
+            "name": "utcDiff_verao",
+            "description": "UTC difference at summer",
+            "type": "integer"
           },
           {
             "name": "notes",
