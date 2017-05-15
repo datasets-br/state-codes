@@ -54,7 +54,8 @@
           {
             "name": "idShort",
             "description": "Short ID for current (in use) subdivisions, a base36 digit. Historic (non-current) are null.",
-            "type": "string"
+            "type": "string",
+            "regex": "^0-9A-Z$"
           },
           {
             "name": "idIBGE",
