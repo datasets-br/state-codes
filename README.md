@@ -4,13 +4,13 @@
 
 Comprehensive Brazilian state code information, including ISO 3166-2:BR codes (the official 2-letter code abbreviations), IBGE state codes,  and "timelines" of each state creation. Provided as a Simple Data Format Data Package (see [datapackage.json visualization](http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdatasets-br%2Fstate-codes%2Fmaster%2Fdatapackage.json)).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/br-states-map.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/br-states-mapTimeline.png)
 
 Strictly, each code designates an *federation unit* ("Unidade da Federação" - UF), that can be a  [state](https://schema.org/State) as usual  country-scale area segmentation, and can be also [capital districts and territories](https://en.wikipedia.org/wiki/Capital_districts_and_territories).
 
-The time-zone conventions are expressed in state-scale, so they are part of this dataset.   
+The time-zone conventions are expressed in state-scale, so they are part of this dataset.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/br-timeZones.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/br-timeZones.png)
 
 ## Collaboration
 
