@@ -5,28 +5,29 @@ AM,Amazonas,3,3,13,amazonas,1889,,State,America/Manaus,-4,-4,
 AP,Amapá,4,4,16,amapa,1943,,State,America/Belem,-3,-3,
 BA,Bahia,5,5,29,bahia,1889,,State,America/Bahia,-3,-3,
 CE,Ceará,6,6,23,ceara,1889,,State,America/Fortaleza,-3,-3,
-DF,Distrito Federal,7,7,53,distrito.federal,1889,,Federal district,America/Sao_Paulo,-3,-2,"use as generic subdiv. since 1975, reference changed in 1960 and 1975"
+DF,Distrito Federal,7,7,53,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
 ES,Espírito Santo,8,8,32,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,
-FN,Fernando de Noronha,9,,,fernando.de.noronha,1943,1946,Territory,,,,"extinct, merged into PE"
+FN,Fernando de Noronha,9,,,fernando.noronha,1943,1946,Territory,,,,"extinct, merged into PE"
 GB,Guanabara,10,,,guanabara,1960,1975,State,,,,"extinct, merged as city into RJ"
 GO,Goiás,11,9,52,goias,1889,,State,America/Sao_Paulo,-3,-2,
 GU,Guaporé,12,,,guapore,1943,1946,Territory,,,,renamed to Rondônia (RO)
+IG,Iguaçu,33,,,iguacu,1943,1946,Territory,,,,"extinct, merged into PR"
 MA,Maranhão,13,A,21,maranhao,1889,,State,America/Fortaleza,-3,-3,
 MG,Minas Gerais,14,B,31,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,
-MS,Mato Grosso do Sul,15,C,50,mato.grosso.do.sul,1977,,State,America/Campo_Grande,-4,-3,
+MS,Mato Grosso do Sul,15,C,50,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,
 MT,Mato Grosso,16,D,51,mato.grosso,1889,,State,America/Cuiaba,-4,-3,
 PA,Pará,17,E,15,para,1889,,State,America/Belem,-3,-3,
 PB,Paraíba,18,F,25,paraiba,1889,,State,America/Fortaleza,-3,-3,
 PE,Pernambuco,19,G,26,pernambuco,1889,,State,America/Recife,-2,-2,
 PI,Piauí,20,H,22,piaui,1889,,State,America/Fortaleza,-3,-3,
-PP,Ponta Porã,21,,,ponta.pora,1943,1946,Territory,,,,extinct
+PP,Ponta Porã,21,,,ponta.pora,1943,1946,Territory,,,,extinct (now rest a city in MS)
 PR,Paraná,22,I,41,parana,1889,,State,America/Sao_Paulo,-3,-2,
 RB,Rio Branco,23,,,rio.branco,1943,1946,State,,,,renamed to Roraima (RR)
-RJ,Rio de Janeiro,24,J,33,rio.de.janeiro,1889,,State,America/Sao_Paulo,-3,-2,
-RN,Rio Grande do Norte,25,K,24,rio.grande.do.norte,1889,,State,America/Fortaleza,-3,-3,
+RJ,Rio de Janeiro,24,J,33,rio.janeiro,1889,,State,America/Sao_Paulo,-3,-2,
+RN,Rio Grande do Norte,25,K,24,rio.grande.norte,1889,,State,America/Fortaleza,-3,-3,
 RO,Rondônia,26,L,11,rondonia,1981,,State,America/Porto_Velho,-4,-4,
 RR,Roraima,27,M,14,roraima,1947,,State,America/Boa_Vista,-4,-4,changed level in 1988
-RS,Rio Grande do Sul,28,N,43,rio.grande.do.sul,1889,,State,America/Sao_Paulo,-3,-2,
+RS,Rio Grande do Sul,28,N,43,rio.grande.sul,1889,,State,America/Sao_Paulo,-3,-2,
 SC,Santa Catarina,29,O,42,santa.catarina,1889,,State,America/Sao_Paulo,-3,-2,
 SE,Sergipe,30,P,28,sergipe,1889,,State,America/Maceio,-3,-3,
 SP,São Paulo,31,Q,35,sao.paulo,1889,,State,America/Sao_Paulo,-3,-2,
