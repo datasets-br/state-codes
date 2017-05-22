@@ -73,13 +73,13 @@
             "name": "creation",
             "description": "State official creation year",
             "rdfType-prop": "http://schema.org/startDate",
-            "type": "integer"
+            "type": "gyear"
           },
           {
             "name": "extinction",
             "description": "State official creation year (null for in use)",
             "rdfType-prop": "http://schema.org/endDate",
-            "type": "integer"
+            "type": "gyear"
           },
           {
             "name": "category",
