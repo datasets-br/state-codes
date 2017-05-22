@@ -1,4 +1,4 @@
-subdivision,name,id,idShort,idIBGE,lexLabel,creation,extinction,category,timeZone,utcDiff,utcDiff_verao,notes
+subdivision,name,id,idShort,idIBGE,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset-DST,notes
 AC,Acre,21,1,12,acre,1904,,State,America/Rio_Branco,-5,-5,
 AL,Alagoas,1,2,27,alagoas,1889,,State,America/Maceio,-3,-3,
 AM,Amazonas,2,3,13,amazonas,1889,,State,America/Manaus,-4,-4,

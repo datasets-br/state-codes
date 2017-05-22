@@ -35,20 +35,20 @@
           {
             "name": "subdivision",
             "description": "State-name 2-letter abbreviation (in portuguese 'sigla da unidade da federação'), ISO 3166:BR",
-            "semantic-class": "https://www.wikidata.org/wiki/Q27798",
+            "rdfType": "https://www.wikidata.org/wiki/Q27798",
             "type": "string",
             "regex": "^[A-Z]{2,2}$"
           },
           {
             "name": "name",
             "description": "Common name of the state, in portuguese",
-            "semantic-class": "http://schema.org/State",
-            "semantic-equiv": "http://schema.org/name",
+            "rdfType": "http://schema.org/State",
+            "rdfType-prop": "http://schema.org/name",
             "type": "string"
           },
           {
             "name": "id",
-            "semantic-equiv": "http://schema.org/identifier",
+            "rdfType-prop": "http://schema.org/identifier",
             "type": "integer"
           },
           {
@@ -60,23 +60,25 @@
           {
             "name": "idIBGE",
             "description": "IBGE statdandard identifier",
-            "semantic-source": "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm",
+            "url": "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm",
             "type": "string"
           },
           {
             "name": "lexLabel",
             "description": "Brazilian's LEX URN syntax translation of the official state name. Used in URLs and other contexts",
-            "description-ref": "http://projeto.lexml.gov.br",
+            "url": "http://projeto.lexml.gov.br",
             "type": "string"
           },
           {
             "name": "creation",
             "description": "State official creation year",
+            "rdfType-prop": "http://schema.org/startDate",
             "type": "integer"
           },
           {
             "name": "extinction",
             "description": "State official creation year (null for in use)",
+            "rdfType-prop": "http://schema.org/endDate",
             "type": "integer"
           },
           {
@@ -86,22 +88,27 @@
           },
           {
             "name": "timeZone",
-            "description": "Time Zone",
+            "description": "Time Zone standard label",
+            "rdfType": "https://www.wikidata.org/wiki/Q12143",
             "type": "string"
           },
           {
-            "name": "utcDiff",
-            "description": "UTC difference",
+            "name": "utcOffset",
+            "description": "UTC offset",
+            "rdfType": "https://www.wikidata.org/wiki/Q187110",
             "type": "integer"
           },
           {
-            "name": "utcDiff_verao",
-            "description": "UTC difference at summer",
+            "name": "utcOffset-DST",
+            "description": "UTC offset at summer (when using Daylight Saving Time - DST)",
+            "rdfType": "https://www.wikidata.org/wiki/Q187110",
+            "rdfType-ref": "https://www.wikidata.org/wiki/Q36669",
             "type": "integer"
           },
           {
             "name": "notes",
             "description": "Notes about assegments, dates or changes",
+            "rdfType-prop": "http://schema.org/commentText",
             "type": "string"
           }
         ]
