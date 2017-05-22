@@ -25,11 +25,51 @@
   },
   "resources": [
     {
+      "name": "ref-applications.csv",
+      "path": "data/ref-applications.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/state-codes/master/data/ref-applications.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "report",
+            "description": "Label of the report describing the project",
+            "type": "string",
+          },
+          {
+            "name": "name",
+            "description": "The title or name of the project",
+            "rdfType-prop": "http://schema.org/name",
+            "type": "string",
+          },
+          {
+            "name": "url",
+            "description": "the URL of the project",
+            "rdfType-prop": "http://schema.org/url",
+            "type": "string",
+          },
+          {
+            "name": "usedColumns",
+            "description": "the used columns of br-state-codes in the project, separating by commas",
+            "type": "string",
+          },
+          {
+            "name": "description",
+            "description": "A synopsis about the use of the dataset in the project",
+            "rdfType-prop": "http://schema.org/about",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
       "name": "br-state-codes",
       "path": "data/country-codes.csv",
       "url": "https://raw.githubusercontent.com/datasets-br/state-codes/master/data/br-state-codes.csv",
       "format": "csv",
       "mediatype": "text/csv",
+      "rdfType": "http://schema.org/State",
       "schema": {
         "fields": [
           {
@@ -42,7 +82,6 @@
           {
             "name": "name",
             "description": "Common name of the state, in portuguese",
-            "rdfType": "http://schema.org/State",
             "rdfType-prop": "http://schema.org/name",
             "type": "string"
           },
