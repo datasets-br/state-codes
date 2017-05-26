@@ -7,13 +7,14 @@
     "url": "https://github.com/datasets-br/state-codes"
   },
   "sources": [{
-    "name": "ISO",
-    "web": "https://www.iso.org/obp/ui/#iso:code:3166:BR"
-  },
-  {
-    "name": "IBGE",
-    "web": "http://www.ibge.gov.br/estadosat"
-  }],
+      "name": "ISO",
+      "web": "https://www.iso.org/obp/ui/#iso:code:3166:BR"
+    },
+    {
+      "name": "IBGE",
+      "web": "http://www.ibge.gov.br/estadosat"
+    }
+  ],
   "keywords": [
     "geodata",
     "state",
@@ -35,24 +36,24 @@
           {
             "name": "report",
             "description": "Label of the report describing the project",
-            "type": "string",
+            "type": "string"
           },
           {
             "name": "name",
             "description": "The title or name of the project",
             "rdfType-prop": "http://schema.org/name",
-            "type": "string",
+            "type": "string"
           },
           {
             "name": "url",
             "description": "the URL of the project",
             "rdfType-prop": "http://schema.org/url",
-            "type": "string",
+            "type": "string"
           },
           {
             "name": "usedColumns",
             "description": "the used columns of br-state-codes in the project, separating by commas",
-            "type": "string",
+            "type": "string"
           },
           {
             "name": "description",
