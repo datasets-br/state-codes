@@ -54,6 +54,11 @@
             "type": "string"
           },
           {
+            "name": "adherence",
+            "description": "Degree of adherence to br-state-codes use",
+            "type": "string"
+          },          
+          {
             "name": "usedColumns",
             "description": "the used columns of br-state-codes in the project, separating by commas",
             "type": "string"
