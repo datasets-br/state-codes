@@ -1,3 +1,3 @@
-report,name,url,usedColumns,description
-lexResolver,"LexML, URN LEX Resolver",http://lexml.gov.br/,"subdivision, lexLabel, creation, extinction","lookup from subdivision to lexLabel, checking [urnAno>=creation and (extinction=null or urnAno<=extiction)]"
-phpStates,Brazanation States,https://github.com/brazanation/php-states,"subdivision, name, idIBGE, timeZone",convert data into PHP code (see src/Console)
+report,name,url,adherence,usedColumns,description
+lexResolver,"LexML, URN LEX Resolver",http://lexml.gov.br/,studing,"subdivision, lexLabel, creation, extinction","lookup from subdivision to lexLabel, checking [urnAno>=creation and (extinction=null or urnAno<=extiction)]"
+phpStates,Brazanation States,https://github.com/brazanation/php-states,explicit,"subdivision, name, idIBGE, timeZone",convert data into PHP code (see src/Console)

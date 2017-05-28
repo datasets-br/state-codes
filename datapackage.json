@@ -31,6 +31,8 @@
       "url": "https://raw.githubusercontent.com/datasets-br/state-codes/master/data/ref-applications.csv",
       "format": "csv",
       "mediatype": "text/csv",
+      "rdfType": "http://schema.org/SoftwareApplication",
+      "title": "Applications using the br-state-codes dataset",
       "schema": {
         "fields": [
           {
@@ -78,64 +80,86 @@
             "description": "State-name 2-letter abbreviation (in portuguese 'sigla da unidade da federação'), ISO 3166:BR",
             "rdfType": "https://www.wikidata.org/wiki/Q27798",
             "type": "string",
+            "title-pt":"Subdivisão (UF)",
+            "title":"Subdivision (Federal Unit)",
             "regex": "^[A-Z]{2,2}$"
           },
           {
             "name": "name",
             "description": "Common name of the state, in portuguese",
             "rdfType-prop": "http://schema.org/name",
+            "title-pt":"Nome",
+            "title":"Name",
             "type": "string"
           },
           {
             "name": "id",
             "rdfType-prop": "http://schema.org/identifier",
+            "title-pt":"ID serial",
+            "title":"Serial ID",
             "type": "integer"
           },
           {
             "name": "idShort",
             "description": "Short ID for current (in use) subdivisions, a base36 digit. Historic (non-current) are null.",
             "type": "string",
+            "title-pt":"ID curto",
+            "title":"Short ID",
             "regex": "^0-9A-Z$"
           },
           {
             "name": "idIBGE",
             "description": "IBGE statdandard identifier",
             "url": "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm",
+            "title-pt":"ID IBGE",
+            "title":"ID of IBGE",
             "type": "string"
           },
           {
             "name": "lexLabel",
             "description": "Brazilian's LEX URN syntax translation of the official state name. Used in URLs and other contexts",
             "url": "http://projeto.lexml.gov.br",
+            "title-pt":"Rótulo para URN-LEX",
+            "title":"Label for URN-LEX",
             "type": "string"
           },
           {
             "name": "creation",
             "description": "State official creation year",
             "rdfType-prop": "http://schema.org/startDate",
+            "title-pt":"Ano de criação",
+            "title":"Creation year",
             "type": "year"
           },
           {
             "name": "extinction",
             "description": "State official creation year (null for in use)",
             "rdfType-prop": "http://schema.org/endDate",
+            "title-pt":"Ano de extinção",
+            "title":"Extinction year",
             "type": "year"
           },
           {
             "name": "category",
             "description": "Subdivision category (see ISO 3166-2)",
+            "title-pt":"Última classificação de nível",
+            "title":"Category",
             "type": "string"
           },
           {
             "name": "timeZone",
             "description": "Time Zone standard label",
             "rdfType": "https://www.wikidata.org/wiki/Q12143",
+            "title-pt":"Fuso horário de referência",
+            "title":"Time Zone (reference city)",
             "type": "string"
           },
           {
             "name": "utcOffset",
             "description": "UTC offset",
             "rdfType": "https://www.wikidata.org/wiki/Q187110",
+            "title-pt":"Diferença com relação ao UTC",
+            "title":"UTC offset",
             "type": "integer"
           },
           {
@@ -143,12 +167,16 @@
             "description": "UTC offset at summer (when using Daylight Saving Time - DST)",
             "rdfType": "https://www.wikidata.org/wiki/Q187110",
             "rdfType-ref": "https://www.wikidata.org/wiki/Q36669",
+            "title-pt":"Diferença no verão",
+            "title":"UTC offset at DST",
             "type": "integer"
           },
           {
             "name": "notes",
             "description": "Notes about assegments, dates or changes",
             "rdfType-prop": "http://schema.org/commentText",
+            "title-pt":"Notas",
+            "title":"Notes",
             "type": "string"
           }
         ]
