@@ -33,6 +33,7 @@
       "mediatype": "text/csv",
       "rdfType": "http://schema.org/SoftwareApplication",
       "title": "Applications using the br-state-codes dataset",
+      "lang": "en",
       "schema": {
         "fields": [
           {
@@ -73,6 +74,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://schema.org/State",
+      "lang": "en",
       "schema": {
         "fields": [
           {
