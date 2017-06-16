@@ -1,4 +1,4 @@
-&nbsp; [[validation](http://goodtables.io/github/datasets-br/state-codes) | [view](http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdatasets-br%2Fstate-codes%2Fmaster%2Fdatapackage.json)]
+&nbsp; [![goodtables.io](https://goodtables.io/badge/github/datasets-br/state-codes.svg)](https://goodtables.io/github/datasets-br/state-codes) &nbsp; [![](https://upload.wikimedia.org/wikipedia/commons/e/eb/PICOL_icon_View.svg) datapackage preview](http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdatasets-br%2Fstate-codes%2Fmaster%2Fdatapackage.json)
 
 # state-codes
 
