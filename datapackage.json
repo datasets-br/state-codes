@@ -104,15 +104,8 @@
             "rdfType-prop": "http://schema.org/identifier",
             "title-pt":"ID serial",
             "title":"Serial ID",
+            "description": "Short ID for subdivisions, starting with 1 (for base36 digit subtract 1). Historic (non-current) starts with 30.",
             "type": "integer"
-          },
-          {
-            "name": "idShort",
-            "description": "Short ID for current (in use) subdivisions, a base36 digit. Historic (non-current) are null.",
-            "type": "string",
-            "title-pt":"ID curto",
-            "title":"Short ID",
-            "regex": "^0-9A-Z$"
           },
           {
             "name": "idIBGE",
