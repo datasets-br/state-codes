@@ -4,7 +4,7 @@
   "description": "Brazilian states 2-letter codes (ISO 3166-2:BR), official 'Unidades da Federação' abbreviations throughout the country's history",
   "repository": {
     "type": "git",
-    "url": "https://github.com/datasets-br/state-codes"
+    "url": "http://datasets.ok.org.br/state-codes"
   },
   "sources": [{
       "name": "ISO",
@@ -13,6 +13,14 @@
     {
       "name": "IBGE",
       "web": "http://www.ibge.gov.br/estadosat"
+    },
+    {
+      "name": "Wikipedia,ISO",
+      "web": "https://en.wikipedia.org/wiki/ISO_3166-2:BR"
+    },
+    {
+      "name": "Wikipedia",
+      "web": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
     }
   ],
   "keywords": [
@@ -51,7 +59,8 @@
             "name": "url",
             "description": "the URL of the project",
             "rdfType-prop": "http://schema.org/url",
-            "type": "string"
+            "type": "string",
+            "format": "uri"
           },
           {
             "name": "adherence",
@@ -104,7 +113,7 @@
             "rdfType-prop": "http://schema.org/identifier",
             "title-pt":"ID serial",
             "title":"Serial ID",
-            "description": "Short ID for subdivisions, starting with 1 (for base36 digit subtract 1). Historic (non-current) starts with 30.",
+            "description": "Short serial ID for subdivisions, starting from 1 (for base36 subtract 1). Historic (non-current) starting from 30.",
             "type": "integer"
           },
           {
@@ -113,6 +122,22 @@
             "url": "http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm",
             "title-pt":"ID IBGE",
             "title":"ID of IBGE",
+            "type": "string"
+          },
+          {
+            "name": "place_id",
+            "description": "Openstreetmap polygn identifier",
+            "urlTpl": "http://nominatim.openstreetmap.org/details.php?place_id={value}",
+            "title-pt":"ID Openstreetmap",
+            "title":"Openstreetmap ID",
+            "type": "integer"
+          },
+          {
+            "name": "wdId",
+            "description": "Wikidata concept (semantic) identifier",
+            "urlTpl": "https://www.wikidata.org/wiki/{value}",
+            "title-pt":"ID Wikidata",
+            "title":"Wikidata ID",
             "type": "string"
           },
           {

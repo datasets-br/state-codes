@@ -1,34 +1,34 @@
-subdivision,name,id,idIBGE,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset-DST,notes
-AC,Acre,1,12,acre,1904,,State,America/Rio_Branco,-5,-5,
-AL,Alagoas,2,27,alagoas,1889,,State,America/Maceio,-3,-3,
-AM,Amazonas,3,13,amazonas,1889,,State,America/Manaus,-4,-4,
-AP,Amapá,4,16,amapa,1943,,State,America/Belem,-3,-3,
-BA,Bahia,5,29,bahia,1889,,State,America/Bahia,-3,-3,
-CE,Ceará,6,23,ceara,1889,,State,America/Fortaleza,-3,-3,
-DF,Distrito Federal,7,53,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
-ES,Espírito Santo,8,32,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,
-GO,Goiás,9,52,goias,1889,,State,America/Sao_Paulo,-3,-2,
-MA,Maranhão,10,21,maranhao,1889,,State,America/Fortaleza,-3,-3,
-MG,Minas Gerais,11,31,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,
-MS,Mato Grosso do Sul,12,50,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,
-MT,Mato Grosso,13,51,mato.grosso,1889,,State,America/Cuiaba,-4,-3,
-PA,Pará,14,15,para,1889,,State,America/Belem,-3,-3,
-PB,Paraíba,15,25,paraiba,1889,,State,America/Fortaleza,-3,-3,
-PE,Pernambuco,16,26,pernambuco,1889,,State,America/Recife,-2,-2,
-PI,Piauí,17,22,piaui,1889,,State,America/Fortaleza,-3,-3,
-PR,Paraná,18,41,parana,1889,,State,America/Sao_Paulo,-3,-2,
-RJ,Rio de Janeiro,19,33,rio.janeiro,1889,,State,America/Sao_Paulo,-3,-2,
-RN,Rio Grande do Norte,20,24,rio.grande.norte,1889,,State,America/Fortaleza,-3,-3,
-RO,Rondônia,21,11,rondonia,1981,,State,America/Porto_Velho,-4,-4,
-RR,Roraima,22,14,roraima,1947,,State,America/Boa_Vista,-4,-4,changed level in 1988
-RS,Rio Grande do Sul,23,43,rio.grande.sul,1889,,State,America/Sao_Paulo,-3,-2,
-SC,Santa Catarina,24,42,santa.catarina,1889,,State,America/Sao_Paulo,-3,-2,
-SE,Sergipe,25,28,sergipe,1889,,State,America/Maceio,-3,-3,
-SP,São Paulo,26,35,sao.paulo,1889,,State,America/Sao_Paulo,-3,-2,
-TO,Tocantins,27,17,tocantins,1988,,State,America/Araguaina,-3,-2,
-FN,Fernando de Noronha,30,,fernando.noronha,1943,1946,Territory,,,,"extinct, merged into PE"
-GB,Guanabara,31,,guanabara,1960,1975,State,,,,"extinct, merged as city into RJ"
-GU,Guaporé,32,,guapore,1943,1946,Territory,,,,renamed to Rondônia (RO)
-IG,Iguaçu,33,,iguacu,1943,1946,Territory,,,,"extinct, merged into PR"
-PP,Ponta Porã,34,,ponta.pora,1943,1946,Territory,,,,extinct (now rest a city in MS)
-RB,Rio Branco,35,,rio.branco,1943,1946,State,,,,renamed to Roraima (RR)
+subdivision,name,id,idIBGE,place_id,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset-DST,notes
+AC,Acre,1,12,172016897,Q40780,acre,1904,,State,America/Rio_Branco,-5,-5,
+AL,Alagoas,2,27,171743175,Q40040,alagoas,1889,,State,America/Maceio,-3,-3,
+AM,Amazonas,3,13,172020703,Q40886,amazonas,1889,,State,America/Manaus,-4,-4,
+AP,Amapá,4,16,171316301,Q40130,amapa,1943,,State,America/Belem,-3,-3,
+BA,Bahia,5,29,173499343,Q40430,bahia,1889,,State,America/Bahia,-3,-3,
+CE,Ceará,6,23,172357564,Q40123,ceara,1889,,State,America/Fortaleza,-3,-3,
+DF,Distrito Federal,7,53,173597936,Q119158,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
+ES,Espírito Santo,8,32,172747326,Q43233,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,
+GO,Goiás,9,52,173473933,Q175057,goias,1889,,State,America/Sao_Paulo,-3,-2,
+MA,Maranhão,10,21,172329623,Q1155409,maranhao,1889,,State,America/Fortaleza,-3,-3,
+MG,Minas Gerais,11,31,171309580,Q41587,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,
+MS,Mato Grosso do Sul,12,50,,,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,
+MT,Mato Grosso,13,51,,,mato.grosso,1889,,State,America/Cuiaba,-4,-3,
+PA,Pará,14,15,,,para,1889,,State,America/Belem,-3,-3,
+PB,Paraíba,15,25,,,paraiba,1889,,State,America/Fortaleza,-3,-3,
+PE,Pernambuco,16,26,,,pernambuco,1889,,State,America/Recife,-2,-2,
+PI,Piauí,17,22,,,piaui,1889,,State,America/Fortaleza,-3,-3,
+PR,Paraná,18,41,,,parana,1889,,State,America/Sao_Paulo,-3,-2,
+RJ,Rio de Janeiro,19,33,,,rio.janeiro,1889,,State,America/Sao_Paulo,-3,-2,
+RN,Rio Grande do Norte,20,24,,,rio.grande.norte,1889,,State,America/Fortaleza,-3,-3,
+RO,Rondônia,21,11,,,rondonia,1981,,State,America/Porto_Velho,-4,-4,
+RR,Roraima,22,14,,,roraima,1947,,State,America/Boa_Vista,-4,-4,changed level in 1988
+RS,Rio Grande do Sul,23,43,,,rio.grande.sul,1889,,State,America/Sao_Paulo,-3,-2,
+SC,Santa Catarina,24,42,,,santa.catarina,1889,,State,America/Sao_Paulo,-3,-2,
+SE,Sergipe,25,28,,,sergipe,1889,,State,America/Maceio,-3,-3,
+SP,São Paulo,26,35,,,sao.paulo,1889,,State,America/Sao_Paulo,-3,-2,
+TO,Tocantins,27,17,,,tocantins,1988,,State,America/Araguaina,-3,-2,
+FN,Fernando de Noronha,30,,,,fernando.noronha,1943,1946,Territory,,,,"extinct, merged into PE"
+GB,Guanabara,31,,,,guanabara,1960,1975,State,,,,"extinct, merged as city into RJ"
+GU,Guaporé,32,,,,guapore,1943,1946,Territory,,,,renamed to Rondônia (RO)
+IG,Iguaçu,33,,,,iguacu,1943,1946,Territory,,,,"extinct, merged into PR"
+PP,Ponta Porã,34,,,,ponta.pora,1943,1946,Territory,,,,extinct (now rest a city in MS)
+RB,Rio Branco,35,,,,rio.branco,1943,1946,State,,,,renamed to Roraima (RR)
