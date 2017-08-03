@@ -33,3 +33,11 @@ CREATE FOREIGN TABLE tmpcsv_state_codes (
        format 'csv', 
        header 'true'
 );
+
+CREATE VIEW tmpcsv_state_codes_current AS
+  SELECT * 
+  FROM tmpcsv_state_codes
+  WHERE extinction IS NULL
+  ORDER BY subdivision
+;
+  
