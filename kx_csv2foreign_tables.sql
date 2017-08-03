@@ -6,7 +6,8 @@
 -- 2. git clone https://github.com/datasets-br/state-codes.git
 -- 3. PGPASSWORD=postgres psql -h localhost -U postgres obsjats < /tmp/state-codes/csv2foreign_tables.sql
 -- 4. ... populate your database using the tables tmpcsv_* defined below...
--- 
+-- 5. (opcional) DROP SERVER csv_files CASCADE;
+--
 
 
 CREATE EXTENSION file_fdw;
