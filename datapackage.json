@@ -7,18 +7,22 @@
     "url": "http://datasets.ok.org.br/state-codes"
   },
   "sources": [{
+      "title": "Codes for the representation of names of countries and their subdivisions, Brazil",
       "name": "ISO",
       "web": "https://www.iso.org/obp/ui/#iso:code:3166:BR"
     },
     {
+      "title": "CONHEÇA CIDADES E ESTADOS DO BRASIL",
       "name": "IBGE",
-      "web": "http://www.ibge.gov.br/estadosat"
+      "web": "https://cidades.ibge.gov.br/v4"
     },
     {
+      "title": "ISO 3166-2:BR -- Wikipedia",
       "name": "Wikipedia,ISO",
       "web": "https://en.wikipedia.org/wiki/ISO_3166-2:BR"
     },
     {
+      "title": "Unidades federativas do Brasil -- Wikipedia",
       "name": "Wikipedia",
       "web": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil"
     }
