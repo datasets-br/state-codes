@@ -105,6 +105,14 @@
             "regex": "^[A-Z]{2,2}$"
           },
           {
+            "name": "name_prefix",
+            "description": "Name prefix, in portuguese",
+            "rdfType-prop": "http://schema.org/name",
+            "title-pt":"Prefixo",
+            "title":"Prefix",
+            "type": "string"
+          },
+          {
             "name": "name",
             "description": "Common name of the state, in portuguese",
             "rdfType-prop": "http://schema.org/name",
