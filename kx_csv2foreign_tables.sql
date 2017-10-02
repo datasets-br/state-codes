@@ -10,12 +10,12 @@
 --
 
 
-CREATE EXTENSION file_fdw;
+CREATE EXTENSION IF NOT EXISTS file_fdw;
 CREATE SERVER csv_files FOREIGN DATA WRAPPER file_fdw;
-
 
 CREATE FOREIGN TABLE tmpcsv_state_codes (
 	subdivision text,
+	name_prefix text,
 	name text,
 	id int,
 	idIBGE int,
@@ -28,6 +28,7 @@ CREATE FOREIGN TABLE tmpcsv_state_codes (
 	timeZone text,
 	utcOffset int,
 	utcOffset_DST int,
+	postalCode_ranges text,
 	notes text
 )   SERVER csv_files OPTIONS ( 
      filename '/tmp/state-codes/data/br-state-codes.csv', 
