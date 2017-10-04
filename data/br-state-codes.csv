@@ -1,4 +1,4 @@
-subdivision,name_prefix,name,id,idIBGE,place_id,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset-DST,postalCode_ranges,notes
+subdivision,name_prefix,name,id,idIBGE,place_id,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset_DST,postalCode_range,notes
 AC,Estado do,Acre,1,12,172016897,Q40780,acre,1904,,State,America/Rio_Branco,-5,-5,[69900-000 69999-999],
 AL,Estado de,Alagoas,2,27,171743175,Q40040,alagoas,1889,,State,America/Maceio,-3,-3,[57000-000 57999-999],
 AM,Estado do,Amazonas,3,13,172020703,Q40886,amazonas,1889,,State,America/Manaus,-4,-4,[69000-000 69299-999]; [69400-000 69899-999],

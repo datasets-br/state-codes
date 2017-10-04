@@ -87,8 +87,7 @@
     },
     {
       "name": "br-state-codes",
-      "path": "data/country-codes.csv",
-      "url": "https://raw.githubusercontent.com/datasets-br/state-codes/master/data/br-state-codes.csv",
+      "path": "data/br-state-codes.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://schema.org/State",
@@ -200,7 +199,7 @@
             "type": "integer"
           },
           {
-            "name": "utcOffset-DST",
+            "name": "utcOffset_DST",
             "description": "UTC offset at summer (when using Daylight Saving Time - DST)",
             "rdfType": "https://www.wikidata.org/wiki/Q187110",
             "rdfType-ref": "https://www.wikidata.org/wiki/Q36669",
