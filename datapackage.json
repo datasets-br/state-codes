@@ -70,7 +70,7 @@
             "name": "adherence",
             "description": "Degree of adherence to br-state-codes use",
             "type": "string"
-          },          
+          },
           {
             "name": "usedColumns",
             "description": "the used columns of br-state-codes in the project, separating by commas",
@@ -134,14 +134,6 @@
             "title-pt":"ID IBGE",
             "title":"ID of IBGE",
             "type": "string"
-          },
-          {
-            "name": "place_id",
-            "description": "Openstreetmap polygn identifier",
-            "urlTpl": "http://nominatim.openstreetmap.org/details.php?place_id={value}",
-            "title-pt":"ID Openstreetmap",
-            "title":"Openstreetmap ID",
-            "type": "integer"
           },
           {
             "name": "wdId",
@@ -208,7 +200,7 @@
             "type": "integer"
           },
           {
-            "name": "postalCode_range",
+            "name": "postalCode_ranges",
             "description": "Numeric ranges of postal codes",
             "rdfType-ref": "https://schema.org/postalCode",
             "title-pt":"Intervalos de CEP",
