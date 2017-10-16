@@ -21,7 +21,7 @@ See also [ISO 3166-2:BR at Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:B
 
 ## Preparation
 
-Download the spreadsheet as CSV, and update *git* with it. When editing *datapackage*, test `python -m json.tool < datapackage.json` before commit.
+Download the spreadsheet as CSV, and update *git* with it. When editing *datapackage*, test `goodtables datapackage.json` and `git diff` before commit. 
 
 ## See also
 
