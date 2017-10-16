@@ -22,3 +22,9 @@ See also [ISO 3166-2:BR at Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:B
 ## Preparation
 
 Download the spreadsheet as CSV, and update *git* with it. When editing *datapackage*, test `python -m json.tool < datapackage.json` before commit.
+
+## See also
+
+* [the Wiki of this project](https://github.com/datasets-br/state-codes/wiki)
+* [city-codes](http://datasets.OK.org.br/city-codes)
+
