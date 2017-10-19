@@ -27,4 +27,4 @@ Download the spreadsheet as CSV, and update *git* with it. When editing *datapac
 
 * [the Wiki of this project](https://github.com/datasets-br/state-codes/wiki)
 * [city-codes](http://datasets.OK.org.br/city-codes)
-
+* All dataset ecosystem into one SQL schema: use this dataset with [try-sql-datasets](https://github.com/datasets-br/try-sql-datasets).
