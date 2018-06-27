@@ -1,0 +1,590 @@
+{
+    "pageid": 43107,
+    "ns": 0,
+    "type": "item",
+    "id": "Q40780",
+    "claims": {
+        "P242": [
+            {
+                "value": "Acre in Brazil.svg",
+                "type": "string"
+            }
+        ],
+        "P163": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2976242,
+                    "id": "Q2976242"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P237": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 15303063,
+                    "id": "Q15303063"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do Acre.svg",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Acre (state)",
+                "type": "string"
+            }
+        ],
+        "P36": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 171612,
+                    "id": "Q171612"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P300": [
+            {
+                "value": "BR-AC",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Trevo BR-364.2.jpg",
+                "type": "string"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P150": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754403,
+                    "id": "Q1754403"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 899406,
+                    "id": "Q899406"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1755395,
+                    "id": "Q1755395"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1012531,
+                    "id": "Q1012531"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 953086,
+                    "id": "Q953086"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754408,
+                    "id": "Q1754408"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1800737,
+                    "id": "Q1800737"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 964075,
+                    "id": "Q964075"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772602,
+                    "id": "Q1772602"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 171612,
+                    "id": "Q171612"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 771763,
+                    "id": "Q771763"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772688,
+                    "id": "Q1772688"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772719,
+                    "id": "Q1772719"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754389,
+                    "id": "Q1754389"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 941136,
+                    "id": "Q941136"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772621,
+                    "id": "Q1772621"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772613,
+                    "id": "Q1772613"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772588,
+                    "id": "Q1772588"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1800776,
+                    "id": "Q1800776"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1994833,
+                    "id": "Q1994833"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1800793,
+                    "id": "Q1800793"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 979910,
+                    "id": "Q979910"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -9.11,
+                    "longitude": -70.52,
+                    "altitude": null,
+                    "precision": 0.01,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            },
+            {
+                "value": {
+                    "latitude": -9,
+                    "longitude": -70,
+                    "altitude": null,
+                    "precision": 1,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.ac.gov.br",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8220288,
+                    "id": "Q8220288"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5390,
+                    "id": "Q5390"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P998": [
+            {
+                "value": "Regional/South_America/Brazil/States/Acre/",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão do Acre.svg",
+                "type": "string"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 485258,
+                    "id": "Q485258"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/01hdgz",
+                "type": "string"
+            }
+        ],
+        "P901": [
+            {
+                "value": "BR01",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "3665474",
+                "type": "string"
+            }
+        ],
+        "P935": [
+            {
+                "value": "Acre (state)",
+                "type": "string"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0000600",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40040,
+                    "id": "Q40040"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43235,
+                    "id": "Q43235"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 235362,
+                    "id": "Q235362"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 210896,
+                    "id": "Q210896"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 207424,
+                    "id": "Q207424"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 200938,
+                    "id": "Q200938"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2633": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10288888,
+                    "id": "Q10288888"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+152581.0",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1962-06-15T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P1365": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 27495564,
+                    "id": "Q27495564"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P948": [
+            {
+                "value": "WV banner Acre Brazil Highway.jpg",
+                "type": "string"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+758786",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 47520037,
+                    "id": "Q47520037"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P6": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 212394,
+                    "id": "Q212394"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1464": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9229562,
+                    "id": "Q9229562"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1465": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9221468,
+                    "id": "Q9221468"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8725500,
+                    "id": "Q8725500"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "326266",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+234",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16142333,
+                    "id": "Q16142333"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 22074343,
+                    "id": "Q22074343"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2184": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10297572,
+                    "id": "Q10297572"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P208": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53738379,
+                    "id": "Q53738379"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1001822",
+                "type": "string"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Acre-state-Brazil",
+                "type": "string"
+            }
+        ]
+    }
+}

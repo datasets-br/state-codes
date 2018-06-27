@@ -1,0 +1,219 @@
+{
+    "pageid": 43199,
+    "ns": 0,
+    "type": "item",
+    "id": "Q40886",
+    "claims": {
+        "P373": [
+            {
+                "value": "Garein",
+                "type": "string"
+            }
+        ],
+        "P374": [
+            {
+                "value": "40105",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 142,
+                    "id": "Q142"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 666091,
+                    "id": "Q666091"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 12563,
+                    "id": "Q12563"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 571456,
+                    "id": "Q571456"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": 44.046666666667,
+                    "longitude": -0.65166666666667,
+                    "altitude": null,
+                    "precision": 0.00027777777777778,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 484170,
+                    "id": "Q484170"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/03nvww6",
+                "type": "string"
+            }
+        ],
+        "P1566": [
+            {
+                "value": "6433821",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Garein église 1.JPG",
+                "type": "string"
+            }
+        ],
+        "P268": [
+            {
+                "value": "152590472",
+                "type": "string"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.floraliesdegarein.fr",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+57.1",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P281": [
+            {
+                "value": "40420",
+                "type": "string"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Map commune FR insee code 40105.png",
+                "type": "string"
+            }
+        ],
+        "P47": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2433343,
+                    "id": "Q2433343"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2529563,
+                    "id": "Q2529563"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2279921,
+                    "id": "Q2279921"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1068046,
+                    "id": "Q1068046"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2392680,
+                    "id": "Q2392680"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 31201,
+                    "id": "Q31201"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+442",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            },
+            {
+                "value": {
+                    "amount": "+437",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6655,
+                    "id": "Q6655"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6723,
+                    "id": "Q6723"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1616": [
+            {
+                "value": "214001059",
+                "type": "string"
+            }
+        ]
+    }
+}

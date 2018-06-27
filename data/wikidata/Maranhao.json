@@ -1,0 +1,142 @@
+{
+    "pageid": 1101730,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1155409",
+    "claims": {
+        "P41": [
+            {
+                "value": "Bandeira do Estado da Guanabara.png",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Escudo Rio de Janeiro.gif",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -22.9,
+                    "longitude": -43.18333333,
+                    "altitude": null,
+                    "precision": 0.016666666666667,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04l2z6",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16804930,
+                    "id": "Q16804930"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 20617590,
+                    "id": "Q20617590"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P227": [
+            {
+                "value": "4764095-9",
+                "type": "string"
+            }
+        ],
+        "P214": [
+            {
+                "value": "148922183",
+                "type": "string"
+            }
+        ],
+        "P244": [
+            {
+                "value": "n80083595",
+                "type": "string"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1356",
+                    "unit": "http://www.wikidata.org/entity/Q712226",
+                    "upperBound": "+1356",
+                    "lowerBound": "+1356"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1960-04-14T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P576": [
+            {
+                "value": {
+                    "time": "+1975-03-15T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P36": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8678,
+                    "id": "Q8678"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1082": [
+            {
+                "value": {
+                    "amount": "+4394000",
+                    "unit": "1"
+                },
+                "type": "quantity"
+            }
+        ]
+    }
+}
