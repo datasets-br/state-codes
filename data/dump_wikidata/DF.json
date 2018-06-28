@@ -383,6 +383,12 @@
                 },
                 "type": "wikibase-entityid"
             }
+        ],
+        "P402": [
+            {
+                "value": "421151",
+                "type": "string"
+            }
         ]
     }
 }

@@ -8,7 +8,7 @@ CE,Estado do,Ceará,6,23,Q40123,ceara,1889,,State,America/Fortaleza,-3,-3,[60000
 DF,,Distrito Federal,7,53,Q119158,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,[73000-000 73699-999]; [70000-000 72799-999],"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
 ES,Estado do,Espírito Santo,8,32,Q43233,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,[29000-000 29999-999],
 GO,Estado de,Goiás,9,52,Q41587,goias,1889,,State,America/Sao_Paulo,-3,-2,[72800-000 72999-999]; [73700-000 76799-999],
-MA,Estado do,Maranhão,10,21,Q1155409,maranhao,1889,,State,America/Fortaleza,-3,-3,[65000-000 65999-999],
+MA,Estado do,Maranhão,10,21,Q42362,maranhao,1889,,State,America/Fortaleza,-3,-3,[65000-000 65999-999],
 MG,Estado de,Minas Gerais,11,31,Q39109,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,[30000-000 39999-999],
 MS,Estado do,Mato Grosso do Sul,12,50,Q43319,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,[79000-000 79999-999],
 MT,Estado do,Mato Grosso,13,51,Q42824,mato.grosso,1889,,State,America/Cuiaba,-4,-3,[78000-000 78899-999],
