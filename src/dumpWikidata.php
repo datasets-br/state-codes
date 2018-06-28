@@ -6,7 +6,7 @@
 // CONFIGS
   $urlWd_tpl = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=';
   $urlOsm_tpl = 'http://polygons.openstreetmap.fr/get_geojson.py?id=';
-  $UF=''; $localCsv = false;  $stopAt=0;
+  $UF=''; $localCsv = true;  $stopAt=0;
 
 $saveFolder = realpath( dirname(__FILE__)."/../data" );
 $url = $localCsv

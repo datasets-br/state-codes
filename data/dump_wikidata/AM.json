@@ -1,53 +1,589 @@
 {
-    "pageid": 43199,
+    "pageid": 42397,
     "ns": 0,
     "type": "item",
-    "id": "Q40886",
+    "id": "Q40040",
     "claims": {
-        "P373": [
+        "P1465": [
             {
-                "value": "Garein",
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9221469,
+                    "id": "Q9221469"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P242": [
+            {
+                "value": "Amazonas in Brazil.svg",
                 "type": "string"
             }
         ],
-        "P374": [
+        "P948": [
             {
-                "value": "40105",
+                "value": "Amazonas banner.jpg",
                 "type": "string"
+            }
+        ],
+        "P163": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2308548,
+                    "id": "Q2308548"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P17": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 142,
-                    "id": "Q142"
+                    "numeric-id": 155,
+                    "id": "Q155"
                 },
                 "type": "wikibase-entityid"
+            }
+        ],
+        "P41": [
+            {
+                "value": "Bandeira do Amazonas.svg",
+                "type": "string"
+            }
+        ],
+        "P94": [
+            {
+                "value": "Brasão do Amazonas.svg",
+                "type": "string"
+            }
+        ],
+        "P36": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40236,
+                    "id": "Q40236"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Amazonas (Brazilian state)",
+                "type": "string"
+            }
+        ],
+        "P300": [
+            {
+                "value": "BR-AM",
+                "type": "string"
             }
         ],
         "P131": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 666091,
-                    "id": "Q666091"
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P150": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 974915,
+                    "id": "Q974915"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 12563,
-                    "id": "Q12563"
+                    "numeric-id": 931090,
+                    "id": "Q931090"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 571456,
-                    "id": "Q571456"
+                    "numeric-id": 584172,
+                    "id": "Q584172"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 945469,
+                    "id": "Q945469"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 645204,
+                    "id": "Q645204"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1762074,
+                    "id": "Q1762074"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750426,
+                    "id": "Q1750426"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808448,
+                    "id": "Q1808448"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772535,
+                    "id": "Q1772535"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2089673,
+                    "id": "Q2089673"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793833,
+                    "id": "Q1793833"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772695,
+                    "id": "Q1772695"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1751325,
+                    "id": "Q1751325"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1807045,
+                    "id": "Q1807045"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1761947,
+                    "id": "Q1761947"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 983526,
+                    "id": "Q983526"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1807976,
+                    "id": "Q1807976"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 40236,
+                    "id": "Q40236"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772565,
+                    "id": "Q1772565"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 940548,
+                    "id": "Q940548"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808581,
+                    "id": "Q1808581"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793306,
+                    "id": "Q1793306"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 926713,
+                    "id": "Q926713"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793440,
+                    "id": "Q1793440"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1816370,
+                    "id": "Q1816370"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 655097,
+                    "id": "Q655097"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793560,
+                    "id": "Q1793560"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808573,
+                    "id": "Q1808573"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 975545,
+                    "id": "Q975545"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 517607,
+                    "id": "Q517607"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1757955,
+                    "id": "Q1757955"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1763270,
+                    "id": "Q1763270"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 807939,
+                    "id": "Q807939"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750332,
+                    "id": "Q1750332"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1754543,
+                    "id": "Q1754543"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 694840,
+                    "id": "Q694840"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1772609,
+                    "id": "Q1772609"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793319,
+                    "id": "Q1793319"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1767926,
+                    "id": "Q1767926"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793768,
+                    "id": "Q1793768"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 684641,
+                    "id": "Q684641"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 970224,
+                    "id": "Q970224"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794983,
+                    "id": "Q1794983"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750030,
+                    "id": "Q1750030"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793355,
+                    "id": "Q1793355"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794236,
+                    "id": "Q1794236"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1646910,
+                    "id": "Q1646910"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1750090,
+                    "id": "Q1750090"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1808440,
+                    "id": "Q1808440"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794374,
+                    "id": "Q1794374"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1102558,
+                    "id": "Q1102558"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1008285,
+                    "id": "Q1008285"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793334,
+                    "id": "Q1793334"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793494,
+                    "id": "Q1793494"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1112525,
+                    "id": "Q1112525"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2089660,
+                    "id": "Q2089660"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1025760,
+                    "id": "Q1025760"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 43490,
+                    "id": "Q43490"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1793549,
+                    "id": "Q1793549"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1807050,
+                    "id": "Q1807050"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 386631,
+                    "id": "Q386631"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 1794336,
+                    "id": "Q1794336"
                 },
                 "type": "wikibase-entityid"
             }
@@ -55,73 +591,141 @@
         "P625": [
             {
                 "value": {
-                    "latitude": 44.046666666667,
-                    "longitude": -0.65166666666667,
+                    "latitude": -5,
+                    "longitude": -63,
                     "altitude": null,
-                    "precision": 0.00027777777777778,
+                    "precision": 1,
                     "globe": "http://www.wikidata.org/entity/Q2"
                 },
                 "type": "globecoordinate"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8237726,
+                    "id": "Q8237726"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P856": [
+            {
+                "value": "http://www.amazonas.am.gov.br/",
+                "type": "string"
+            }
+        ],
+        "P421": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5762,
+                    "id": "Q5762"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5390,
+                    "id": "Q5390"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P998": [
+            {
+                "value": "Regional/South_America/Brazil/States/Amazonas/",
+                "type": "string"
             }
         ],
         "P31": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 484170,
-                    "id": "Q484170"
+                    "numeric-id": 485258,
+                    "id": "Q485258"
                 },
                 "type": "wikibase-entityid"
             }
         ],
         "P646": [
             {
-                "value": "/m/03nvww6",
+                "value": "/m/01hdky",
                 "type": "string"
+            }
+        ],
+        "P901": [
+            {
+                "value": "BR04",
+                "type": "string"
+            }
+        ],
+        "P571": [
+            {
+                "value": {
+                    "time": "+1889-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 9,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+            }
+        ],
+        "P237": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9666043,
+                    "id": "Q9666043"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P1566": [
             {
-                "value": "6433821",
+                "value": "3665361",
                 "type": "string"
             }
         ],
-        "P18": [
+        "P1464": [
             {
-                "value": "Garein église 1.JPG",
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18667487,
+                    "id": "Q18667487"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P982": [
+            {
+                "value": "76ae6091-874d-41c7-835e-af474f59aded",
+                "type": "string"
+            }
+        ],
+        "P1792": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9408454,
+                    "id": "Q9408454"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1296": [
+            {
+                "value": "0003373",
                 "type": "string"
             }
         ],
         "P268": [
             {
-                "value": "152590472",
-                "type": "string"
-            }
-        ],
-        "P856": [
-            {
-                "value": "http://www.floraliesdegarein.fr",
-                "type": "string"
-            }
-        ],
-        "P2046": [
-            {
-                "value": {
-                    "amount": "+57.1",
-                    "unit": "http://www.wikidata.org/entity/Q712226"
-                },
-                "type": "quantity"
-            }
-        ],
-        "P281": [
-            {
-                "value": "40420",
-                "type": "string"
-            }
-        ],
-        "P242": [
-            {
-                "value": "Map commune FR insee code 40105.png",
+                "value": "11978558x",
                 "type": "string"
             }
         ],
@@ -129,89 +733,332 @@
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 2433343,
-                    "id": "Q2433343"
+                    "numeric-id": 42508,
+                    "id": "Q42508"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 2529563,
-                    "id": "Q2529563"
+                    "numeric-id": 39517,
+                    "id": "Q39517"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 2279921,
-                    "id": "Q2279921"
+                    "numeric-id": 42824,
+                    "id": "Q42824"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 1068046,
-                    "id": "Q1068046"
+                    "numeric-id": 43235,
+                    "id": "Q43235"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 2392680,
-                    "id": "Q2392680"
+                    "numeric-id": 40780,
+                    "id": "Q40780"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 31201,
-                    "id": "Q31201"
+                    "numeric-id": 200938,
+                    "id": "Q200938"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 44724,
+                    "id": "Q44724"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 234505,
+                    "id": "Q234505"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 238645,
+                    "id": "Q238645"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 170453,
+                    "id": "Q170453"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1343": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2657718,
+                    "id": "Q2657718"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 2041543,
+                    "id": "Q2041543"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 455,
+                    "id": "Q455"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1740": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 20931054,
+                    "id": "Q20931054"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2633": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10288890,
+                    "id": "Q10288890"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P122": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 485258,
+                    "id": "Q485258"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P473": [
+            {
+                "value": "92",
+                "type": "string"
+            },
+            {
+                "value": "97",
+                "type": "string"
+            }
+        ],
+        "P1365": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 4740881,
+                    "id": "Q4740881"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1559159",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
             }
         ],
         "P1082": [
             {
                 "value": {
-                    "amount": "+442",
+                    "amount": "+4001667",
                     "unit": "1"
                 },
                 "type": "quantity"
             },
             {
                 "value": {
-                    "amount": "+437",
+                    "amount": "+4063614",
                     "unit": "1"
                 },
                 "type": "quantity"
             }
         ],
-        "P421": [
+        "P1705": [
+            {
+                "value": {
+                    "text": "Estado do Amazonas",
+                    "language": "pt-br"
+                },
+                "type": "monolingualtext"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "AmazonES",
+                "type": "string"
+            }
+        ],
+        "P18": [
+            {
+                "value": "Lago Jefferson Peres em Manaus.jpg",
+                "type": "string"
+            }
+        ],
+        "P2044": [
+            {
+                "value": {
+                    "amount": "+70",
+                    "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P6": [
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 6655,
-                    "id": "Q6655"
+                    "numeric-id": 10264374,
+                    "id": "Q10264374"
                 },
                 "type": "wikibase-entityid"
             },
             {
                 "value": {
                     "entity-type": "item",
-                    "numeric-id": 6723,
-                    "id": "Q6723"
+                    "numeric-id": 10310117,
+                    "id": "Q10310117"
+                },
+                "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 111507,
+                    "id": "Q111507"
                 },
                 "type": "wikibase-entityid"
             }
         ],
-        "P1616": [
+        "P4427": [
             {
-                "value": "214001059",
+                "value": "19297",
+                "type": "string"
+            }
+        ],
+        "P610": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 739484,
+                    "id": "Q739484"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P402": [
+            {
+                "value": "332476",
+                "type": "string"
+            }
+        ],
+        "P361": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 478465,
+                    "id": "Q478465"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P194": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6518202,
+                    "id": "Q6518202"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2184": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10297575,
+                    "id": "Q10297575"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3783,
+                    "id": "Q3783"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1417": [
+            {
+                "value": "place/Amazonas-state-Brazil",
+                "type": "string"
+            }
+        ],
+        "P1313": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53739362,
+                    "id": "Q53739362"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P208": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 53738351,
+                    "id": "Q53738351"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1667": [
+            {
+                "value": "1001826",
                 "type": "string"
             }
         ]
