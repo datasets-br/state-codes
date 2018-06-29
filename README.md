@@ -2,7 +2,11 @@
 
 # state-codes
 
-Comprehensive Brazilian state code information, including ISO 3166-2:BR codes (the official 2-letter code abbreviations), IBGE state codes,  and "timelines" of each state creation. Provided as a Simple Data Format Data Package.
+Comprehensive Brazilian state codes information, including ISO 3166-2:BR codes (the official 2-letter code abbreviations), IBGE state codes,  and "timelines" of each state creation. Provided as a Simple Data Format Data Package.
+
+Use [**the last release as the most reliable**](https://github.com/datasets-br/state-codes/releases).
+
+All standard state-codes are at [`br-state-codes.csv`](data/br-state-codes.csv) (described by [`datapackage.json`](datapackage.json)), as "one stop" reliable sourse, and as curated reference to the [digital preservation](https://en.wikipedia.org/wiki/Digital_preservation) of datasets from Wikidata (semantic at [`data/dump_wikidata`](data/dump_wikidata)) and OpenStreetMap (spatial at [`data/dump_osm`](data/dump_osm)), as JSON [dataset **dumps**](https://en.wikipedia.org/wiki/Database_dump).
 
 ![](assets/br-states-mapTimeline.png)
 
@@ -14,16 +18,45 @@ The time-zone conventions are expressed in state-scale, so they are part of this
 
 ## Collaboration
 
-Please check [`br-state-codes.csv`](data/br-state-codes.csv) for addictions or corrections, editing first at **[this public spreadsheet](https://docs.google.com/spreadsheets/d/1lwuHtCqAsNGxKs0jsnr8G_KBZ7FXekkHn42dHHKfG4M/)**.
+Please, before to submit pull requests for `br-state-codes.csv` changes, **edit [this public spreadsheet](https://docs.google.com/spreadsheets/d/1lwuHtCqAsNGxKs0jsnr8G_KBZ7FXekkHn42dHHKfG4M/)**.
 Discussions at [git issues](https://github.com/datasets-br/state-codes/issues) (we can chat Portuguese in there!).
 
-See also [ISO 3166-2:BR at Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:BR), [ibge.gov.br/estadosat](http://www.ibge.gov.br/estadosat/),  [ibge.gov.br/areaterritorial](http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm), [UFs at Wikipedia](https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil).
+[More details here](collabore.md). Example:
 
-[More details here](collabore.md).
+UF | Wikidata link | dump OSM | dump Wikidata 
+---|---------------|----------|-----------------------
+AC | [acre = Q40780](http://wikidata.org/entity/Q40780) | [AC map](data/dump_osm/AC.geojson) | [AC wd-dump](data/dump_wikidata/AC.json)
+AL | [alagoas = Q40885](http://wikidata.org/entity/Q40885) | [AL map](data/dump_osm/AL.geojson) | [AL wd-dump](data/dump_wikidata/AL.json)
+...|...|...|...
+GB | [*extinct* guanabara = Q1155409](http://wikidata.org/entity/Q1155409) | no map? | [GB wd-dump](data/dump_wikidata/GB.json)
+...|...|...|...
+
+So, there are 4 opportunities to collabore:
+
+1. (any one) at the friendly public spreadsheet
+2. (github users) here, with issues or pull requests
+3. (wiki experts) at Wikidata 
+4. (OSM users) at OpenStreetMap
+
+We check here the consistency of all the parts, and we preserve all backups as stable snapshots.
 
 ## Preparation
 
 Download the spreadsheet as CSV, and update *git* with it. When editing *datapackage*, test `goodtables datapackage.json` and `git diff` before commit. 
+
+## Sources and references
+
+* [ISO 3166-2:BR at Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:BR).
+
+* IBGE, the official authority of names, codes and spatial delimitations: [ibge.gov.br/estadosat](http://www.ibge.gov.br/estadosat/),  [ibge.gov.br/areaterritorial](http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm).
+
+* [LexML.gov.br](http://www.LexML.gov.br) as legislative reference for official documents (mainlly denominations and dates), and the main user of this repository.
+
+* [UFs at Wikipedia](https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil).
+
+* Dataset *dumps* and doble-checking from [Wikidata.org](http://Wikidata.org) and [OpenStreetMap.org](http://OpenStreetMap.org).
+
+* Quality control of datasets at [GoodTables.io](https://goodtables.io) ([this repo](https://goodtables.io/github/datasets-br/state-codes)).
 
 ## See also
 
