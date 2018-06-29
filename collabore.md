@@ -3,7 +3,7 @@
 Please check [`br-state-codes.csv`](data/br-state-codes.csv) for addictions or corrections, editing first at **[this public spreadsheet](https://docs.google.com/spreadsheets/d/1lwuHtCqAsNGxKs0jsnr8G_KBZ7FXekkHn42dHHKfG4M/)**.
 Discussions at [git issues](https://github.com/datasets-br/state-codes/issues) (we can chat Portuguese in there!).
 
-You can collabore also directally at Wikidata, see links below to check or correct statements, names, etc. at Wikidata:
+You can collabore also directally **editing statements at Wikidata** or **editing maps at OpenStreetMap!**. See links below to check consistency:
 <!-- copy  from https://docs.google.com/spreadsheets/d/1lwuHtCqAsNGxKs0jsnr8G_KBZ7FXekkHn42dHHKfG4M/edit#gid=1613912771 -->
 
 UF | Wikidata link | dump OSM | dump Wikidata 
@@ -16,11 +16,11 @@ BA | [bahia = Q40430](http://wikidata.org/entity/Q40430) | [BA map](data/dump_os
 CE | [ceara = Q40123](http://wikidata.org/entity/Q40123) | [CE map](data/dump_osm/CE.geojson) | [CE wd-dump](data/dump_wikidata/CE.json)
 DF | [distrito.federal = Q119158](http://wikidata.org/entity/Q119158) | [DF map](data/dump_osm/DF.geojson) | [DF wd-dump](data/dump_wikidata/DF.json)
 ES | [espirito.santo = Q43233](http://wikidata.org/entity/Q43233) | [ES map](data/dump_osm/ES.geojson) | [ES wd-dump](data/dump_wikidata/ES.json)
-FN | [fernando.noronha = Q41535907](http://wikidata.org/entity/Q41535907) | no map? | [FN wd-dump](data/dump_wikidata/FN.json)
-GB | [guanabara = Q1155409](http://wikidata.org/entity/Q1155409) | no map? | [GB wd-dump](data/dump_wikidata/GB.json)
+FN | [*extinct* fernando.noronha = Q41535907](http://wikidata.org/entity/Q41535907) | no map? | [FN wd-dump](data/dump_wikidata/FN.json)
+GB | [*extinct* guanabara = Q1155409](http://wikidata.org/entity/Q1155409) | no map? | [GB wd-dump](data/dump_wikidata/GB.json)
 GO | [goias = Q41587](http://wikidata.org/entity/Q41587) | [GO map](data/dump_osm/GO.geojson) | [GO wd-dump](data/dump_wikidata/GO.json)
-GU | [guapore = Q10380855](http://wikidata.org/entity/Q10380855) | no map? | [GU wd-dump](data/dump_wikidata/GU.json)
-IG | [iguacu = Q2893222](http://wikidata.org/entity/Q2893222) | no map? | [IG wd-dump](data/dump_wikidata/IG.json)
+GU | [*extinct*  guapore = Q10380855](http://wikidata.org/entity/Q10380855) | no map? | [GU wd-dump](data/dump_wikidata/GU.json)
+IG | [*extinct*  iguacu = Q2893222](http://wikidata.org/entity/Q2893222) | no map? | [IG wd-dump](data/dump_wikidata/IG.json)
 MA | [maranhao = Q42362](http://wikidata.org/entity/Q42362) | [MA map](data/dump_osm/MA.geojson) | [MA wd-dump](data/dump_wikidata/MA.json)
 MG | [minas.gerais = Q39109](http://wikidata.org/entity/Q39109) | [MG map](data/dump_osm/MG.geojson) | [MG wd-dump](data/dump_wikidata/MG.json)
 MS | [mato.grosso.sul = Q43319](http://wikidata.org/entity/Q43319) | [MS map](data/dump_osm/MS.geojson) | [MS wd-dump](data/dump_wikidata/MS.json)
@@ -31,7 +31,7 @@ PE | [pernambuco = Q40942](http://wikidata.org/entity/Q40942) | [PE map](data/du
 PI | [piaui = Q42722](http://wikidata.org/entity/Q42722) | [PI map](data/dump_osm/PI.geojson) | [PI wd-dump](data/dump_wikidata/PI.json)
 PP | [ponta.pora = Q10380854](http://wikidata.org/entity/Q10380854) | [PP map](data/dump_osm/PP.geojson) | [PP wd-dump](data/dump_wikidata/PP.json)
 PR | [parana = Q15499](http://wikidata.org/entity/Q15499) | [PR map](data/dump_osm/PR.geojson) | [PR wd-dump](data/dump_wikidata/PR.json)
-RB | [rio.branco = Q10380856](http://wikidata.org/entity/Q10380856) | no map? | [RB wd-dump](data/dump_wikidata/RB.json)
+RB | [*extinct*  rio.branco = Q10380856](http://wikidata.org/entity/Q10380856) | no map? | [RB wd-dump](data/dump_wikidata/RB.json)
 RJ | [rio.janeiro = Q8678](http://wikidata.org/entity/Q8678) | [RJ map](data/dump_osm/RJ.geojson) | [RJ wd-dump](data/dump_wikidata/RJ.json)
 RN | [rio.grande.norte = Q43255](http://wikidata.org/entity/Q43255) | [RN map](data/dump_osm/RN.geojson) | [RN wd-dump](data/dump_wikidata/RN.json)
 RO | [rondonia = Q43235](http://wikidata.org/entity/Q43235) | [RO map](data/dump_osm/RO.geojson) | [RO wd-dump](data/dump_wikidata/RO.json)
@@ -42,5 +42,4 @@ SE | [sergipe = Q43783](http://wikidata.org/entity/Q43783) | [SE map](data/dump_
 SP | [sao.paulo = Q174](http://wikidata.org/entity/Q174) | [SP map](data/dump_osm/SP.geojson) | [SP wd-dump](data/dump_wikidata/SP.json)
 TO | [tocantins = Q43695](http://wikidata.org/entity/Q43695) | [TO map](data/dump_osm/TO.geojson) | [TO wd-dump](data/dump_wikidata/TO.json)
 
-And you can collaborate editing OpenStreetMap!
 
