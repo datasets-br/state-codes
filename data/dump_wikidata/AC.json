@@ -585,6 +585,12 @@
                 "value": "place/Acre-state-Brazil",
                 "type": "string"
             }
+        ],
+        "P281": [
+            {
+                "value": "69900-000 to 69999-000",
+                "type": "string"
+            }
         ]
     }
 }

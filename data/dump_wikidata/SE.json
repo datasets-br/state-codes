@@ -686,6 +686,14 @@
                     "id": "Q1136194"
                 },
                 "type": "wikibase-entityid"
+            },
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
             }
         ],
         "P421": [
