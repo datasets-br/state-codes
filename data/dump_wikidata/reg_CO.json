@@ -1,0 +1,101 @@
+{
+    "pageid": 929873,
+    "ns": 0,
+    "type": "item",
+    "id": "Q980175",
+    "claims": {
+        "P242": [
+            {
+                "value": "Central-West Region in Brazil.svg",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Central West brazil banner.jpg",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -15.779722222222,
+                    "longitude": -47.930555555556,
+                    "altitude": null,
+                    "precision": null,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 753113,
+                    "id": "Q753113"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04ppdd",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Brazil West-Central",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9246414,
+                    "id": "Q9246414"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+1612077.2",
+                    "unit": "http://www.wikidata.org/entity/Q712226",
+                    "upperBound": "+1612077.2",
+                    "lowerBound": "+1612077.2"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P3417": [
+            {
+                "value": "Central-West-Region-Brazil",
+                "type": "string"
+            }
+        ]
+    }
+}

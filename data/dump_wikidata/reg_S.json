@@ -1,0 +1,123 @@
+{
+    "pageid": 1008799,
+    "ns": 0,
+    "type": "item",
+    "id": "Q1060042",
+    "claims": {
+        "P242": [
+            {
+                "value": "South Region in Brazil.svg",
+                "type": "string"
+            }
+        ],
+        "P948": [
+            {
+                "value": "Southern brazil banner.JPG",
+                "type": "string"
+            }
+        ],
+        "P373": [
+            {
+                "value": "Brazil South",
+                "type": "string"
+            }
+        ],
+        "P17": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P625": [
+            {
+                "value": {
+                    "latitude": -25.433333333333,
+                    "longitude": -49.266666666667,
+                    "altitude": null,
+                    "precision": 0.016666666666667,
+                    "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+            }
+        ],
+        "P31": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 753113,
+                    "id": "Q753113"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P646": [
+            {
+                "value": "/m/04n_l3",
+                "type": "string"
+            }
+        ],
+        "P910": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 9246418,
+                    "id": "Q9246418"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2633": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10288850,
+                    "id": "Q10288850"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P2046": [
+            {
+                "value": {
+                    "amount": "+576409.6",
+                    "unit": "http://www.wikidata.org/entity/Q712226"
+                },
+                "type": "quantity"
+            }
+        ],
+        "P131": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 155,
+                    "id": "Q155"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P138": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 667,
+                    "id": "Q667"
+                },
+                "type": "wikibase-entityid"
+            }
+        ],
+        "P1889": [
+            {
+                "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10683529,
+                    "id": "Q10683529"
+                },
+                "type": "wikibase-entityid"
+            }
+        ]
+    }
+}

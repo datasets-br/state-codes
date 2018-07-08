@@ -10,48 +10,41 @@
 
 $saveFolder = realpath( dirname(__FILE__)."/../data" );
 $url = $localCsv
-     ? "$saveFolder/br-state-codes.csv"
-     : 'https://github.com/datasets-br/state-codes/raw/master/data/br-state-codes.csv'
+     ? $saveFolder
+     : 'https://github.com/datasets-br/state-codes/raw/master/data'
 ;
- // cols 0=subdivision, 1=name_prefix, 2=name, 3=id, 4=idIBGE, 5=wdId, 6=lexLabel
- $uf_idx=0; $wdId_idx = 5;  $lexLabel_idx = 6;
+ // cols 0=subdivision, 1=region, 2=name_prefix, 3=name, 4=id, 5=idIBGE, 6=wdId, 7=lexLabel
+ $uf_idx=0; $wdId_idx = 6;  //$lexLabel_idx = 7;
 
 
-$modo = ($argc>=2)?    ( ($argv[1]=='geo')? 'GEO': 'FIX-ERR'  ): '';
-$ext = ($modo=='GEO')? 'geojson': 'json';
+$modo = ($argc>=2)?    ( ($argv[1]=='geo')? 'GEO': 'FIX-ERR-WD'  ): '';
+$jext = ($modo=='GEO')? 'geojson': 'json';
 print "\n USANDO $modo $url";
 
 
 // LOAD DATA:
 $R = []; // [fname]= wdId
-if (($handle = fopen($url, "r")) !== FALSE) {
-   for($i=0; ($row=fgetcsv($handle)) && (!$stopAt || $i<$stopAt); $i++)
-      if ( $i && isset($row[1]) )
-         $R[ $row[$uf_idx] ] = $row[$wdId_idx];
-} else
-   exit("\nERRO ao abrir planilha das cidades em \n\t$url\n");
-
-
-if ($modo=='FIX-ERR') foreach($R as $fname=>$wdId) {
-  if ( filesize("$saveFolder/dump_wikidata/$fname.$ext")>50 ) unset($R[$fname]);
-}
+loadFile('br-state-codes.csv', '',    $uf_idx,$wdId_idx,9); // ignore extinct idx=9
+loadFile('br-region-codes.csv','reg_',0,1,5); // ignore extinct idx=5
 
 // WGET AND SAVE JSON:
 $i=1;
 $n=count($R);
 $ERR=[];
 
+//print "\nOK! $n itens at R="; var_dump($R); die("\n\n");
+
 switch($modo) {
 
 case '':
-case 'FIX-ERR':
+case 'FIX-ERR-WD':
 	foreach($R as $fname=>$wdId) {
 	  print "\n\t($i of $n) $fname: $wdId ";
 	  $json = file_get_contents("$urlWd_tpl$wdId");
 	  if ($json) {
 	     $out = json_stdWikidata($json);
 	     if ($out) {
-	         $savedBytes = file_put_contents(  "$saveFolder/dump_wikidata/$fname.$ext",  $out  );
+	         $savedBytes = file_put_contents(  "$saveFolder/dump_wikidata/$fname.$jext",  $out  );
 	         print "saved ($savedBytes bytes) with fresh $wdId";
 	     } else
 	         ERRset($fname,"invalid Wikidata structure");
@@ -71,7 +64,7 @@ case 'GEO':
 	  if ($json) {
 	     $out = json_stdOsm($json);
 	     if ($out) {
-	         $savedBytes = file_put_contents(  "$saveFolder/dump_osm/$fname.$ext",  $out  );
+	         $savedBytes = file_put_contents(  "$saveFolder/dump_osm/$fname.$jext",  $out  );
 	         print "saved ($savedBytes bytes) with fresh OSM/$osmId";
 	     } else
 	         ERRset($fname,"invalid OSM structure");
@@ -91,6 +84,32 @@ if (count($ERR)) { print "\n ----------- ERRORS ---------\n"; foreach($ERR as $m
 
 
 ///// LIB
+
+/**
+ * Load a CSV with wdIds.
+ * @return affect global $R. Dies on error.
+ */
+function loadFile($file='br-state-codes.csv',$prefix='',$keyIdx=0,$valIdx=5,$ignore=0) {
+  global $R;
+  global $url;
+  global $stopAt;
+  global $modo;
+  global $saveFolder;
+  global $jext;
+  //print "\n--debug loadFile(file=$file,prefix=$prefix, keyIdx=$keyIdx,valIdx=$valIdx,ig=$ignore)";
+  if (($handle = fopen("$url/$file", "r")) !== FALSE) {
+     for($i=0; ($row=fgetcsv($handle)) && (!$stopAt || $i<$stopAt); $i++) {
+        if ( $i && isset($row[0]) && ($ignore=='' || $row[$ignore]=='') )
+           $R[ $prefix.$row[$keyIdx] ] = $row[$valIdx];
+        //print "\n\t-- debug $i = $row[$keyIdx] ... ($row[0]) && ($ignore=='' || {$row[$ignore]})";
+      }
+  } else
+     exit("\nERRO ao abrir planilha $file em \n\t$url\n");
+  if ($modo=='FIX-ERR-WD') foreach($R as $fname=>$wdId) {
+    if ( filesize("$saveFolder/dump_wikidata/$fname.$jext")>50 ) unset($R[$fname]);
+  }
+  return true; // false for error
+}
 
 function ERRset($fname,$msg) {
    global $ERR;
@@ -114,14 +133,14 @@ function json_stdWikidata($jstr) {
   $j = $j['entities'][$ks[0]];
   if ( !isset($j['claims']) ) return '';
   foreach(['lastrevid','modified','labels','descriptions','title','aliases','sitelinks'] as $r) unset($j[$r]);
-  $a = []; 
+  $a = [];
   foreach($j['claims'] as $k=>$r) {
       $a[$k] = [];
       foreach($j['claims'][$k] as $r2)
           $a[$k][] = $r2['mainsnak']['datavalue'];
   }
   $j['claims'] = $a;
-  return json_encode($j,JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES); 
+  return json_encode($j,JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
 }
 
 function getOsmId($fname) {
@@ -137,5 +156,3 @@ function getOsmId($fname) {
 ?>
 
 ... Check git status and do git add.
-
-
