@@ -104,6 +104,15 @@
             "regex": "^[A-Z]{2,2}$"
           },
           {
+            "name": "region",
+            "description": "Region name abbreviation with 1 or 2 letters",
+            "rdfType": "https://www.wikidata.org/wiki/Q753113",
+            "type": "string",
+            "title-pt":"Região",
+            "title":"Region",
+            "regex": "^[SNC][EO]?$"
+          },
+          {
             "name": "name_prefix",
             "description": "Name prefix, in portuguese",
             "rdfType-prop": "http://schema.org/name",

@@ -1,34 +1,34 @@
-subdivision,name_prefix,name,id,idIBGE,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset_DST,postalCode_ranges,notes
-AC,Estado do,Acre,1,12,Q40780,acre,1904,,State,America/Rio_Branco,-5,-5,[69900-000 69999-999],
-AL,Estado de,Alagoas,2,27,Q40885,alagoas,1889,,State,America/Maceio,-3,-3,[57000-000 57999-999],
-AM,Estado do,Amazonas,3,13,Q40040,amazonas,1889,,State,America/Manaus,-4,-4,[69000-000 69299-999]; [69400-000 69899-999],
-AP,Estado do,Amapá,4,16,Q40130,amapa,1943,,State,America/Belem,-3,-3,[68900-000 68999-999],
-BA,Estado da,Bahia,5,29,Q40430,bahia,1889,,State,America/Bahia,-3,-3,[40000-000 48999-999],
-CE,Estado do,Ceará,6,23,Q40123,ceara,1889,,State,America/Fortaleza,-3,-3,[60000-000 63999-999],
-DF,,Distrito Federal,7,53,Q119158,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,[73000-000 73699-999]; [70000-000 72799-999],"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
-ES,Estado do,Espírito Santo,8,32,Q43233,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,[29000-000 29999-999],
-GO,Estado de,Goiás,9,52,Q41587,goias,1889,,State,America/Sao_Paulo,-3,-2,[72800-000 72999-999]; [73700-000 76799-999],
-MA,Estado do,Maranhão,10,21,Q42362,maranhao,1889,,State,America/Fortaleza,-3,-3,[65000-000 65999-999],
-MG,Estado de,Minas Gerais,11,31,Q39109,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,[30000-000 39999-999],
-MS,Estado do,Mato Grosso do Sul,12,50,Q43319,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,[79000-000 79999-999],
-MT,Estado do,Mato Grosso,13,51,Q42824,mato.grosso,1889,,State,America/Cuiaba,-4,-3,[78000-000 78899-999],
-PA,Estado do,Pará,14,15,Q39517,para,1889,,State,America/Belem,-3,-3,[66000-000 68899-999],
-PB,Estado da,Paraíba,15,25,Q38088,paraiba,1889,,State,America/Fortaleza,-3,-3,[58000-000 58999-999],
-PE,Estado de,Pernambuco,16,26,Q40942,pernambuco,1889,,State,America/Recife,-2,-2,[50000-000 56999-999],
-PI,Estado do,Piauí,17,22,Q42722,piaui,1889,,State,America/Fortaleza,-3,-3,[64000-000 64999-999],
-PR,Estado do,Paraná,18,41,Q15499,parana,1889,,State,America/Sao_Paulo,-3,-2,[80000-000 87999-999],
-RJ,Estado do,Rio de Janeiro,19,33,Q8678,rio.janeiro,1889,,State,America/Sao_Paulo,-3,-2,[20000-000 28999-999],
-RN,Estado do,Rio Grande do Norte,20,24,Q43255,rio.grande.norte,1889,,State,America/Fortaleza,-3,-3,[59000-000 59999-999],
-RO,Estado de,Rondônia,21,11,Q43235,rondonia,1981,,State,America/Porto_Velho,-4,-4,[76800-000 76999-999],
-RR,Estado de,Roraima,22,14,Q42508,roraima,1947,,State,America/Boa_Vista,-4,-4,[69300-000 69399-999],changed level in 1988
-RS,Estado do,Rio Grande do Sul,23,43,Q40030,rio.grande.sul,1889,,State,America/Sao_Paulo,-3,-2,[90000-000 99999-999],
-SC,Estado de,Santa Catarina,24,42,Q41115,santa.catarina,1889,,State,America/Sao_Paulo,-3,-2,[88000-000 89999-999],
-SE,Estado do,Sergipe,25,28,Q43783,sergipe,1889,,State,America/Maceio,-3,-3,[49000-000 49999-999],
-SP,Estado de,São Paulo,26,35,Q175,sao.paulo,1889,,State,America/Sao_Paulo,-3,-2,[01000-000 09999-999]; [11000-000 19999-999],
-TO,Estado de,Tocantins,27,17,Q43695,tocantins,1988,,State,America/Araguaina,-3,-2,[77000-000 77999-999],
-FN,Território de,Fernando de Noronha,30,,Q41535907,fernando.noronha,1943,1946,Territory,,,,,"extinct, merged into PE"
-GB,Estado da,Guanabara,31,,Q1155409,guanabara,1960,1975,State,,,,,"extinct, merged as city into RJ"
-GU,Território do,Guaporé,32,,Q10380855,guapore,1943,1946,Territory,,,,,renamed to Rondônia (RO)
-IG,Estado de,Iguaçu,33,,Q2893222,iguacu,1943,1946,Territory,,,,,"extinct, merged into PR"
-PP,Território de,Ponta Porã,34,,Q10380854,ponta.pora,1943,1946,Territory,,,,,extinct (now rest a city in MS)
-RB,Território de,Rio Branco,35,,Q10380856,rio.branco,1943,1962,State,,,,,renamed to Roraima (RR)
+subdivision,region,name_prefix,name,id,idIBGE,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset_DST,postalCode_ranges,notes
+AC,N,Estado do,Acre,1,12,Q40780,acre,1904,,State,America/Rio_Branco,-5,-5,[69900-000 69999-999],
+AL,NE,Estado de,Alagoas,2,27,Q40885,alagoas,1889,,State,America/Maceio,-3,-3,[57000-000 57999-999],
+AM,N,Estado do,Amazonas,3,13,Q40040,amazonas,1889,,State,America/Manaus,-4,-4,[69000-000 69299-999]; [69400-000 69899-999],
+AP,N,Estado do,Amapá,4,16,Q40130,amapa,1943,,State,America/Belem,-3,-3,[68900-000 68999-999],
+BA,NE,Estado da,Bahia,5,29,Q40430,bahia,1889,,State,America/Bahia,-3,-3,[40000-000 48999-999],
+CE,NE,Estado do,Ceará,6,23,Q40123,ceara,1889,,State,America/Fortaleza,-3,-3,[60000-000 63999-999],
+DF,CO,,Distrito Federal,7,53,Q119158,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,[73000-000 73699-999]; [70000-000 72799-999],"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
+ES,SE,Estado do,Espírito Santo,8,32,Q43233,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,[29000-000 29999-999],
+GO,CO,Estado de,Goiás,9,52,Q41587,goias,1889,,State,America/Sao_Paulo,-3,-2,[72800-000 72999-999]; [73700-000 76799-999],
+MA,NE,Estado do,Maranhão,10,21,Q42362,maranhao,1889,,State,America/Fortaleza,-3,-3,[65000-000 65999-999],
+MG,SE,Estado de,Minas Gerais,11,31,Q39109,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,[30000-000 39999-999],
+MS,CO,Estado do,Mato Grosso do Sul,12,50,Q43319,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,[79000-000 79999-999],
+MT,CO,Estado do,Mato Grosso,13,51,Q42824,mato.grosso,1889,,State,America/Cuiaba,-4,-3,[78000-000 78899-999],
+PA,N,Estado do,Pará,14,15,Q39517,para,1889,,State,America/Belem,-3,-3,[66000-000 68899-999],
+PB,NE,Estado da,Paraíba,15,25,Q38088,paraiba,1889,,State,America/Fortaleza,-3,-3,[58000-000 58999-999],
+PE,NE,Estado de,Pernambuco,16,26,Q40942,pernambuco,1889,,State,America/Recife,-2,-2,[50000-000 56999-999],
+PI,NE,Estado do,Piauí,17,22,Q42722,piaui,1889,,State,America/Fortaleza,-3,-3,[64000-000 64999-999],
+PR,S,Estado do,Paraná,18,41,Q15499,parana,1889,,State,America/Sao_Paulo,-3,-2,[80000-000 87999-999],
+RJ,SE,Estado do,Rio de Janeiro,19,33,Q8678,rio.janeiro,1889,,State,America/Sao_Paulo,-3,-2,[20000-000 28999-999],
+RN,NE,Estado do,Rio Grande do Norte,20,24,Q43255,rio.grande.norte,1889,,State,America/Fortaleza,-3,-3,[59000-000 59999-999],
+RO,N,Estado de,Rondônia,21,11,Q43235,rondonia,1981,,State,America/Porto_Velho,-4,-4,[76800-000 76999-999],
+RR,N,Estado de,Roraima,22,14,Q42508,roraima,1947,,State,America/Boa_Vista,-4,-4,[69300-000 69399-999],changed level in 1988
+RS,S,Estado do,Rio Grande do Sul,23,43,Q40030,rio.grande.sul,1889,,State,America/Sao_Paulo,-3,-2,[90000-000 99999-999],
+SC,S,Estado de,Santa Catarina,24,42,Q41115,santa.catarina,1889,,State,America/Sao_Paulo,-3,-2,[88000-000 89999-999],
+SE,NE,Estado do,Sergipe,25,28,Q43783,sergipe,1889,,State,America/Maceio,-3,-3,[49000-000 49999-999],
+SP,SE,Estado de,São Paulo,26,35,Q175,sao.paulo,1889,,State,America/Sao_Paulo,-3,-2,[01000-000 09999-999]; [11000-000 19999-999],
+TO,N,Estado de,Tocantins,27,17,Q43695,tocantins,1988,,State,America/Araguaina,-3,-2,[77000-000 77999-999],
+FN,NE,Território de,Fernando de Noronha,30,,Q41535907,fernando.noronha,1943,1946,Territory,,,,,"extinct, merged into PE"
+GB,,Estado da,Guanabara,31,,Q1155409,guanabara,1960,1975,State,,,,,"extinct, merged as city into RJ"
+GU,,Território do,Guaporé,32,,Q10380855,guapore,1943,1946,Territory,,,,,renamed to Rondônia (RO)
+IG,,Estado de,Iguaçu,33,,Q2893222,iguacu,1943,1946,Territory,,,,,"extinct, merged into PR"
+PP,,Território de,Ponta Porã,34,,Q10380854,ponta.pora,1943,1946,Territory,,,,,extinct (now rest a city in MS)
+RB,N,Território de,Rio Branco,35,,Q10380856,rio.branco,1943,1962,State,,,,,renamed to Roraima (RR)
