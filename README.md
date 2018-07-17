@@ -46,15 +46,24 @@ Download the spreadsheet as CSV, and update *git* with it. When editing *datapac
 
 ## Sources and references
 
-* [ISO 3166-2:BR at Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:BR).
+Primary:
 
 * IBGE, the official authority of names, codes and spatial delimitations: [ibge.gov.br/estadosat](http://www.ibge.gov.br/estadosat/),  [ibge.gov.br/areaterritorial](http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm).
 
 * [LexML.gov.br](http://www.LexML.gov.br) as legislative reference for official documents (mainlly denominations and dates), and the main user of this repository.
 
+* Dataset *dumps* and doble-checking from [Wikidata.org](http://Wikidata.org) and [OpenStreetMap.org](http://OpenStreetMap.org).
+
+* [ISO 3166-2:BR at Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-2:BR).
+
+Secondary and checking:
+
 * [UFs at Wikipedia](https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil).
 
-* Dataset *dumps* and doble-checking from [Wikidata.org](http://Wikidata.org) and [OpenStreetMap.org](http://OpenStreetMap.org).
+* [`geodata-br` (Free open public domain geographic data of Brazil available in multiple languages and formats)](https://github.com/paulofreitas/geodata-br).
+* [`geodata-br GeoJSON` (maps)](https://github.com/tbrugz/geodata-br).
+
+Other references:
 
 * Quality control of datasets at [GoodTables.io](https://goodtables.io) ([this repo](https://goodtables.io/github/datasets-br/state-codes)).
 
