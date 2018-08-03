@@ -1,4 +1,4 @@
-&nbsp; [![goodtables.io](https://goodtables.io/badge/github/datasets-br/state-codes.svg)](https://goodtables.io/github/datasets-br/state-codes) &nbsp; (datahub?)
+&nbsp; [![goodtables.io](https://goodtables.io/badge/github/datasets-br/state-codes.svg)](https://goodtables.io/github/datasets-br/state-codes) &nbsp; Provided as a [Tabular Data Package](http://frictionlessdata.io/data-packages/): [**view** datapackage](https://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdatasets-br%2Fstate-codes%2Fmaster%2Fdatapackage.json).  <br/>&nbsp; PS: help  us to view as core dataset at [Brasil.io](http://Brasil.io) and [Datahub.io](http://Datahub.io).
 
 # state-codes
 
