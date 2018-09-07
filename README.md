@@ -16,6 +16,20 @@ The time-zone conventions are expressed in state-scale, so they are part of this
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](assets/br-timeZones.png)
 
+## Regions
+
+The official Brazilian regions are the state spatial containers, and at OSM represents "administrative boundaries level 2" (tag `admin_level=3`), while states are level 4.
+
+![](assets/regioes-288px.png)
+
+## Dumps and database
+
+At [dump_wikidata](data/dump_wikidata) dump of Wikidata item of each state (e.g. [`MG.json`](data/dump_wikidata/MG.json)) is preserved.
+At [dump_osm](data/dump_wikidata) dump of Openstreetmap GeoJSON map of each state (e.g. [`MG.geojson`](data/dump_osm/MG.geojson)) is preserved.
+The database relationships for CSV files is illustrated below: 
+
+![](assets/databaseModel-v2.png)
+
 ## Collaboration
 
 Please, before to submit pull requests for `br-state-codes.csv` changes, **edit [this public spreadsheet](https://docs.google.com/spreadsheets/d/1lwuHtCqAsNGxKs0jsnr8G_KBZ7FXekkHn42dHHKfG4M/)**.

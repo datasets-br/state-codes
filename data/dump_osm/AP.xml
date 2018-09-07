@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (14709 thorn-04.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="331463" visible="true" version="40" changeset="54563070" timestamp="2017-12-12T10:56:44Z" user="Olyon" uid="1443767">
+  <member type="way" ref="350671784" role="outer"/>
+  <member type="way" ref="44659911" role="outer"/>
+  <member type="way" ref="250622807" role="outer"/>
+  <member type="way" ref="387015346" role="outer"/>
+  <member type="way" ref="349930551" role="outer"/>
+  <member type="way" ref="137392505" role="outer"/>
+  <member type="way" ref="137392506" role="outer"/>
+  <member type="way" ref="137392504" role="outer"/>
+  <member type="way" ref="165305768" role="outer"/>
+  <member type="way" ref="141212219" role="outer"/>
+  <member type="way" ref="13796803" role="outer"/>
+  <member type="way" ref="546309456" role="outer"/>
+  <member type="way" ref="350671803" role="outer"/>
+  <member type="way" ref="436042255" role="outer"/>
+  <member type="way" ref="121718748" role="outer"/>
+  <member type="way" ref="261110485" role="outer"/>
+  <member type="way" ref="543415497" role="outer"/>
+  <member type="way" ref="162782271" role="outer"/>
+  <member type="way" ref="10854559" role="outer"/>
+  <member type="way" ref="121718747" role="outer"/>
+  <member type="way" ref="38377105" role="outer"/>
+  <member type="way" ref="261110486" role="outer"/>
+  <member type="way" ref="243194661" role="outer"/>
+  <member type="way" ref="30717208" role="outer"/>
+  <member type="way" ref="299354260" role="outer"/>
+  <member type="way" ref="299354275" role="outer"/>
+  <member type="way" ref="261110487" role="outer"/>
+  <member type="way" ref="247785016" role="outer"/>
+  <member type="way" ref="247784413" role="outer"/>
+  <member type="way" ref="247784414" role="outer"/>
+  <member type="way" ref="247726762" role="outer"/>
+  <member type="way" ref="247726757" role="outer"/>
+  <member type="way" ref="247726770" role="outer"/>
+  <member type="way" ref="247726758" role="outer"/>
+  <member type="way" ref="247726761" role="outer"/>
+  <member type="way" ref="247726774" role="outer"/>
+  <member type="way" ref="247726775" role="outer"/>
+  <member type="way" ref="247726769" role="outer"/>
+  <member type="way" ref="247726773" role="outer"/>
+  <member type="way" ref="247726759" role="outer"/>
+  <member type="way" ref="422095312" role="outer"/>
+  <member type="way" ref="44659876" role="outer"/>
+  <member type="way" ref="434720911" role="outer"/>
+  <member type="way" ref="38376978" role="outer"/>
+  <member type="way" ref="431458495" role="outer"/>
+  <member type="way" ref="162767093" role="outer"/>
+  <member type="way" ref="350671794" role="outer"/>
+  <member type="way" ref="350671783" role="outer"/>
+  <member type="way" ref="44659874" role="outer"/>
+  <member type="way" ref="44659873" role="outer"/>
+  <member type="way" ref="350671754" role="outer"/>
+  <member type="way" ref="44659866" role="outer"/>
+  <member type="way" ref="44659880" role="outer"/>
+  <member type="way" ref="44659912" role="outer"/>
+  <member type="node" ref="339722677" role="admin_centre"/>
+  <member type="node" ref="539680936" role="label"/>
+  <tag k="admin_level" v="4"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="flag" v="https://upload.wikimedia.org/wikipedia/commons/0/0c/Bandeira_do_Amap%C3%A1.svg"/>
+  <tag k="IBGE:GEOCODIGO" v="16"/>
+  <tag k="is_in:country" v="Brazil"/>
+  <tag k="ISO3166-2" v="BR-AP"/>
+  <tag k="name" v="Amapá"/>
+  <tag k="name:ar" v="أمابا"/>
+  <tag k="name:be" v="Амапа"/>
+  <tag k="name:bg" v="Амапа"/>
+  <tag k="name:de" v="Amapá"/>
+  <tag k="name:en" v="Amapá"/>
+  <tag k="name:eo" v="Amapao"/>
+  <tag k="name:fa" v="آماپا"/>
+  <tag k="name:gn" v="Amapa"/>
+  <tag k="name:he" v="אמאפה"/>
+  <tag k="name:hi" v="अमापा"/>
+  <tag k="name:hy" v="Ամապա"/>
+  <tag k="name:ja" v="アマパー"/>
+  <tag k="name:ka" v="ამაპა"/>
+  <tag k="name:kk" v="Амапа"/>
+  <tag k="name:ko" v="아마파"/>
+  <tag k="name:la" v="Amapa"/>
+  <tag k="name:lt" v="Amapa"/>
+  <tag k="name:lv" v="Amapa"/>
+  <tag k="name:mk" v="Амапа"/>
+  <tag k="name:mr" v="अमापा"/>
+  <tag k="name:os" v="Амапа"/>
+  <tag k="name:pl" v="Amapá"/>
+  <tag k="name:pt" v="Amapá"/>
+  <tag k="name:ru" v="Амапа"/>
+  <tag k="name:sh" v="Amapa"/>
+  <tag k="name:sr" v="Амапа"/>
+  <tag k="name:tg" v="Амапа"/>
+  <tag k="name:th" v="อามาปา"/>
+  <tag k="name:uk" v="Амапа"/>
+  <tag k="name:uz" v="Amapa"/>
+  <tag k="name:zh" v="阿马帕"/>
+  <tag k="place" v="state"/>
+  <tag k="ref" v="AP"/>
+  <tag k="short_name" v="AP"/>
+  <tag k="source" v="IBGE"/>
+  <tag k="timezone" v="America/Belem"/>
+  <tag k="type" v="boundary"/>
+  <tag k="website" v="http://www.ap.gov.br/"/>
+  <tag k="wikidata" v="Q40130"/>
+  <tag k="wikipedia" v="pt:Amapá"/>
+ </relation>
+</osm>

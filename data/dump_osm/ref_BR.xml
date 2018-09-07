@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (23060 thorn-05.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="59470" visible="true" version="537" changeset="60840388" timestamp="2018-07-18T14:48:23Z" user="mapwitch" uid="7079">
+  <member type="node" ref="424313734" role="label"/>
+  <member type="node" ref="34567423" role="admin_centre"/>
+  <member type="way" ref="28936624" role="outer"/>
+  <member type="way" ref="34119743" role="outer"/>
+  <member type="way" ref="34119742" role="outer"/>
+  <member type="way" ref="34119856" role="outer"/>
+  <member type="way" ref="304399370" role="outer"/>
+  <member type="way" ref="245316339" role="outer"/>
+  <member type="way" ref="550206750" role="outer"/>
+  <member type="way" ref="551911721" role="outer"/>
+  <member type="way" ref="552252659" role="outer"/>
+  <member type="way" ref="550200948" role="outer"/>
+  <member type="way" ref="552252663" role="outer"/>
+  <member type="way" ref="551911719" role="outer"/>
+  <member type="way" ref="304399369" role="outer"/>
+  <member type="way" ref="552252621" role="outer"/>
+  <member type="way" ref="552252623" role="outer"/>
+  <member type="way" ref="552252619" role="outer"/>
+  <member type="way" ref="550203983" role="outer"/>
+  <member type="way" ref="431112777" role="outer"/>
+  <member type="way" ref="552252608" role="outer"/>
+  <member type="way" ref="552252607" role="outer"/>
+  <member type="way" ref="551911716" role="outer"/>
+  <member type="way" ref="551911717" role="outer"/>
+  <member type="way" ref="202367025" role="outer"/>
+  <member type="way" ref="552252616" role="outer"/>
+  <member type="way" ref="552252618" role="outer"/>
+  <member type="way" ref="245316340" role="outer"/>
+  <member type="way" ref="551911713" role="outer"/>
+  <member type="way" ref="550378325" role="outer"/>
+  <member type="way" ref="551911712" role="outer"/>
+  <member type="way" ref="551911714" role="outer"/>
+  <member type="way" ref="552252613" role="outer"/>
+  <member type="way" ref="552252615" role="outer"/>
+  <member type="way" ref="551911708" role="outer"/>
+  <member type="way" ref="44431891" role="outer"/>
+  <member type="way" ref="51510703" role="outer"/>
+  <member type="way" ref="378665196" role="outer"/>
+  <member type="way" ref="552422564" role="outer"/>
+  <member type="way" ref="245319331" role="outer"/>
+  <member type="way" ref="552422548" role="outer"/>
+  <member type="way" ref="443981898" role="outer"/>
+  <member type="way" ref="249959798" role="outer"/>
+  <member type="way" ref="313221587" role="outer"/>
+  <member type="way" ref="552422524" role="outer"/>
+  <member type="way" ref="553894052" role="outer"/>
+  <member type="way" ref="247728772" role="outer"/>
+  <member type="way" ref="378418935" role="outer"/>
+  <member type="way" ref="552422522" role="outer"/>
+  <member type="way" ref="343709085" role="outer"/>
+  <member type="way" ref="245319452" role="outer"/>
+  <member type="way" ref="50438015" role="outer"/>
+  <member type="way" ref="305546091" role="outer"/>
+  <member type="way" ref="552422516" role="outer"/>
+  <member type="way" ref="552422519" role="outer"/>
+  <member type="way" ref="446834350" role="outer"/>
+  <member type="way" ref="311253434" role="outer"/>
+  <member type="way" ref="315891082" role="outer"/>
+  <member type="way" ref="379502625" role="outer"/>
+  <member type="way" ref="552422517" role="outer"/>
+  <member type="way" ref="323693772" role="outer"/>
+  <member type="way" ref="44811651" role="outer"/>
+  <member type="way" ref="44811662" role="outer"/>
+  <member type="way" ref="51983564" role="outer"/>
+  <member type="way" ref="44811644" role="outer"/>
+  <member type="way" ref="307591214" role="outer"/>
+  <member type="way" ref="323694482" role="outer"/>
+  <member type="way" ref="484799198" role="outer"/>
+  <member type="way" ref="484799200" role="outer"/>
+  <member type="way" ref="484799178" role="outer"/>
+  <member type="way" ref="484799201" role="outer"/>
+  <member type="way" ref="50642400" role="outer"/>
+  <member type="way" ref="307591150" role="outer"/>
+  <member type="way" ref="484799202" role="outer"/>
+  <member type="way" ref="200720039" role="outer"/>
+  <member type="way" ref="484799179" role="outer"/>
+  <member type="way" ref="484799181" role="outer"/>
+  <member type="way" ref="484799180" role="outer"/>
+  <member type="way" ref="484799182" role="outer"/>
+  <member type="way" ref="484799183" role="outer"/>
+  <member type="way" ref="51813731" role="outer"/>
+  <member type="way" ref="552422508" role="outer"/>
+  <member type="way" ref="28564676" role="outer"/>
+  <member type="way" ref="472435599" role="outer"/>
+  <member type="way" ref="552422511" role="outer"/>
+  <member type="way" ref="162418995" role="outer"/>
+  <member type="way" ref="200720040" role="outer"/>
+  <member type="way" ref="484799185" role="outer"/>
+  <member type="way" ref="484799187" role="outer"/>
+  <member type="way" ref="484799190" role="outer"/>
+  <member type="way" ref="484799188" role="outer"/>
+  <member type="way" ref="484799191" role="outer"/>
+  <member type="way" ref="202367315" role="outer"/>
+  <member type="way" ref="484799193" role="outer"/>
+  <member type="way" ref="484799194" role="outer"/>
+  <member type="way" ref="484799195" role="outer"/>
+  <member type="way" ref="484799197" role="outer"/>
+  <member type="way" ref="202367314" role="outer"/>
+  <member type="way" ref="163719526" role="outer"/>
+  <member type="way" ref="53617305" role="outer"/>
+  <member type="way" ref="442453958" role="outer"/>
+  <member type="way" ref="595852658" role="outer"/>
+  <member type="way" ref="595852657" role="outer"/>
+  <member type="way" ref="51543326" role="outer"/>
+  <member type="way" ref="200720559" role="outer"/>
+  <member type="way" ref="595852636" role="outer"/>
+  <member type="way" ref="595852635" role="outer"/>
+  <member type="way" ref="595852642" role="outer"/>
+  <member type="way" ref="442453938" role="outer"/>
+  <member type="way" ref="442453918" role="outer"/>
+  <member type="way" ref="51543325" role="outer"/>
+  <member type="way" ref="169336154" role="outer"/>
+  <member type="way" ref="442453948" role="outer"/>
+  <member type="way" ref="286353209" role="outer"/>
+  <member type="way" ref="168357902" role="outer"/>
+  <member type="way" ref="185767937" role="outer"/>
+  <member type="way" ref="185767923" role="outer"/>
+  <member type="way" ref="185767931" role="outer"/>
+  <member type="way" ref="185767924" role="outer"/>
+  <member type="way" ref="185767930" role="outer"/>
+  <member type="way" ref="185767944" role="outer"/>
+  <member type="way" ref="185767934" role="outer"/>
+  <member type="way" ref="185767933" role="outer"/>
+  <member type="way" ref="185767929" role="outer"/>
+  <member type="way" ref="185767928" role="outer"/>
+  <member type="way" ref="185767935" role="outer"/>
+  <member type="way" ref="185767932" role="outer"/>
+  <member type="way" ref="185767943" role="outer"/>
+  <member type="way" ref="168336760" role="outer"/>
+  <member type="way" ref="185765764" role="outer"/>
+  <member type="way" ref="185765772" role="outer"/>
+  <member type="way" ref="185765774" role="outer"/>
+  <member type="way" ref="185765758" role="outer"/>
+  <member type="way" ref="185765864" role="outer"/>
+  <member type="way" ref="353898750" role="outer"/>
+  <member type="way" ref="444624458" role="outer"/>
+  <member type="way" ref="444624452" role="outer"/>
+  <member type="way" ref="185765874" role="outer"/>
+  <member type="way" ref="168294944" role="outer"/>
+  <member type="way" ref="185765855" role="outer"/>
+  <member type="way" ref="185765806" role="outer"/>
+  <member type="way" ref="185765787" role="outer"/>
+  <member type="way" ref="185765828" role="outer"/>
+  <member type="way" ref="185765812" role="outer"/>
+  <member type="way" ref="185765873" role="outer"/>
+  <member type="way" ref="185765756" role="outer"/>
+  <member type="way" ref="185765861" role="outer"/>
+  <member type="way" ref="185765866" role="outer"/>
+  <member type="way" ref="185765766" role="outer"/>
+  <member type="way" ref="185765875" role="outer"/>
+  <member type="way" ref="185765863" role="outer"/>
+  <member type="way" ref="185765872" role="outer"/>
+  <member type="way" ref="185765870" role="outer"/>
+  <member type="way" ref="185765865" role="outer"/>
+  <member type="way" ref="168282770" role="outer"/>
+  <member type="way" ref="185765858" role="outer"/>
+  <member type="way" ref="185765862" role="outer"/>
+  <member type="way" ref="185765798" role="outer"/>
+  <member type="way" ref="185765773" role="outer"/>
+  <member type="way" ref="185765867" role="outer"/>
+  <member type="way" ref="185765770" role="outer"/>
+  <member type="way" ref="185765757" role="outer"/>
+  <member type="way" ref="185765871" role="outer"/>
+  <member type="way" ref="185765860" role="outer"/>
+  <member type="way" ref="185765869" role="outer"/>
+  <member type="way" ref="185765868" role="outer"/>
+  <member type="way" ref="168267857" role="outer"/>
+  <member type="way" ref="307649421" role="outer"/>
+  <member type="way" ref="444624453" role="outer"/>
+  <member type="way" ref="444624459" role="outer"/>
+  <member type="way" ref="179719197" role="outer"/>
+  <member type="way" ref="307649423" role="outer"/>
+  <member type="way" ref="269639431" role="outer"/>
+  <member type="way" ref="269639451" role="outer"/>
+  <member type="way" ref="307649349" role="outer"/>
+  <member type="way" ref="273719253" role="outer"/>
+  <member type="way" ref="307649380" role="outer"/>
+  <member type="way" ref="444624439" role="outer"/>
+  <member type="way" ref="444624442" role="outer"/>
+  <member type="way" ref="10854524" role="outer"/>
+  <member type="way" ref="196776696" role="outer"/>
+  <member type="way" ref="444624441" role="outer"/>
+  <member type="way" ref="444624438" role="outer"/>
+  <member type="way" ref="167816791" role="outer"/>
+  <member type="way" ref="48571831" role="outer"/>
+  <member type="way" ref="307649350" role="outer"/>
+  <member type="way" ref="307649348" role="outer"/>
+  <member type="way" ref="444584983" role="outer"/>
+  <member type="way" ref="444584976" role="outer"/>
+  <member type="way" ref="307649385" role="outer"/>
+  <member type="way" ref="307649329" role="outer"/>
+  <member type="way" ref="444584980" role="outer"/>
+  <member type="way" ref="444584973" role="outer"/>
+  <member type="way" ref="307649384" role="outer"/>
+  <member type="way" ref="444584979" role="outer"/>
+  <member type="way" ref="444584982" role="outer"/>
+  <member type="way" ref="444584972" role="outer"/>
+  <member type="way" ref="444584974" role="outer"/>
+  <member type="way" ref="263819297" role="outer"/>
+  <member type="way" ref="44829986" role="outer"/>
+  <member type="way" ref="444584977" role="outer"/>
+  <member type="way" ref="444584981" role="outer"/>
+  <member type="way" ref="444584975" role="outer"/>
+  <member type="way" ref="444584971" role="outer"/>
+  <member type="way" ref="29021222" role="outer"/>
+  <member type="way" ref="263611198" role="outer"/>
+  <member type="way" ref="42839898" role="outer"/>
+  <member type="way" ref="42840456" role="outer"/>
+  <member type="way" ref="42840491" role="outer"/>
+  <member type="way" ref="444585002" role="outer"/>
+  <member type="way" ref="444585004" role="outer"/>
+  <member type="way" ref="42840976" role="outer"/>
+  <member type="way" ref="42840728" role="outer"/>
+  <member type="way" ref="263473617" role="outer"/>
+  <member type="way" ref="348507309" role="outer"/>
+  <member type="way" ref="42839669" role="outer"/>
+  <member type="way" ref="440405511" role="outer"/>
+  <member type="way" ref="42839811" role="outer"/>
+  <member type="way" ref="440405517" role="outer"/>
+  <member type="way" ref="440405507" role="outer"/>
+  <member type="way" ref="262564988" role="outer"/>
+  <member type="way" ref="23616511" role="outer"/>
+  <member type="way" ref="262563676" role="outer"/>
+  <member type="way" ref="480477684" role="outer"/>
+  <member type="way" ref="480477683" role="outer"/>
+  <member type="way" ref="440405502" role="outer"/>
+  <member type="way" ref="440405501" role="outer"/>
+  <member type="way" ref="262166336" role="outer"/>
+  <member type="way" ref="202879822" role="outer"/>
+  <member type="way" ref="439630583" role="outer"/>
+  <member type="way" ref="27996034" role="outer"/>
+  <member type="way" ref="237615188" role="outer"/>
+  <member type="way" ref="219298907" role="outer"/>
+  <member type="way" ref="42840005" role="outer"/>
+  <member type="way" ref="290774315" role="outer"/>
+  <member type="way" ref="45733858" role="outer"/>
+  <member type="way" ref="71183551" role="outer"/>
+  <member type="way" ref="237615181" role="outer"/>
+  <member type="way" ref="71183550" role="outer"/>
+  <member type="way" ref="71183548" role="outer"/>
+  <member type="way" ref="439260565" role="outer"/>
+  <member type="way" ref="439260561" role="outer"/>
+  <member type="way" ref="157246170" role="outer"/>
+  <member type="way" ref="237615190" role="outer"/>
+  <member type="way" ref="42840064" role="outer"/>
+  <member type="way" ref="42840398" role="outer"/>
+  <member type="way" ref="275281059" role="outer"/>
+  <member type="way" ref="120372468" role="outer"/>
+  <member type="way" ref="118524344" role="outer"/>
+  <member type="way" ref="530860726" role="outer"/>
+  <member type="way" ref="530860722" role="outer"/>
+  <member type="way" ref="42840454" role="outer"/>
+  <member type="way" ref="530860716" role="outer"/>
+  <member type="way" ref="530860713" role="outer"/>
+  <member type="way" ref="530860710" role="outer"/>
+  <member type="way" ref="530860719" role="outer"/>
+  <member type="way" ref="118524343" role="outer"/>
+  <member type="way" ref="42786117" role="outer"/>
+  <member type="way" ref="42786180" role="outer"/>
+  <member type="way" ref="592491369" role="outer"/>
+  <member type="way" ref="237615180" role="outer"/>
+  <member type="way" ref="42785996" role="outer"/>
+  <member type="way" ref="558301367" role="outer"/>
+  <member type="way" ref="48780120" role="outer"/>
+  <member type="way" ref="48780027" role="outer"/>
+  <member type="way" ref="48780029" role="outer"/>
+  <member type="way" ref="48780028" role="outer"/>
+  <member type="way" ref="48779813" role="outer"/>
+  <member type="way" ref="231159791" role="outer"/>
+  <member type="way" ref="558301383" role="outer"/>
+  <member type="way" ref="152198247" role="outer"/>
+  <member type="way" ref="558301388" role="outer"/>
+  <member type="way" ref="558301393" role="outer"/>
+  <member type="way" ref="558301386" role="outer"/>
+  <member type="way" ref="558301392" role="outer"/>
+  <member type="way" ref="268776277" role="outer"/>
+  <member type="way" ref="558301390" role="outer"/>
+  <member type="way" ref="268599304" role="outer"/>
+  <member type="way" ref="549174308" role="outer"/>
+  <member type="way" ref="40834662" role="outer"/>
+  <member type="way" ref="549174310" role="outer"/>
+  <member type="way" ref="40835087" role="outer"/>
+  <member type="way" ref="40835438" role="outer"/>
+  <member type="way" ref="527125894" role="outer"/>
+  <member type="way" ref="237757438" role="outer"/>
+  <member type="way" ref="40835109" role="outer"/>
+  <member type="way" ref="238885037" role="outer"/>
+  <member type="way" ref="527125882" role="outer"/>
+  <member type="way" ref="41682759" role="outer"/>
+  <member type="way" ref="238885036" role="outer"/>
+  <member type="way" ref="40835511" role="outer"/>
+  <member type="way" ref="238226476" role="outer"/>
+  <member type="way" ref="238268560" role="outer"/>
+  <member type="way" ref="40835456" role="outer"/>
+  <member type="way" ref="238226477" role="outer"/>
+  <member type="way" ref="40834961" role="outer"/>
+  <member type="way" ref="238882891" role="outer"/>
+  <member type="way" ref="238882387" role="outer"/>
+  <member type="way" ref="40835072" role="outer"/>
+  <member type="way" ref="495731037" role="outer"/>
+  <member type="way" ref="238882388" role="outer"/>
+  <member type="way" ref="40834412" role="outer"/>
+  <member type="way" ref="237322564" role="outer"/>
+  <member type="way" ref="40834748" role="outer"/>
+  <member type="way" ref="40835056" role="outer"/>
+  <member type="way" ref="237322565" role="outer"/>
+  <member type="way" ref="54750700" role="outer"/>
+  <member type="way" ref="235832882" role="outer"/>
+  <member type="way" ref="40835573" role="outer"/>
+  <member type="way" ref="235081814" role="outer"/>
+  <member type="way" ref="235081812" role="outer"/>
+  <member type="way" ref="507050154" role="outer"/>
+  <member type="way" ref="40834474" role="outer"/>
+  <member type="way" ref="507050153" role="outer"/>
+  <member type="way" ref="507050160" role="outer"/>
+  <member type="way" ref="507050158" role="outer"/>
+  <member type="way" ref="426669982" role="outer"/>
+  <member type="way" ref="233331225" role="outer"/>
+  <member type="way" ref="233331227" role="outer"/>
+  <member type="way" ref="54750809" role="outer"/>
+  <member type="way" ref="507054589" role="outer"/>
+  <member type="way" ref="233331226" role="outer"/>
+  <member type="way" ref="235051126" role="outer"/>
+  <member type="way" ref="54750720" role="outer"/>
+  <member type="way" ref="501098404" role="outer"/>
+  <member type="way" ref="234501165" role="outer"/>
+  <member type="way" ref="518959060" role="outer"/>
+  <member type="way" ref="518959072" role="outer"/>
+  <member type="way" ref="234501166" role="outer"/>
+  <member type="way" ref="234501167" role="outer"/>
+  <member type="way" ref="548593480" role="outer"/>
+  <member type="way" ref="548593434" role="outer"/>
+  <member type="way" ref="48041867" role="outer"/>
+  <member type="way" ref="234460421" role="outer"/>
+  <member type="way" ref="548593444" role="outer"/>
+  <member type="way" ref="548593441" role="outer"/>
+  <member type="way" ref="40834616" role="outer"/>
+  <member type="way" ref="548593431" role="outer"/>
+  <member type="way" ref="40835721" role="outer"/>
+  <member type="way" ref="501098434" role="outer"/>
+  <member type="way" ref="40835878" role="outer"/>
+  <member type="way" ref="116895877" role="outer"/>
+  <member type="way" ref="116895878" role="outer"/>
+  <member type="way" ref="116895874" role="outer"/>
+  <member type="way" ref="395308505" role="outer"/>
+  <member type="way" ref="311291060" role="outer"/>
+  <member type="way" ref="231293544" role="outer"/>
+  <member type="way" ref="607058648" role="outer"/>
+  <member type="way" ref="233170515" role="outer"/>
+  <member type="way" ref="233170514" role="outer"/>
+  <member type="way" ref="503134883" role="outer"/>
+  <member type="way" ref="584498151" role="outer"/>
+  <member type="way" ref="117844212" role="outer"/>
+  <member type="way" ref="233170513" role="outer"/>
+  <member type="way" ref="423608437" role="outer"/>
+  <member type="way" ref="584498325" role="outer"/>
+  <member type="way" ref="527149324" role="outer"/>
+  <member type="way" ref="584498321" role="outer"/>
+  <member type="way" ref="584498318" role="outer"/>
+  <member type="way" ref="584498317" role="outer"/>
+  <member type="way" ref="121547742" role="outer"/>
+  <member type="way" ref="584498313" role="outer"/>
+  <member type="way" ref="117850086" role="outer"/>
+  <member type="way" ref="584498280" role="outer"/>
+  <member type="way" ref="311013218" role="outer"/>
+  <member type="way" ref="423608436" role="outer"/>
+  <member type="way" ref="503134853" role="outer"/>
+  <member type="way" ref="233815821" role="outer"/>
+  <member type="way" ref="310218255" role="outer"/>
+  <member type="way" ref="310218254" role="outer"/>
+  <member type="way" ref="40835640" role="outer"/>
+  <member type="way" ref="336000845" role="outer"/>
+  <member type="way" ref="344183464" role="outer"/>
+  <member type="way" ref="320460021" role="outer"/>
+  <member type="way" ref="344183463" role="outer"/>
+  <member type="way" ref="532973576" role="outer"/>
+  <member type="way" ref="532973574" role="outer"/>
+  <member type="way" ref="272839389" role="outer"/>
+  <member type="way" ref="110575329" role="outer"/>
+  <member type="way" ref="110780231" role="outer"/>
+  <member type="way" ref="272839385" role="outer"/>
+  <member type="way" ref="532973573" role="outer"/>
+  <member type="way" ref="272839386" role="outer"/>
+  <member type="way" ref="320710885" role="outer"/>
+  <member type="way" ref="214434250" role="outer"/>
+  <member type="way" ref="227577334" role="outer"/>
+  <member type="way" ref="227577335" role="outer"/>
+  <member type="way" ref="227577336" role="outer"/>
+  <member type="way" ref="415179417" role="outer"/>
+  <member type="way" ref="483756521" role="outer"/>
+  <member type="way" ref="110575337" role="outer"/>
+  <member type="way" ref="40834901" role="outer"/>
+  <member type="way" ref="193682680" role="outer"/>
+  <member type="way" ref="110575328" role="outer"/>
+  <member type="way" ref="110575374" role="outer"/>
+  <member type="way" ref="193682666" role="outer"/>
+  <member type="way" ref="54661106" role="outer"/>
+  <member type="way" ref="45855722" role="outer"/>
+  <member type="way" ref="483756553" role="outer"/>
+  <member type="way" ref="483756545" role="outer"/>
+  <member type="way" ref="483756544" role="outer"/>
+  <member type="way" ref="483756547" role="outer"/>
+  <member type="way" ref="483756548" role="outer"/>
+  <member type="way" ref="483756550" role="outer"/>
+  <member type="way" ref="483756542" role="outer"/>
+  <member type="way" ref="483756539" role="outer"/>
+  <member type="way" ref="483756535" role="outer"/>
+  <member type="way" ref="483756536" role="outer"/>
+  <member type="way" ref="483756538" role="outer"/>
+  <member type="way" ref="483756541" role="outer"/>
+  <member type="way" ref="483756513" role="outer"/>
+  <member type="way" ref="483756511" role="outer"/>
+  <member type="way" ref="483756510" role="outer"/>
+  <member type="way" ref="483756508" role="outer"/>
+  <member type="way" ref="58404229" role="outer"/>
+  <member type="way" ref="483756504" role="outer"/>
+  <member type="way" ref="483756502" role="outer"/>
+  <member type="way" ref="483756501" role="outer"/>
+  <member type="way" ref="483756499" role="outer"/>
+  <member type="way" ref="483756505" role="outer"/>
+  <member type="way" ref="483756496" role="outer"/>
+  <member type="way" ref="483756498" role="outer"/>
+  <member type="way" ref="483756494" role="outer"/>
+  <member type="way" ref="483756552" role="outer"/>
+  <member type="way" ref="483756491" role="outer"/>
+  <member type="way" ref="483756488" role="outer"/>
+  <member type="way" ref="483756487" role="outer"/>
+  <member type="way" ref="483756484" role="outer"/>
+  <member type="way" ref="483756482" role="outer"/>
+  <member type="way" ref="483756481" role="outer"/>
+  <member type="way" ref="483756479" role="outer"/>
+  <member type="way" ref="483756478" role="outer"/>
+  <member type="way" ref="250622868" role="outer"/>
+  <member type="way" ref="483756471" role="outer"/>
+  <member type="way" ref="483756470" role="outer"/>
+  <member type="way" ref="483756468" role="outer"/>
+  <member type="way" ref="483756467" role="outer"/>
+  <member type="way" ref="483756465" role="outer"/>
+  <member type="way" ref="483756464" role="outer"/>
+  <member type="way" ref="483756462" role="outer"/>
+  <member type="way" ref="229220311" role="outer"/>
+  <member type="way" ref="55985259" role="outer"/>
+  <member type="way" ref="28973965" role="outer"/>
+  <member type="way" ref="483534991" role="outer"/>
+  <member type="way" ref="483534990" role="outer"/>
+  <member type="way" ref="483534989" role="outer"/>
+  <member type="way" ref="483534988" role="outer"/>
+  <member type="way" ref="483534993" role="outer"/>
+  <member type="way" ref="483534992" role="outer"/>
+  <member type="way" ref="483534987" role="outer"/>
+  <member type="way" ref="483534986" role="outer"/>
+  <member type="way" ref="28903151" role="outer"/>
+  <member type="way" ref="483534994" role="outer"/>
+  <member type="way" ref="483534982" role="outer"/>
+  <member type="way" ref="483534983" role="outer"/>
+  <member type="way" ref="483534981" role="outer"/>
+  <member type="way" ref="483534984" role="outer"/>
+  <member type="way" ref="483534980" role="outer"/>
+  <member type="way" ref="483534979" role="outer"/>
+  <member type="way" ref="483534985" role="outer"/>
+  <member type="way" ref="483534975" role="outer"/>
+  <member type="way" ref="483534977" role="outer"/>
+  <member type="way" ref="483534978" role="outer"/>
+  <member type="way" ref="483534995" role="outer"/>
+  <member type="way" ref="483534996" role="outer"/>
+  <member type="way" ref="10854531" role="outer"/>
+  <member type="way" ref="250622818" role="outer"/>
+  <member type="way" ref="250622824" role="outer"/>
+  <member type="way" ref="250622819" role="outer"/>
+  <member type="way" ref="250622816" role="outer"/>
+  <member type="way" ref="250622859" role="outer"/>
+  <member type="way" ref="250622802" role="outer"/>
+  <member type="way" ref="250622803" role="outer"/>
+  <member type="way" ref="349935142" role="outer"/>
+  <member type="way" ref="387015347" role="outer"/>
+  <member type="way" ref="249992494" role="outer"/>
+  <member type="way" ref="387015346" role="outer"/>
+  <member type="way" ref="349930551" role="outer"/>
+  <member type="way" ref="137392505" role="outer"/>
+  <member type="way" ref="137392506" role="outer"/>
+  <member type="way" ref="137392504" role="outer"/>
+  <member type="way" ref="165305768" role="outer"/>
+  <member type="way" ref="141212219" role="outer"/>
+  <member type="way" ref="13796803" role="outer"/>
+  <member type="way" ref="546309456" role="outer"/>
+  <member type="way" ref="350671803" role="outer"/>
+  <member type="way" ref="436042255" role="outer"/>
+  <member type="way" ref="121718748" role="outer"/>
+  <member type="way" ref="261110485" role="outer"/>
+  <member type="way" ref="543415497" role="outer"/>
+  <member type="way" ref="162782271" role="outer"/>
+  <member type="way" ref="10854559" role="outer"/>
+  <member type="way" ref="121718747" role="outer"/>
+  <member type="way" ref="38377105" role="outer"/>
+  <member type="way" ref="261110486" role="outer"/>
+  <member type="way" ref="422095314" role="outer"/>
+  <member type="way" ref="38376887" role="outer"/>
+  <member type="way" ref="124757248" role="outer"/>
+  <member type="way" ref="84162017" role="outer"/>
+  <member type="way" ref="287307450" role="outer"/>
+  <member type="way" ref="127497635" role="outer"/>
+  <member type="way" ref="124757251" role="outer"/>
+  <member type="way" ref="482552861" role="outer"/>
+  <member type="way" ref="287310650" role="outer"/>
+  <member type="way" ref="236871005" role="outer"/>
+  <member type="way" ref="287310649" role="outer"/>
+  <member type="way" ref="236871002" role="outer"/>
+  <member type="way" ref="459656626" role="outer"/>
+  <member type="way" ref="287300627" role="outer"/>
+  <member type="way" ref="459656628" role="outer"/>
+  <member type="way" ref="459656627" role="outer"/>
+  <member type="way" ref="287300623" role="outer"/>
+  <member type="way" ref="458579214" role="outer"/>
+  <member type="way" ref="458579213" role="outer"/>
+  <member type="way" ref="287309695" role="outer"/>
+  <member type="way" ref="538576947" role="outer"/>
+  <member type="way" ref="459656625" role="outer"/>
+  <member type="way" ref="459656624" role="outer"/>
+  <member type="way" ref="458579212" role="outer"/>
+  <member type="way" ref="226300242" role="outer"/>
+  <member type="way" ref="482552866" role="outer"/>
+  <member type="way" ref="482552859" role="outer"/>
+  <member type="way" ref="287309677" role="outer"/>
+  <member type="way" ref="287309691" role="outer"/>
+  <member type="way" ref="96388879" role="outer"/>
+  <member type="way" ref="482552865" role="outer"/>
+  <member type="way" ref="44481415" role="outer"/>
+  <member type="way" ref="511464160" role="outer"/>
+  <member type="way" ref="190103753" role="outer"/>
+  <member type="way" ref="287305984" role="outer"/>
+  <member type="way" ref="509413482" role="outer"/>
+  <member type="way" ref="509495509" role="outer"/>
+  <member type="way" ref="509495506" role="outer"/>
+  <member type="way" ref="44481416" role="outer"/>
+  <member type="way" ref="509495508" role="outer"/>
+  <member type="way" ref="509495507" role="outer"/>
+  <member type="way" ref="509495504" role="outer"/>
+  <member type="way" ref="509413481" role="outer"/>
+  <member type="way" ref="203465703" role="outer"/>
+  <member type="way" ref="509495505" role="outer"/>
+  <member type="way" ref="509495503" role="outer"/>
+  <member type="way" ref="295289154" role="outer"/>
+  <member type="way" ref="422549097" role="outer"/>
+  <member type="way" ref="422549099" role="outer"/>
+  <member type="way" ref="422549096" role="outer"/>
+  <member type="way" ref="422549100" role="outer"/>
+  <member type="way" ref="203465704" role="outer"/>
+  <member type="way" ref="422549101" role="outer"/>
+  <member type="way" ref="422549098" role="outer"/>
+  <member type="way" ref="203465435" role="outer"/>
+  <member type="way" ref="203465437" role="outer"/>
+  <member type="way" ref="203464653" role="outer"/>
+  <member type="way" ref="241643278" role="outer"/>
+  <member type="way" ref="203464657" role="outer"/>
+  <member type="way" ref="203464652" role="outer"/>
+  <member type="way" ref="203464655" role="outer"/>
+  <member type="way" ref="203464658" role="outer"/>
+  <member type="way" ref="203464659" role="outer"/>
+  <member type="way" ref="203464656" role="outer"/>
+  <member type="way" ref="203464294" role="outer"/>
+  <member type="way" ref="203464291" role="outer"/>
+  <member type="way" ref="203464290" role="outer"/>
+  <member type="way" ref="203464292" role="outer"/>
+  <member type="way" ref="203464305" role="outer"/>
+  <member type="way" ref="203464309" role="outer"/>
+  <member type="way" ref="203464293" role="outer"/>
+  <member type="way" ref="203463553" role="outer"/>
+  <member type="way" ref="203463554" role="outer"/>
+  <member type="way" ref="254119579" role="outer"/>
+  <member type="way" ref="203463555" role="outer"/>
+  <member type="way" ref="203463552" role="outer"/>
+  <member type="way" ref="256517434" role="outer"/>
+  <member type="way" ref="203463557" role="outer"/>
+  <member type="way" ref="203463556" role="outer"/>
+  <member type="way" ref="203463548" role="outer"/>
+  <member type="way" ref="254119580" role="outer"/>
+  <member type="way" ref="53411262" role="outer"/>
+  <member type="way" ref="175770314" role="outer"/>
+  <member type="way" ref="407988553" role="outer"/>
+  <member type="way" ref="420613328" role="outer"/>
+  <member type="way" ref="407988613" role="outer"/>
+  <member type="way" ref="175770311" role="outer"/>
+  <member type="way" ref="96028646" role="outer"/>
+  <member type="way" ref="420613341" role="outer"/>
+  <member type="way" ref="175770287" role="outer"/>
+  <member type="way" ref="200715088" role="outer"/>
+  <member type="way" ref="96245844" role="outer"/>
+  <member type="way" ref="54296194" role="outer"/>
+  <member type="way" ref="54296031" role="outer"/>
+  <member type="way" ref="200709417" role="outer"/>
+  <member type="way" ref="44745364" role="outer"/>
+  <member type="way" ref="54295910" role="outer"/>
+  <member type="way" ref="200711770" role="outer"/>
+  <member type="way" ref="54295914" role="outer"/>
+  <member type="way" ref="341240844" role="outer"/>
+  <member type="way" ref="341240855" role="outer"/>
+  <member type="way" ref="54295990" role="outer"/>
+  <member type="way" ref="294253297" role="outer"/>
+  <member type="way" ref="94011424" role="outer"/>
+  <member type="way" ref="200714507" role="outer"/>
+  <member type="way" ref="608974067" role="outer"/>
+  <member type="way" ref="179281024" role="outer"/>
+  <member type="way" ref="90895586" role="outer"/>
+  <member type="way" ref="179281019" role="outer"/>
+  <member type="way" ref="179281020" role="outer"/>
+  <member type="way" ref="179281030" role="outer"/>
+  <member type="way" ref="379519270" role="outer"/>
+  <member type="way" ref="379519271" role="outer"/>
+  <member type="way" ref="58726815" role="outer"/>
+  <member type="way" ref="434717876" role="outer"/>
+  <member type="way" ref="186378084" role="outer"/>
+  <member type="way" ref="41169455" role="outer"/>
+  <member type="way" ref="556484538" role="outer"/>
+  <member type="way" ref="556484539" role="outer"/>
+  <member type="way" ref="327763066" role="outer"/>
+  <member type="way" ref="556484536" role="outer"/>
+  <member type="way" ref="556295548" role="outer"/>
+  <member type="way" ref="186378118" role="outer"/>
+  <member type="way" ref="186378125" role="outer"/>
+  <member type="way" ref="186378132" role="outer"/>
+  <member type="way" ref="41169530" role="outer"/>
+  <member type="way" ref="287798660" role="outer"/>
+  <member type="way" ref="41169344" role="outer"/>
+  <member type="way" ref="41169376" role="outer"/>
+  <member type="way" ref="147692079" role="outer"/>
+  <member type="way" ref="147696183" role="outer"/>
+  <member type="way" ref="147692042" role="outer"/>
+  <member type="way" ref="186829130" role="outer"/>
+  <member type="way" ref="186829214" role="outer"/>
+  <member type="way" ref="186829161" role="outer"/>
+  <member type="way" ref="287798691" role="outer"/>
+  <member type="way" ref="287798696" role="outer"/>
+  <member type="way" ref="287798692" role="outer"/>
+  <member type="way" ref="557162686" role="outer"/>
+  <member type="way" ref="287798677" role="outer"/>
+  <member type="way" ref="287798694" role="outer"/>
+  <member type="way" ref="287798693" role="outer"/>
+  <member type="way" ref="186829223" role="outer"/>
+  <member type="way" ref="186829208" role="outer"/>
+  <member type="way" ref="186829182" role="outer"/>
+  <member type="way" ref="186829216" role="outer"/>
+  <member type="way" ref="186829186" role="outer"/>
+  <member type="way" ref="186829158" role="outer"/>
+  <member type="way" ref="147694518" role="outer"/>
+  <member type="way" ref="294347573" role="outer"/>
+  <member type="way" ref="141917164" role="outer"/>
+  <member type="way" ref="294089731" role="outer"/>
+  <member type="way" ref="294089730" role="outer"/>
+  <member type="way" ref="141918989" role="outer"/>
+  <member type="way" ref="201323345" role="outer"/>
+  <member type="way" ref="141917233" role="outer"/>
+  <member type="way" ref="186370067" role="outer"/>
+  <member type="way" ref="186370075" role="outer"/>
+  <member type="way" ref="186370065" role="outer"/>
+  <member type="way" ref="186370079" role="outer"/>
+  <member type="way" ref="186370083" role="outer"/>
+  <member type="way" ref="186370084" role="outer"/>
+  <member type="way" ref="261463732" role="outer"/>
+  <member type="way" ref="186370082" role="outer"/>
+  <member type="way" ref="186370066" role="outer"/>
+  <member type="way" ref="186370069" role="outer"/>
+  <member type="way" ref="186370076" role="outer"/>
+  <member type="way" ref="186370078" role="outer"/>
+  <member type="way" ref="186370081" role="outer"/>
+  <member type="way" ref="186370074" role="outer"/>
+  <member type="way" ref="186370080" role="outer"/>
+  <member type="way" ref="186370068" role="outer"/>
+  <member type="way" ref="186363482" role="outer"/>
+  <member type="way" ref="262803221" role="outer"/>
+  <member type="way" ref="30143261" role="outer"/>
+  <member type="way" ref="186363497" role="outer"/>
+  <member type="way" ref="186363518" role="outer"/>
+  <member type="way" ref="186363502" role="outer"/>
+  <member type="way" ref="186363555" role="outer"/>
+  <member type="way" ref="186363507" role="outer"/>
+  <member type="way" ref="186363492" role="outer"/>
+  <member type="way" ref="186363528" role="outer"/>
+  <member type="way" ref="287798887" role="outer"/>
+  <member type="way" ref="186363512" role="outer"/>
+  <member type="way" ref="186363523" role="outer"/>
+  <member type="way" ref="186363567" role="outer"/>
+  <member type="way" ref="186363550" role="outer"/>
+  <member type="way" ref="186363562" role="outer"/>
+  <member type="way" ref="186363572" role="outer"/>
+  <member type="way" ref="262803222" role="outer"/>
+  <member type="way" ref="186363545" role="outer"/>
+  <member type="way" ref="186363576" role="outer"/>
+  <member type="way" ref="186363556" role="outer"/>
+  <member type="way" ref="186363538" role="outer"/>
+  <member type="way" ref="186363541" role="outer"/>
+  <member type="way" ref="186363533" role="outer"/>
+  <member type="way" ref="186363488" role="outer"/>
+  <member type="way" ref="186363586" role="outer"/>
+  <member type="way" ref="141916934" role="outer"/>
+  <member type="way" ref="186370087" role="outer"/>
+  <member type="way" ref="186370086" role="outer"/>
+  <member type="way" ref="186370085" role="outer"/>
+  <member type="way" ref="186370090" role="outer"/>
+  <member type="way" ref="287798888" role="outer"/>
+  <member type="way" ref="186370088" role="outer"/>
+  <member type="way" ref="186370089" role="outer"/>
+  <member type="way" ref="287800865" role="outer"/>
+  <member type="way" ref="141916920" role="outer"/>
+  <member type="way" ref="287801318" role="outer"/>
+  <member type="way" ref="186362696" role="outer"/>
+  <member type="way" ref="186362698" role="outer"/>
+  <member type="way" ref="291790449" role="outer"/>
+  <member type="way" ref="291790451" role="outer"/>
+  <member type="way" ref="186362721" role="outer"/>
+  <member type="way" ref="186362699" role="outer"/>
+  <member type="way" ref="186362708" role="outer"/>
+  <member type="way" ref="186362705" role="outer"/>
+  <member type="way" ref="186362704" role="outer"/>
+  <member type="way" ref="186362722" role="outer"/>
+  <member type="way" ref="141917070" role="outer"/>
+  <member type="way" ref="186362718" role="outer"/>
+  <member type="way" ref="186362714" role="outer"/>
+  <member type="way" ref="186362700" role="outer"/>
+  <member type="way" ref="186362702" role="outer"/>
+  <member type="way" ref="186362701" role="outer"/>
+  <member type="way" ref="186362703" role="outer"/>
+  <member type="way" ref="186362707" role="outer"/>
+  <member type="way" ref="421037249" role="outer"/>
+  <member type="way" ref="287358140" role="outer"/>
+  <member type="way" ref="421037243" role="outer"/>
+  <member type="way" ref="421037273" role="outer"/>
+  <member type="way" ref="287802976" role="outer"/>
+  <member type="way" ref="287354678" role="outer"/>
+  <member type="way" ref="421037236" role="outer"/>
+  <member type="way" ref="421037082" role="outer"/>
+  <member type="way" ref="287316466" role="outer"/>
+  <member type="way" ref="421037108" role="outer"/>
+  <member type="way" ref="421037103" role="outer"/>
+  <member type="way" ref="421037110" role="outer"/>
+  <member type="way" ref="421037112" role="outer"/>
+  <member type="way" ref="421037113" role="outer"/>
+  <member type="way" ref="186362725" role="outer"/>
+  <member type="way" ref="421037104" role="outer"/>
+  <member type="way" ref="421037107" role="outer"/>
+  <member type="way" ref="421037106" role="outer"/>
+  <member type="way" ref="421037105" role="outer"/>
+  <member type="way" ref="421037111" role="outer"/>
+  <member type="way" ref="421037114" role="outer"/>
+  <member type="way" ref="291751494" role="outer"/>
+  <member type="way" ref="30143466" role="outer"/>
+  <member type="way" ref="30143289" role="outer"/>
+  <member type="way" ref="287806345" role="outer"/>
+  <member type="way" ref="30143611" role="outer"/>
+  <member type="way" ref="291751493" role="outer"/>
+  <member type="way" ref="203218454" role="outer"/>
+  <member type="way" ref="141750015" role="outer"/>
+  <member type="way" ref="249587582" role="outer"/>
+  <member type="way" ref="249587583" role="outer"/>
+  <member type="way" ref="249587585" role="outer"/>
+  <member type="way" ref="287805772" role="outer"/>
+  <member type="way" ref="287805771" role="outer"/>
+  <member type="way" ref="318124410" role="outer"/>
+  <member type="way" ref="318062080" role="outer"/>
+  <member type="way" ref="318148764" role="outer"/>
+  <member type="way" ref="320216083" role="outer"/>
+  <member type="way" ref="320267170" role="outer"/>
+  <member type="way" ref="314671102" role="outer"/>
+  <member type="way" ref="552213141" role="outer"/>
+  <member type="way" ref="303964418" role="outer"/>
+  <member type="way" ref="30143292" role="outer"/>
+  <member type="way" ref="552213139" role="outer"/>
+  <member type="way" ref="314695271" role="outer"/>
+  <member type="way" ref="314695268" role="outer"/>
+  <member type="way" ref="314695276" role="outer"/>
+  <member type="way" ref="314695279" role="outer"/>
+  <member type="way" ref="314698082" role="outer"/>
+  <member type="way" ref="314698084" role="outer"/>
+  <member type="way" ref="251062400" role="outer"/>
+  <member type="way" ref="251062387" role="outer"/>
+  <member type="way" ref="30143345" role="outer"/>
+  <member type="way" ref="552213134" role="outer"/>
+  <member type="way" ref="552213135" role="outer"/>
+  <member type="way" ref="313708456" role="outer"/>
+  <member type="way" ref="313708455" role="outer"/>
+  <member type="way" ref="249790469" role="outer"/>
+  <member type="way" ref="251713113" role="outer"/>
+  <member type="way" ref="251063475" role="outer"/>
+  <member type="way" ref="303936172" role="outer"/>
+  <member type="way" ref="249790458" role="outer"/>
+  <member type="way" ref="202363577" role="outer"/>
+  <member type="way" ref="523957734" role="outer"/>
+  <member type="way" ref="303927696" role="outer"/>
+  <member type="way" ref="523957724" role="outer"/>
+  <member type="way" ref="69549959" role="outer"/>
+  <member type="way" ref="69549943" role="outer"/>
+  <member type="way" ref="523957716" role="outer"/>
+  <member type="way" ref="202363470" role="outer"/>
+  <member type="way" ref="303929826" role="outer"/>
+  <member type="way" ref="202364028" role="outer"/>
+  <member type="way" ref="52069349" role="outer"/>
+  <member type="way" ref="599475608" role="outer"/>
+  <member type="way" ref="49978184" role="outer"/>
+  <member type="way" ref="35583669" role="outer"/>
+  <member type="way" ref="304259291" role="outer"/>
+  <member type="way" ref="552213131" role="outer"/>
+  <member type="way" ref="599475605" role="outer"/>
+  <member type="way" ref="386543350" role="outer"/>
+  <member type="way" ref="163828230" role="outer"/>
+  <member type="way" ref="599497056" role="outer"/>
+  <member type="way" ref="552213130" role="outer"/>
+  <member type="way" ref="552213129" role="outer"/>
+  <member type="way" ref="304337330" role="outer"/>
+  <member type="way" ref="550263893" role="outer"/>
+  <member type="way" ref="431112782" role="outer"/>
+  <member type="way" ref="35587680" role="outer"/>
+  <member type="way" ref="249959789" role="outer"/>
+  <member type="way" ref="551911709" role="outer"/>
+  <member type="way" ref="551911710" role="outer"/>
+  <member type="way" ref="250190556" role="outer"/>
+  <member type="way" ref="599981599" role="outer"/>
+  <member type="way" ref="551911723" role="outer"/>
+  <member type="way" ref="550206751" role="outer"/>
+  <member type="way" ref="431112781" role="outer"/>
+  <member type="relation" ref="57963" role="subarea"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="alt_name:csb" v="Brazylëjô"/>
+  <tag k="alt_name:fo" v="Brasil"/>
+  <tag k="alt_name:gd" v="Brasil"/>
+  <tag k="alt_name:hi" v="ब्राज़ील"/>
+  <tag k="alt_name:ie" v="Brazil"/>
+  <tag k="alt_name:vi" v="Brazil;Bra-xin"/>
+  <tag k="alt_name:zh-min-nan" v="Peh-la̍t-se-ní"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="currency" v="BRL"/>
+  <tag k="default_language" v="pt"/>
+  <tag k="driving_side" v="right"/>
+  <tag k="flag" v="http://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/>
+  <tag k="int_name" v="Brazil"/>
+  <tag k="is_in:continent" v="South America"/>
+  <tag k="ISO3166-1" v="BR"/>
+  <tag k="ISO3166-1:alpha2" v="BR"/>
+  <tag k="ISO3166-1:alpha3" v="BRA"/>
+  <tag k="ISO3166-1:numeric" v="076"/>
+  <tag k="name" v="Brasil"/>
+  <tag k="name:aa" v="Brazil"/>
+  <tag k="name:ace" v="Brasil"/>
+  <tag k="name:ady" v="Бразилие"/>
+  <tag k="name:af" v="Brasilië"/>
+  <tag k="name:ak" v="Brazil"/>
+  <tag k="name:als" v="Brasilie"/>
+  <tag k="name:am" v="ብራዚል"/>
+  <tag k="name:an" v="Brasil"/>
+  <tag k="name:ang" v="Brasil"/>
+  <tag k="name:ar" v="البَرَازِيل"/>
+  <tag k="name:arc" v="ܒܪܐܙܝܠ"/>
+  <tag k="name:arz" v="البرازيل"/>
+  <tag k="name:as" v="ব্ৰাজিল"/>
+  <tag k="name:ast" v="Brasil"/>
+  <tag k="name:ay" v="Wrasil"/>
+  <tag k="name:az" v="Braziliya"/>
+  <tag k="name:azb" v="برزیل"/>
+  <tag k="name:ba" v="Брази́лия"/>
+  <tag k="name:bar" v="Brasilien"/>
+  <tag k="name:bat-smg" v="Brazilėjė"/>
+  <tag k="name:bcl" v="Brasil"/>
+  <tag k="name:be" v="Бразі́лія"/>
+  <tag k="name:be-tarask" v="Бразы́лія"/>
+  <tag k="name:bg" v="Бразилия"/>
+  <tag k="name:bh" v="ब्राज़ील"/>
+  <tag k="name:bi" v="Brazil"/>
+  <tag k="name:bm" v="Brazil"/>
+  <tag k="name:bn" v="ব্রাজিল"/>
+  <tag k="name:bo" v="པུ་རུ་ཟིལ།"/>
+  <tag k="name:bpy" v="ব্রাজিল"/>
+  <tag k="name:br" v="Brazil"/>
+  <tag k="name:brx" v="ब्राज़ील"/>
+  <tag k="name:bs" v="Brazil"/>
+  <tag k="name:bxr" v="Бразил"/>
+  <tag k="name:ca" v="Brasil"/>
+  <tag k="name:cbk-zam" v="Brasil"/>
+  <tag k="name:cdo" v="Bă-să̤"/>
+  <tag k="name:ce" v="Брази́ли"/>
+  <tag k="name:ceb" v="Brasil"/>
+  <tag k="name:ch" v="Brazil"/>
+  <tag k="name:chr" v="ᏆᏏᎵ"/>
+  <tag k="name:chy" v="Brazil"/>
+  <tag k="name:ckb" v="بەڕازیل"/>
+  <tag k="name:co" v="Brasile"/>
+  <tag k="name:crh" v="Brazil"/>
+  <tag k="name:cs" v="Brazílie"/>
+  <tag k="name:csb" v="Brazylskô"/>
+  <tag k="name:cu" v="Браꙁїлі́ꙗ"/>
+  <tag k="name:cv" v="Бразили"/>
+  <tag k="name:cy" v="Brasil"/>
+  <tag k="name:da" v="Brasilien"/>
+  <tag k="name:de" v="Brasilien"/>
+  <tag k="name:diq" v="Brezilya"/>
+  <tag k="name:dsb" v="Brazilska"/>
+  <tag k="name:dty" v="ब्राजिल"/>
+  <tag k="name:dv" v="ބުރެޒިލް"/>
+  <tag k="name:dz" v="བཱརཱ་ཛིལ་"/>
+  <tag k="name:ee" v="Brazil"/>
+  <tag k="name:el" v="Βραζιλία"/>
+  <tag k="name:eml" v="Braṡil"/>
+  <tag k="name:en" v="Brazil"/>
+  <tag k="name:eo" v="Brazilo"/>
+  <tag k="name:es" v="Brasil"/>
+  <tag k="name:et" v="Brasiilia"/>
+  <tag k="name:eu" v="Brasil"/>
+  <tag k="name:ext" v="Brasil"/>
+  <tag k="name:fa" v="برزیل"/>
+  <tag k="name:ff" v="Barazil"/>
+  <tag k="name:fi" v="Brasilia"/>
+  <tag k="name:fiu-vro" v="Brasiilia"/>
+  <tag k="name:fj" v="Brazil"/>
+  <tag k="name:fo" v="Brasilia"/>
+  <tag k="name:fr" v="Brésil"/>
+  <tag k="name:frp" v="Brèsil"/>
+  <tag k="name:frr" v="Brasiilien"/>
+  <tag k="name:fur" v="Brasîl"/>
+  <tag k="name:fy" v="Brazylje"/>
+  <tag k="name:ga" v="an Bhrasaíl"/>
+  <tag k="name:gag" v="Braziliya"/>
+  <tag k="name:gan" v="巴西"/>
+  <tag k="name:gd" v="Braisil"/>
+  <tag k="name:gl" v="Brasil"/>
+  <tag k="name:glk" v="برزيل"/>
+  <tag k="name:gn" v="Pindoráma"/>
+  <tag k="name:gom" v="ब्राझील"/>
+  <tag k="name:got" v="𐌱𐍂𐌰𐌶𐌹𐌻"/>
+  <tag k="name:gu" v="બ્રાઝિલ"/>
+  <tag k="name:gv" v="yn Vrasseel"/>
+  <tag k="name:ha" v="Brazil"/>
+  <tag k="name:hak" v="Pâ-sî"/>
+  <tag k="name:haw" v="Palakila"/>
+  <tag k="name:he" v="ברזיל"/>
+  <tag k="name:hi" v="ब्रास़ील"/>
+  <tag k="name:hif" v="Brazil"/>
+  <tag k="name:hr" v="Brazil"/>
+  <tag k="name:hsb" v="Brazilska"/>
+  <tag k="name:ht" v="Brezil"/>
+  <tag k="name:hu" v="Brazília"/>
+  <tag k="name:hy" v="Բրազիլիա"/>
+  <tag k="name:ia" v="Brasil"/>
+  <tag k="name:id" v="Brasil"/>
+  <tag k="name:ie" v="Brasil"/>
+  <tag k="name:ig" v="Brazil"/>
+  <tag k="name:ii" v="ꀠꑭ"/>
+  <tag k="name:ilo" v="Brasil"/>
+  <tag k="name:io" v="Brazilia"/>
+  <tag k="name:is" v="Brasilía"/>
+  <tag k="name:it" v="Brasile"/>
+  <tag k="name:ja" v="ブラジル"/>
+  <tag k="name:jam" v="Brazil"/>
+  <tag k="name:jbo" v="razgu'e"/>
+  <tag k="name:jv" v="Brasil"/>
+  <tag k="name:ka" v="ბრაზილია"/>
+  <tag k="name:kaa" v="Braziliya"/>
+  <tag k="name:kab" v="Brazil"/>
+  <tag k="name:kbd" v="Бразил"/>
+  <tag k="name:kbp" v="Piresiili"/>
+  <tag k="name:kg" v="Brazilia"/>
+  <tag k="name:ki" v="Brazil"/>
+  <tag k="name:kk" v="Бразилия"/>
+  <tag k="name:kl" v="Brazil"/>
+  <tag k="name:km" v="ប្រេស៊ីល"/>
+  <tag k="name:kn" v="ಬ್ರೆಜಿಲ್"/>
+  <tag k="name:ko" v="브라질"/>
+  <tag k="name:krc" v="Бразилия"/>
+  <tag k="name:ks" v="برٛازِل"/>
+  <tag k="name:ksh" v="Brasilije"/>
+  <tag k="name:ku" v="Brazîl"/>
+  <tag k="name:kv" v="Бразилия"/>
+  <tag k="name:kw" v="Brasil"/>
+  <tag k="name:ky" v="Бразилия"/>
+  <tag k="name:la" v="Brasilia"/>
+  <tag k="name:lad" v="Brasil"/>
+  <tag k="name:lb" v="Brasilien"/>
+  <tag k="name:lez" v="Бразилия"/>
+  <tag k="name:lg" v="Buraziiri"/>
+  <tag k="name:li" v="Braziel"/>
+  <tag k="name:lij" v="Braxî"/>
+  <tag k="name:lmo" v="Brasil"/>
+  <tag k="name:ln" v="Brazil"/>
+  <tag k="name:lo" v="ບະເຣຊິນ"/>
+  <tag k="name:lrc" v="برزيل"/>
+  <tag k="name:lt" v="Brazilija"/>
+  <tag k="name:ltg" v="Brazileja"/>
+  <tag k="name:lv" v="Brazīlija"/>
+  <tag k="name:mai" v="ब्राजिल"/>
+  <tag k="name:map-bms" v="Brasil"/>
+  <tag k="name:mdf" v="Бразилие"/>
+  <tag k="name:mg" v="Brazila"/>
+  <tag k="name:mhr" v="Бразилий"/>
+  <tag k="name:mi" v="Parīhi"/>
+  <tag k="name:min" v="Brasil"/>
+  <tag k="name:mk" v="Бразил"/>
+  <tag k="name:ml" v="ബ്രസീൽ"/>
+  <tag k="name:mn" v="Бразил"/>
+  <tag k="name:mr" v="ब्राझील"/>
+  <tag k="name:mrj" v="Бразили"/>
+  <tag k="name:ms" v="Brazil"/>
+  <tag k="name:mt" v="Brażil"/>
+  <tag k="name:mwl" v="Brasil"/>
+  <tag k="name:my" v="ဘရာဇီးနိုင်ငံ"/>
+  <tag k="name:myv" v="Бразилия"/>
+  <tag k="name:mzn" v="برزیل"/>
+  <tag k="name:na" v="Bradir"/>
+  <tag k="name:nah" v="Brasil"/>
+  <tag k="name:nap" v="Brasile"/>
+  <tag k="name:nds" v="Brasilien"/>
+  <tag k="name:nds-nl" v="Brazilië"/>
+  <tag k="name:ne" v="ब्राजिल"/>
+  <tag k="name:new" v="ब्राजिल"/>
+  <tag k="name:nl" v="Brazilië"/>
+  <tag k="name:nn" v="Brasil"/>
+  <tag k="name:no" v="Brasil"/>
+  <tag k="name:nov" v="Brasilia"/>
+  <tag k="name:nrm" v="Brési"/>
+  <tag k="name:nso" v="Brazil"/>
+  <tag k="name:nv" v="Bwazííl"/>
+  <tag k="name:oc" v="Brasil"/>
+  <tag k="name:olo" v="Braziilii"/>
+  <tag k="name:om" v="Biraazil"/>
+  <tag k="name:or" v="ବ୍ରାଜିଲ"/>
+  <tag k="name:os" v="Бразили"/>
+  <tag k="name:pa" v="ਬ੍ਰਾਜ਼ੀਲ"/>
+  <tag k="name:pag" v="Brazil"/>
+  <tag k="name:pam" v="Brazil"/>
+  <tag k="name:pap" v="Brazil"/>
+  <tag k="name:pcd" v="Brésil"/>
+  <tag k="name:pdc" v="Brasilien"/>
+  <tag k="name:pfl" v="Brasilje"/>
+  <tag k="name:pi" v="ब्रासील"/>
+  <tag k="name:pih" v="Bresel"/>
+  <tag k="name:pl" v="Brazylia"/>
+  <tag k="name:pms" v="Brasil"/>
+  <tag k="name:pnb" v="برازیل"/>
+  <tag k="name:ps" v="برازیل"/>
+  <tag k="name:pt" v="Brasil"/>
+  <tag k="name:qu" v="Prasil"/>
+  <tag k="name:rm" v="Brasilia"/>
+  <tag k="name:rmy" v="Brazil"/>
+  <tag k="name:rn" v="Brazil"/>
+  <tag k="name:ro" v="Brazilia"/>
+  <tag k="name:roa-tara" v="Brasile"/>
+  <tag k="name:ru" v="Бразилия"/>
+  <tag k="name:rue" v="Бразілія"/>
+  <tag k="name:rw" v="Burezile"/>
+  <tag k="name:sa" v="ब्रासील"/>
+  <tag k="name:sah" v="Бразилия"/>
+  <tag k="name:sc" v="Brasile"/>
+  <tag k="name:scn" v="Brasili"/>
+  <tag k="name:sco" v="Brazil"/>
+  <tag k="name:sd" v="برازيل"/>
+  <tag k="name:se" v="Brasilia"/>
+  <tag k="name:sh" v="Brazil"/>
+  <tag k="name:si" v="බ්‍රසීලය"/>
+  <tag k="name:sk" v="Brazília"/>
+  <tag k="name:sl" v="Brazilija"/>
+  <tag k="name:sm" v="Pasila"/>
+  <tag k="name:sn" v="Brazil"/>
+  <tag k="name:so" v="Barasiil"/>
+  <tag k="name:sq" v="Brazili"/>
+  <tag k="name:sr" v="Бразил"/>
+  <tag k="name:srn" v="Brasilkondre"/>
+  <tag k="name:st" v="Brazil"/>
+  <tag k="name:stq" v="Brasilien"/>
+  <tag k="name:su" v="Brasil"/>
+  <tag k="name:sv" v="Brasilien"/>
+  <tag k="name:sw" v="Brazil"/>
+  <tag k="name:szl" v="Brazylijo"/>
+  <tag k="name:ta" v="பிரேசில்"/>
+  <tag k="name:te" v="బ్రెజిల్"/>
+  <tag k="name:tet" v="Brazíl"/>
+  <tag k="name:tg" v="Бразилия"/>
+  <tag k="name:th" v="บราซิล"/>
+  <tag k="name:ti" v="ብራዚል"/>
+  <tag k="name:tk" v="Braziliýa"/>
+  <tag k="name:tl" v="Brasil"/>
+  <tag k="name:to" v="Palāsili"/>
+  <tag k="name:tok" v="ma Pasila"/>
+  <tag k="name:tpi" v="Brasil"/>
+  <tag k="name:tr" v="Brezilya"/>
+  <tag k="name:tt" v="Брази́лия"/>
+  <tag k="name:tum" v="Brazil"/>
+  <tag k="name:tw" v="Brazil"/>
+  <tag k="name:ty" v="Parīihi"/>
+  <tag k="name:tyv" v="Бразилия"/>
+  <tag k="name:tzl" v="Brasil"/>
+  <tag k="name:ug" v="برازىلىيە"/>
+  <tag k="name:uk" v="Брази́лія"/>
+  <tag k="name:ur" v="برازیل"/>
+  <tag k="name:uz" v="Braziliya"/>
+  <tag k="name:ve" v="Brazil"/>
+  <tag k="name:vec" v="Braxil"/>
+  <tag k="name:vep" v="Brazilii"/>
+  <tag k="name:vi" v="Brasil"/>
+  <tag k="name:vls" v="Brazilië"/>
+  <tag k="name:vo" v="Brasilän"/>
+  <tag k="name:wa" v="Braezi"/>
+  <tag k="name:war" v="Brasil"/>
+  <tag k="name:wo" v="Breesil"/>
+  <tag k="name:wuu" v="巴西"/>
+  <tag k="name:xal" v="Бразилмудин"/>
+  <tag k="name:xh" v="Brasil"/>
+  <tag k="name:xmf" v="ბრაზილია"/>
+  <tag k="name:yi" v="בראַזיל"/>
+  <tag k="name:yo" v="Brasil"/>
+  <tag k="name:za" v="Bahsih"/>
+  <tag k="name:zea" v="Brezilië"/>
+  <tag k="name:zh" v="巴西"/>
+  <tag k="name:zh-classical" v="巴西"/>
+  <tag k="name:zh-min-nan" v="Pa-se"/>
+  <tag k="name:zh-yue" v="巴西"/>
+  <tag k="name:zu" v="IBrazili"/>
+  <tag k="official_name" v="República Federativa do Brasil"/>
+  <tag k="official_name:af" v="Federale Republiek Brasilië"/>
+  <tag k="official_name:als" v="Föderative Republik Brasilien"/>
+  <tag k="official_name:am" v="የብራዚል ፌዴራላዊ ሪፐብሊክ"/>
+  <tag k="official_name:an" v="República Federativa do Brasil"/>
+  <tag k="official_name:ar" v="جُمْهُورِيَّة البَرَازِيل الاتِّحادِيَّة"/>
+  <tag k="official_name:arc" v="ܩܘܛܢܝܘܬܐ ܦܕܪܠܝܬܐ ܕܒܪܐܙܝܠ"/>
+  <tag k="official_name:arz" v="جمهورية البرازيل الاتحاديه"/>
+  <tag k="official_name:as" v="ফেডাৰেটিভ ৰিপাব্লিক অফ্‌ ব্ৰাজিল"/>
+  <tag k="official_name:ast" v="República Federativa do Brasil"/>
+  <tag k="official_name:ay" v="Tantasqa Republika Wrasil"/>
+  <tag k="official_name:az" v="Braziliya Federativ Respublikası"/>
+  <tag k="official_name:azb" v="برزیل فدراتیو جومهوریتی"/>
+  <tag k="official_name:ba" v="Брази́лия Федерати́в Республика́һы"/>
+  <tag k="official_name:be" v="Федэраты́ўная Рэспу́бліка Бразі́лія"/>
+  <tag k="official_name:bg" v="Федеративна република Бразилия"/>
+  <tag k="official_name:bn" v="সংযুক্ত প্রজাতন্ত্রী ব্রাজিল"/>
+  <tag k="official_name:bpy" v="কেন্দ্রীয় প্রজাতন্ত্রি ব্রাজিল"/>
+  <tag k="official_name:br" v="Republik Kevreel Brazil"/>
+  <tag k="official_name:bs" v="Federativna republika Brazil"/>
+  <tag k="official_name:bxr" v="Холбооной Бүгэдэ Найрамдаха Бразил Улас"/>
+  <tag k="official_name:ca" v="República Federal del Brasil"/>
+  <tag k="official_name:cbk-zam" v="Republica Federativa del Brazil"/>
+  <tag k="official_name:ce" v="Федерати́вни Респу́блика Брази́ли"/>
+  <tag k="official_name:ceb" v="Pederatibong Republika sa Brasil"/>
+  <tag k="official_name:chr" v="ᎠᏰᏟ ᏍᎦᏚᎩ ᎾᎿ ᏆᏏᎵ"/>
+  <tag k="official_name:co" v="Republica Federale di u Brasile"/>
+  <tag k="official_name:crh" v="Brazil Federativ Cumhuriyeti"/>
+  <tag k="official_name:cs" v="Brazilská federativní republika"/>
+  <tag k="official_name:cu" v="Браꙁі́льска Съвѫ́ꙁьна Димократі́ꙗ"/>
+  <tag k="official_name:cv" v="Бразили Федеративлă Республики"/>
+  <tag k="official_name:cy" v="Gweriniaeth Ffederal Brasil"/>
+  <tag k="official_name:da" v="Den Føderative Republik Brasilien"/>
+  <tag k="official_name:de" v="Föderative Republik Brasilien"/>
+  <tag k="official_name:diq" v="Cumhuriyetê Breziyayo Federal"/>
+  <tag k="official_name:dsb" v="Brazilska federatiwna republika"/>
+  <tag k="official_name:dty" v="संघीय गणतन्त्र ब्राजिल"/>
+  <tag k="official_name:el" v="Ομοσπονδιακή Δημοκρατία της Βραζιλίας"/>
+  <tag k="official_name:eml" v="Repubblica Federativa del Brasile"/>
+  <tag k="official_name:en" v="Federative Republic of Brazil"/>
+  <tag k="official_name:eo" v="Federacia Respubliko Brazilo"/>
+  <tag k="official_name:es" v="República Federativa de Brasil"/>
+  <tag k="official_name:et" v="Brasiilia Liitvabariik"/>
+  <tag k="official_name:eu" v="Brasilgo Errepublika Federala"/>
+  <tag k="official_name:ext" v="Repúbrica Federativa del Brasil"/>
+  <tag k="official_name:fa" v="جمهوری فدرال برزیل"/>
+  <tag k="official_name:fi" v="Brasilian liittotasavalta"/>
+  <tag k="official_name:fiu-vro" v="Brasiilia Vabariik"/>
+  <tag k="official_name:fo" v="Samveldis Lýðveldið Brasil"/>
+  <tag k="official_name:fr" v="République fédérative du Brésil"/>
+  <tag k="official_name:frr" v="Fööderatiif Republiik faan Brasiilien"/>
+  <tag k="official_name:fy" v="Federative Republyk Brazylje"/>
+  <tag k="official_name:ga" v="Poblacht Chónaidhmitheach na Brasaíle"/>
+  <tag k="official_name:gag" v="Braziliya Federal Respublikası"/>
+  <tag k="official_name:gan" v="巴西聯邦共和國"/>
+  <tag k="official_name:gl" v="República Federativa do Brasil"/>
+  <tag k="official_name:gn" v="Tetã Joaty Pindoráma"/>
+  <tag k="official_name:gu" v="બ્રાઝીલનું સંઘીય ગણરાજ્ય"/>
+  <tag k="official_name:gv" v="Pobblaght Chonastagh ny Brasseel"/>
+  <tag k="official_name:ha" v="Jamhuriyar Brazil"/>
+  <tag k="official_name:he" v="הרפובליקה הפדרלית של ברזיל"/>
+  <tag k="official_name:hi" v="ब्राज़ील का संघीय गणराज्य"/>
+  <tag k="official_name:hr" v="Savezna Republika Brazil"/>
+  <tag k="official_name:hsb" v="Brazilska federatiwna republika"/>
+  <tag k="official_name:hu" v="Brazil Szövetségi Köztársaság"/>
+  <tag k="official_name:hy" v="Բրազիլիայի Դաշնային Հանրապետություն"/>
+  <tag k="official_name:ia" v="Republica Federative de Brasil"/>
+  <tag k="official_name:id" v="Republik Federal Brasil"/>
+  <tag k="official_name:ilo" v="Pederatibo a Republika ti Brasil"/>
+  <tag k="official_name:is" v="Sambandslýðveldið Brasilía"/>
+  <tag k="official_name:it" v="Repubblica Federale del Brasile"/>
+  <tag k="official_name:ja" v="ブラジル連邦共和国"/>
+  <tag k="official_name:jbo" v="razgu'e gumgu'e gubyseltru"/>
+  <tag k="official_name:jv" v="Républik Federal Brasil"/>
+  <tag k="official_name:ka" v="ბრაზილიის ფედერაციული რესპუბლიკა"/>
+  <tag k="official_name:kbd" v="Федерациэм Республикэ Бразил"/>
+  <tag k="official_name:kk" v="Бразилия Федеративтік Республикасы"/>
+  <tag k="official_name:kl" v="Kunngiitsuuffik Brazil"/>
+  <tag k="official_name:km" v="សាធារណរដ្ឋ​សហព័ន្ធ​ប្រេស៊ីល"/>
+  <tag k="official_name:kn" v="ಬ್ರೆಜಿಲ್ ಸಂಯುಕ್ತ ಗಣರಾಜ್ಯ"/>
+  <tag k="official_name:ko" v="브라질 연방 공화국"/>
+  <tag k="official_name:krc" v="Федератив Бразилия Республика"/>
+  <tag k="official_name:ku" v="Komara Federal a Brazîlê"/>
+  <tag k="official_name:kv" v="Федератив Бразилия Республика"/>
+  <tag k="official_name:ky" v="Бразилия Федерация Республикасы"/>
+  <tag k="official_name:la" v="Respublica Foederativa Brasiliae"/>
+  <tag k="official_name:lad" v="Republika Federala del Brasil"/>
+  <tag k="official_name:lez" v="Бразилия Федеративдин Республика"/>
+  <tag k="official_name:li" v="Federaol Rippubliek Brazilië"/>
+  <tag k="official_name:lmo" v="República Federativa do Brasil"/>
+  <tag k="official_name:ln" v="Republíki Fedelali ya Brazil"/>
+  <tag k="official_name:lo" v="ສະຫະພັນສາທາະລະນະລັດບະເຣຊິນ"/>
+  <tag k="official_name:lrc" v="کومره ولات فدراتیو برزیل"/>
+  <tag k="official_name:lt" v="Brazilijos Federacinė Respublika"/>
+  <tag k="official_name:ltg" v="Brazilejis Federativuo Republika"/>
+  <tag k="official_name:lv" v="Brazīlijas Federatīvā Republika"/>
+  <tag k="official_name:mai" v="सङ्घीय गणतन्त्र ब्राजिल"/>
+  <tag k="official_name:mg" v="Repoblika federalin'i Brazila"/>
+  <tag k="official_name:mi" v="Whenua Tū Wehe o Parīhi"/>
+  <tag k="official_name:min" v="República Federativa do Brasil"/>
+  <tag k="official_name:mk" v="Федеративна Република Бразил"/>
+  <tag k="official_name:ml" v="ഫെഡറേറ്റിവ് റിപ്പബ്ലിക്ക് ഓഫ് ബ്രസീൽ"/>
+  <tag k="official_name:mn" v="Холбооны Бүгд Найрамдах Бразил Улс"/>
+  <tag k="official_name:ms" v="Republik Persekutuan Brazil"/>
+  <tag k="official_name:mt" v="Repubblika Federattiva tal-Brażil"/>
+  <tag k="official_name:mwl" v="República Federativa do Brasil"/>
+  <tag k="official_name:my" v="ဘရာဇီး ဖက်ဒရယ် သမ္မတနိုင်ငံ"/>
+  <tag k="official_name:myv" v="Федерати́вная Респу́блика Брази́лия"/>
+  <tag k="official_name:mzn" v="برزیل فدراتیو جمهوری"/>
+  <tag k="official_name:nah" v="Nenahuatiliztlacatlahtohcayotl Brasil"/>
+  <tag k="official_name:nap" v="Repubbreca Federativa d'o Brasile"/>
+  <tag k="official_name:nds" v="Bundsrepubliek Brasilien"/>
+  <tag k="official_name:nds-nl" v="Federale Reppubliek Brazilië"/>
+  <tag k="official_name:ne" v="संघीय गणतन्त्र ब्राजिल"/>
+  <tag k="official_name:nl" v="Federale Republiek van Brazilië"/>
+  <tag k="official_name:no" v="Forbundsrepublikken Brasil"/>
+  <tag k="official_name:nv" v="Kintaaʼanéhé Dineʼé Bikéyah"/>
+  <tag k="official_name:oc" v="Republica Federala de Brasil"/>
+  <tag k="official_name:olo" v="Braziilien federatiivine tazavaldu"/>
+  <tag k="official_name:os" v="Федеративон Республикæ Бразили"/>
+  <tag k="official_name:pa" v="ਬ੍ਰਾਜ਼ੀਲ ਦਾ ਸੰਘੀ ਗਣਰਾਜ"/>
+  <tag k="official_name:pag" v="Federative Republic na Brazil"/>
+  <tag k="official_name:pam" v="Federatibung Republica ning Brazil"/>
+  <tag k="official_name:pap" v="Repúblika Federativa di Brazil"/>
+  <tag k="official_name:pcd" v="Républike fédérative du Brésil"/>
+  <tag k="official_name:pdc" v="Bunnes-Republik Brasilien"/>
+  <tag k="official_name:pfl" v="Federadivi Republik Brasilje"/>
+  <tag k="official_name:pih" v="Federativii Repablik o' Bresel"/>
+  <tag k="official_name:pl" v="Federacyjna Republika Brazylii"/>
+  <tag k="official_name:ps" v="د برازیل فدراتیف ولسمشریزه"/>
+  <tag k="official_name:pt" v="República Federativa do Brasil"/>
+  <tag k="official_name:qu" v="Brasil Tantasqa Ripuwlika"/>
+  <tag k="official_name:rm" v="Republica federal da Brasilia"/>
+  <tag k="official_name:rmy" v="Federalni Republika la Braziliyaki"/>
+  <tag k="official_name:ro" v="Republica Federativă a Braziliei"/>
+  <tag k="official_name:roa-tara" v="Repubbleche Federative d'u Brasile"/>
+  <tag k="official_name:ru" v="Федеративная Республика Бразилия"/>
+  <tag k="official_name:rue" v="Бразільска федератівна републіка"/>
+  <tag k="official_name:sah" v="Бразилия Федератив Республиката"/>
+  <tag k="official_name:sco" v="Federative Republic o Brazil"/>
+  <tag k="official_name:sd" v="وفاقي جمهوريه برازيل"/>
+  <tag k="official_name:se" v="Brasilia lihttodásseváldi"/>
+  <tag k="official_name:sh" v="Federativna Republika Brazil"/>
+  <tag k="official_name:si" v="බ්‍රසිල සමුහාණ්ඩු සංවිධානය"/>
+  <tag k="official_name:sk" v="Brazílska federatívna republika"/>
+  <tag k="official_name:sl" v="Federativna republika Brazilija"/>
+  <tag k="official_name:sm" v="Ripapelika feterale o Pasila"/>
+  <tag k="official_name:sq" v="Republika Federative e Brazilit"/>
+  <tag k="official_name:sr" v="Савезна Република Бразил"/>
+  <tag k="official_name:srn" v="Ripoliku Brasilkondre"/>
+  <tag k="official_name:su" v="Républik Féderasi Brasil"/>
+  <tag k="official_name:sv" v="Förbundsrepubliken Brasilien"/>
+  <tag k="official_name:sw" v="Shirikisho la Jamhuri ya Brazil"/>
+  <tag k="official_name:ta" v="பிரேசில் கூட்டாட்சிக் குடியரசு"/>
+  <tag k="official_name:te" v="ఫెడరేటివ్ రిపబ్లిక్ ఆఫ్ బ్రెజిల్"/>
+  <tag k="official_name:tet" v="Repúblika Federativa Brazíl nian"/>
+  <tag k="official_name:th" v="สหพันธ์สาธารณรัฐบราซิล"/>
+  <tag k="official_name:tk" v="Braziliýa Federatiw Respublikasy"/>
+  <tag k="official_name:tl" v="Pederatibong Republika ng Brasil"/>
+  <tag k="official_name:tr" v="Brezilya Federal Cumhuriyeti"/>
+  <tag k="official_name:tt" v="Брази́лия Федерати́в Респу́бликасы"/>
+  <tag k="official_name:tyv" v="Федеративтиг Бразилия Республиказы"/>
+  <tag k="official_name:uk" v="Федерати́вна Респу́бліка Брази́лія"/>
+  <tag k="official_name:ur" v="وفاقی جمہوریہ برازیل"/>
+  <tag k="official_name:uz" v="Braziliya Federativ Respublikasi"/>
+  <tag k="official_name:vec" v="Repùblica Federałe de Braxil"/>
+  <tag k="official_name:vep" v="Brazilijan Federativine Tazovaldkund"/>
+  <tag k="official_name:vi" v="Cộng hòa Liên bang Brasil"/>
+  <tag k="official_name:vls" v="Federoale Republiek Brazilië"/>
+  <tag k="official_name:war" v="Republika Federativa han Brasil"/>
+  <tag k="official_name:wo" v="Réewum Breesil"/>
+  <tag k="official_name:wuu" v="巴西联邦共和国"/>
+  <tag k="official_name:xal" v="Ниицәтә Бразилмудин Орн"/>
+  <tag k="official_name:yi" v="פֿעדעראַטיװע רעפובליק פֿון בראַזיל"/>
+  <tag k="official_name:yo" v="Orílẹ̀-èdè Olómìnira Aparapọ̀ ilẹ̀ Bràsíl"/>
+  <tag k="official_name:za" v="Bahsih Lienzbangh Gunghozgoz"/>
+  <tag k="official_name:zh" v="巴西联邦共和国"/>
+  <tag k="official_name:zh-classical" v="巴西聯邦共和國"/>
+  <tag k="official_name:zh-min-nan" v="Pa-se Liân-pang Kiōng-hô-kok"/>
+  <tag k="official_name:zh-yue" v="巴西聯邦共和國"/>
+  <tag k="old_name:vi" v="Ba Tây"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q155"/>
+  <tag k="wikipedia" v="pt:Brasil"/>
+ </relation>
+</osm>

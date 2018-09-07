@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (23037 thorn-05.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <relation id="303781" visible="true" version="33" changeset="40355598" timestamp="2016-06-29T00:14:05Z" user="UsuárioPar" uid="367813">
+  <member type="way" ref="285328270" role="outer"/>
+  <member type="way" ref="285328267" role="outer"/>
+  <member type="way" ref="285328265" role="outer"/>
+  <member type="way" ref="285328258" role="outer"/>
+  <member type="way" ref="285328262" role="outer"/>
+  <member type="way" ref="285328273" role="outer"/>
+  <member type="way" ref="285328269" role="outer"/>
+  <member type="way" ref="285328274" role="outer"/>
+  <member type="way" ref="285328261" role="outer"/>
+  <member type="way" ref="285328271" role="outer"/>
+  <member type="way" ref="413448812" role="outer"/>
+  <member type="way" ref="285328264" role="outer"/>
+  <member type="way" ref="285328254" role="outer"/>
+  <member type="way" ref="285328255" role="outer"/>
+  <member type="way" ref="415170893" role="outer"/>
+  <member type="way" ref="285328257" role="outer"/>
+  <member type="way" ref="285328260" role="outer"/>
+  <member type="way" ref="285328266" role="outer"/>
+  <member type="way" ref="415171385" role="outer"/>
+  <member type="way" ref="203971497" role="outer"/>
+  <member type="way" ref="203971488" role="outer"/>
+  <member type="way" ref="285328250" role="outer"/>
+  <member type="way" ref="203971496" role="outer"/>
+  <member type="way" ref="285328268" role="outer"/>
+  <member type="way" ref="321216313" role="outer"/>
+  <member type="way" ref="321348879" role="outer"/>
+  <member type="way" ref="321348827" role="outer"/>
+  <member type="way" ref="321348877" role="outer"/>
+  <member type="way" ref="43189040" role="outer"/>
+  <member type="way" ref="43187703" role="outer"/>
+  <member type="way" ref="43187347" role="outer"/>
+  <member type="way" ref="419359773" role="outer"/>
+  <member type="way" ref="43187737" role="outer"/>
+  <member type="way" ref="43187730" role="outer"/>
+  <member type="way" ref="288244802" role="outer"/>
+  <member type="way" ref="227352551" role="outer"/>
+  <member type="way" ref="253782169" role="outer"/>
+  <member type="way" ref="415174342" role="outer"/>
+  <member type="way" ref="43187098" role="outer"/>
+  <member type="way" ref="43187222" role="outer"/>
+  <member type="way" ref="415313181" role="outer"/>
+  <member type="way" ref="43187053" role="outer"/>
+  <member type="way" ref="43187103" role="outer"/>
+  <member type="way" ref="43187548" role="outer"/>
+  <member type="way" ref="427917777" role="outer"/>
+  <member type="way" ref="43187451" role="outer"/>
+  <member type="way" ref="43187392" role="outer"/>
+  <member type="way" ref="43187166" role="outer"/>
+  <member type="way" ref="43187711" role="outer"/>
+  <member type="way" ref="43187052" role="outer"/>
+  <member type="way" ref="43187059" role="outer"/>
+  <member type="way" ref="43186846" role="outer"/>
+  <member type="way" ref="43187337" role="outer"/>
+  <member type="way" ref="416617896" role="outer"/>
+  <member type="way" ref="43187808" role="outer"/>
+  <member type="way" ref="416617892" role="outer"/>
+  <member type="way" ref="43187684" role="outer"/>
+  <member type="way" ref="43186898" role="outer"/>
+  <member type="way" ref="43187567" role="outer"/>
+  <member type="way" ref="288244823" role="outer"/>
+  <member type="way" ref="43186854" role="outer"/>
+  <member type="way" ref="414485312" role="outer"/>
+  <member type="way" ref="43187172" role="outer"/>
+  <member type="way" ref="43186925" role="outer"/>
+  <member type="way" ref="43187750" role="outer"/>
+  <member type="way" ref="43187758" role="outer"/>
+  <member type="way" ref="416503644" role="outer"/>
+  <member type="way" ref="288244819" role="outer"/>
+  <member type="way" ref="43187715" role="outer"/>
+  <member type="way" ref="43187809" role="outer"/>
+  <member type="way" ref="415839410" role="outer"/>
+  <member type="way" ref="43187340" role="outer"/>
+  <member type="way" ref="43187424" role="outer"/>
+  <member type="way" ref="415833062" role="outer"/>
+  <member type="way" ref="43187014" role="outer"/>
+  <member type="way" ref="43187763" role="outer"/>
+  <member type="way" ref="43187460" role="outer"/>
+  <member type="way" ref="43187385" role="outer"/>
+  <member type="way" ref="43187213" role="outer"/>
+  <member type="way" ref="415821255" role="outer"/>
+  <member type="way" ref="43186856" role="outer"/>
+  <member type="way" ref="65643524" role="outer"/>
+  <member type="way" ref="43187301" role="outer"/>
+  <member type="way" ref="414481488" role="outer"/>
+  <member type="way" ref="43187800" role="outer"/>
+  <member type="way" ref="43187816" role="outer"/>
+  <member type="way" ref="250622815" role="outer"/>
+  <member type="way" ref="349930698" role="outer"/>
+  <member type="way" ref="250622824" role="outer"/>
+  <member type="way" ref="349930657" role="outer"/>
+  <member type="way" ref="250622813" role="outer"/>
+  <member type="way" ref="285328256" role="outer"/>
+  <member type="way" ref="285328263" role="outer"/>
+  <member type="way" ref="285328253" role="outer"/>
+  <member type="way" ref="285328259" role="outer"/>
+  <member type="way" ref="285328272" role="outer"/>
+  <member type="node" ref="243850911" role="admin_centre"/>
+  <member type="node" ref="541429445" role="label"/>
+  <tag k="admin_level" v="4"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="flag" v="https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg"/>
+  <tag k="IBGE:GEOCODIGO" v="27"/>
+  <tag k="is_in:country" v="Brazil"/>
+  <tag k="ISO3166-2" v="BR-AL"/>
+  <tag k="name" v="Alagoas"/>
+  <tag k="name:ar" v="ألاغواس"/>
+  <tag k="name:be" v="Алагоас"/>
+  <tag k="name:bg" v="Алагоас"/>
+  <tag k="name:de" v="Alagoas"/>
+  <tag k="name:en" v="Alagoas"/>
+  <tag k="name:eo" v="Alagoaso"/>
+  <tag k="name:fa" v="آلاگواس"/>
+  <tag k="name:he" v="אלגואס"/>
+  <tag k="name:hi" v="अलागोआस"/>
+  <tag k="name:hy" v="Ալագոաս"/>
+  <tag k="name:ja" v="アラゴアス"/>
+  <tag k="name:ka" v="ალაგოასი"/>
+  <tag k="name:ko" v="알라고아스"/>
+  <tag k="name:la" v="Alacunae"/>
+  <tag k="name:lt" v="Alagoasas"/>
+  <tag k="name:lv" v="Alagoasa"/>
+  <tag k="name:mk" v="Алагојас"/>
+  <tag k="name:mr" v="आलागोआस"/>
+  <tag k="name:os" v="Алагоас"/>
+  <tag k="name:pl" v="Alagoas"/>
+  <tag k="name:pt" v="Alagoas"/>
+  <tag k="name:ru" v="Алагоас"/>
+  <tag k="name:sr" v="Алагоас"/>
+  <tag k="name:tg" v="Алагоас"/>
+  <tag k="name:th" v="อาลาโกอัส"/>
+  <tag k="name:uk" v="Алагоас"/>
+  <tag k="name:zh" v="阿拉戈斯"/>
+  <tag k="place" v="state"/>
+  <tag k="ref" v="AL"/>
+  <tag k="short_name" v="AL"/>
+  <tag k="source" v="IBGE"/>
+  <tag k="timezone" v="America/Maceio"/>
+  <tag k="type" v="boundary"/>
+  <tag k="website" v="http://www.agenciaalagoas.al.gov.br/"/>
+  <tag k="wikidata" v="Q40885"/>
+  <tag k="wikipedia" v="pt:Alagoas"/>
+ </relation>
+</osm>
