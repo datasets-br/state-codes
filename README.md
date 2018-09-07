@@ -18,7 +18,7 @@ The time-zone conventions are expressed in state-scale, so they are part of this
 
 ## Regions
 
-The official Brazilian regions are the state spatial containers, and at OSM represents "administrative boundaries level 2" (tag `admin_level=3`), while states are level 4.
+The official Brazilian regions are the state spatial containers, and at OSM represents "administrative boundaries level 3" (tag `admin_level=3`), while states are level 4.
 
 ![](assets/regioes-288px.png)
 
@@ -26,9 +26,12 @@ The official Brazilian regions are the state spatial containers, and at OSM repr
 
 At [dump_wikidata](data/dump_wikidata) dump of Wikidata item of each state (e.g. [`MG.json`](data/dump_wikidata/MG.json)) is preserved.
 At [dump_osm](data/dump_wikidata) dump of Openstreetmap GeoJSON map of each state (e.g. [`MG.geojson`](data/dump_osm/MG.geojson)) is preserved.
-The database relationships for CSV files is illustrated below: 
+The database relationships for CSV files is illustrated in the [UML class diagram](https://en.wikipedia.org/wiki/Class_diagram) below: 
 
 ![](assets/databaseModel-v2.png)
+
+The external [`br-city-codes.csv`](https://github.com/datasets-br/city-codes/blob/master/data/br-city-codes.csv) is a complementar dataset represented in the full-database presented in the diagram. 
+When necessary, same structure as [`br-city-synonyms.csv`](https://github.com/datasets-br/city-codes/blob/master/data/br-city-synonyms.csv) can be used for state and region sets of synonyms.
 
 ## Collaboration
 
