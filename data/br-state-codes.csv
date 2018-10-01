@@ -1,34 +1,34 @@
-subdivision,region,name_prefix,name,id,idIBGE,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset_DST,postalCode_ranges,notes
-AC,N,Estado do,Acre,1,12,Q40780,acre,1904,,State,America/Rio_Branco,-5,-5,[69900-000 69999-999],
-AL,NE,Estado de,Alagoas,2,27,Q40885,alagoas,1889,,State,America/Maceio,-3,-3,[57000-000 57999-999],
-AM,N,Estado do,Amazonas,3,13,Q40040,amazonas,1889,,State,America/Manaus,-4,-4,[69000-000 69299-999]; [69400-000 69899-999],
-AP,N,Estado do,Amapá,4,16,Q40130,amapa,1943,,State,America/Belem,-3,-3,[68900-000 68999-999],
-BA,NE,Estado da,Bahia,5,29,Q40430,bahia,1889,,State,America/Bahia,-3,-3,[40000-000 48999-999],
-CE,NE,Estado do,Ceará,6,23,Q40123,ceara,1889,,State,America/Fortaleza,-3,-3,[60000-000 63999-999],
-DF,CO,,Distrito Federal,7,53,Q119158,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,[73000-000 73699-999]; [70000-000 72799-999],"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
-ES,SE,Estado do,Espírito Santo,8,32,Q43233,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,[29000-000 29999-999],
-GO,CO,Estado de,Goiás,9,52,Q41587,goias,1889,,State,America/Sao_Paulo,-3,-2,[72800-000 72999-999]; [73700-000 76799-999],
-MA,NE,Estado do,Maranhão,10,21,Q42362,maranhao,1889,,State,America/Fortaleza,-3,-3,[65000-000 65999-999],
-MG,SE,Estado de,Minas Gerais,11,31,Q39109,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,[30000-000 39999-999],
-MS,CO,Estado do,Mato Grosso do Sul,12,50,Q43319,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,[79000-000 79999-999],
-MT,CO,Estado do,Mato Grosso,13,51,Q42824,mato.grosso,1889,,State,America/Cuiaba,-4,-3,[78000-000 78899-999],
-PA,N,Estado do,Pará,14,15,Q39517,para,1889,,State,America/Belem,-3,-3,[66000-000 68899-999],
-PB,NE,Estado da,Paraíba,15,25,Q38088,paraiba,1889,,State,America/Fortaleza,-3,-3,[58000-000 58999-999],
-PE,NE,Estado de,Pernambuco,16,26,Q40942,pernambuco,1889,,State,America/Recife,-2,-2,[50000-000 56999-999],
-PI,NE,Estado do,Piauí,17,22,Q42722,piaui,1889,,State,America/Fortaleza,-3,-3,[64000-000 64999-999],
-PR,S,Estado do,Paraná,18,41,Q15499,parana,1889,,State,America/Sao_Paulo,-3,-2,[80000-000 87999-999],
-RJ,SE,Estado do,Rio de Janeiro,19,33,Q8678,rio.janeiro,1889,,State,America/Sao_Paulo,-3,-2,[20000-000 28999-999],
-RN,NE,Estado do,Rio Grande do Norte,20,24,Q43255,rio.grande.norte,1889,,State,America/Fortaleza,-3,-3,[59000-000 59999-999],
-RO,N,Estado de,Rondônia,21,11,Q43235,rondonia,1981,,State,America/Porto_Velho,-4,-4,[76800-000 76999-999],
-RR,N,Estado de,Roraima,22,14,Q42508,roraima,1947,,State,America/Boa_Vista,-4,-4,[69300-000 69399-999],changed level in 1988
-RS,S,Estado do,Rio Grande do Sul,23,43,Q40030,rio.grande.sul,1889,,State,America/Sao_Paulo,-3,-2,[90000-000 99999-999],
-SC,S,Estado de,Santa Catarina,24,42,Q41115,santa.catarina,1889,,State,America/Sao_Paulo,-3,-2,[88000-000 89999-999],
-SE,NE,Estado do,Sergipe,25,28,Q43783,sergipe,1889,,State,America/Maceio,-3,-3,[49000-000 49999-999],
-SP,SE,Estado de,São Paulo,26,35,Q175,sao.paulo,1889,,State,America/Sao_Paulo,-3,-2,[01000-000 09999-999]; [11000-000 19999-999],
-TO,N,Estado de,Tocantins,27,17,Q43695,tocantins,1988,,State,America/Araguaina,-3,-2,[77000-000 77999-999],
-FN,NE,Território de,Fernando de Noronha,30,,Q41535907,fernando.noronha,1943,1946,Territory,,,,,"extinct, merged into PE"
-GB,,Estado da,Guanabara,31,,Q1155409,guanabara,1960,1975,State,,,,,"extinct, merged as city into RJ"
-GU,,Território do,Guaporé,32,,Q10380855,guapore,1943,1946,Territory,,,,,renamed to Rondônia (RO)
-IG,,Estado de,Iguaçu,33,,Q2893222,iguacu,1943,1946,Territory,,,,,"extinct, merged into PR"
-PP,,Território de,Ponta Porã,34,,Q10380854,ponta.pora,1943,1946,Territory,,,,,extinct (now rest a city in MS)
-RB,N,Território de,Rio Branco,35,,Q10380856,rio.branco,1943,1962,State,,,,,renamed to Roraima (RR)
+subdivision,region,name_prefix,name,id,idIBGE,wdId,lexLabel,creation,extinction,category,timeZone,utcOffset,utcOffset_DST,postalCode_ranges,km2,borders,centroid_geohash,utm_zones,bounds_geohash,bounds_lat,bounds_long,notes
+AC,N,Estado do,Acre,1,12,Q40780,acre,1904,,State,America/Rio_Branco,-5,-5,[69900-000 69999-999],164124,AM,6qmgs6fgj,18S 19S,6q52s71b3 6w8xecq4d,-11.1455614673583 -7.11182437923207,-73.9904499689999 -66.6237537659999,
+AL,NE,Estado de,Alagoas,2,27,Q40885,alagoas,1889,,State,America/Maceio,-3,-3,[57000-000 57999-999],27848,BA PE SE,7nmcys499,24S 25S,7nhu3bk4p 7nrjb5e5u,-10.5011858043386 -8.81312673328604,-38.237588925 -35.1519504509999,
+AM,N,Estado do,Amazonas,3,13,Q40040,amazonas,1889,,State,America/Manaus,-4,-4,[69000-000 69299-999]; [69400-000 69899-999],1559148,AC MT PA RO RR,6x602gc00,19N 20N 21N 18S 19S 20S 21S,6q780seme db2hg2zp8,-9.81804587531735 2.24663056107414,-73.8015581149999 -56.0975580379999,
+AP,N,Estado do,Amapá,4,16,Q40130,amapa,1943,,State,America/Belem,-3,-3,[68900-000 68999-999],142829,PA,db701wybj,21N 22N 22S,6zbbzqbqf dbu91p9jz,-1.23617637404071 4.43674631714571,-54.8762501799999 -49.8762166349999,
+BA,NE,Estado da,Bahia,5,29,Q40430,bahia,1889,,State,America/Bahia,-3,-3,[40000-000 48999-999],564733,AL ES GO MG PE PI SE TO,7jf348gyc,23S 24S,6uwze5wry 7nmrqq9h8,-18.3485602605644 -8.53282057127726,-46.617096757 -37.341146654,
+CE,NE,Estado do,Ceará,6,23,Q40123,ceara,1889,,State,America/Fortaleza,-3,-3,[60000-000 63999-999],148888,PB PE PI RN,7p5g48b9p,24S,7nde33kqf 7pt80m0ux,-7.85818247125593 -2.78423065009166,-41.423518009 -37.253291125,
+DF,CO,,Distrito Federal,7,53,Q119158,distrito.federal,1975,,Federal district,America/Sao_Paulo,-3,-2,[73000-000 73699-999]; [70000-000 72799-999],5780,GO MG,6vnn0r5nb,22S 23S,6vjstnpk7 6vnrg6r06,-16.0502642615019 -15.5002551534865,-48.2857910680001 -47.308386987,"exist since 1889, but as generic subdiv. since 1975, and reference changed in 1960 and 1975"
+ES,SE,Estado do,Espírito Santo,8,32,Q43233,espirito.santo,1889,,State,America/Sao_Paulo,-3,-2,[29000-000 29999-999],46089,BA MG RJ,7he0ds6j4,24S 26S,7h4nz40h4 7kg6pyf7f,-21.3017819676392 -17.8919446375523,-41.8797956989999 -28.8359076289999,
+GO,CO,Estado de,Goiás,9,52,Q41587,goias,1889,,State,America/Sao_Paulo,-3,-2,[72800-000 72999-999]; [73700-000 76799-999],340110,BA DF MG MS MT TO,6vhswz95m,22S 23S,6ud1h4r9h 6vz37re8d,-19.4991508095943 -12.3952103033961,-53.251209334 -45.9069681829999,
+MA,NE,Estado do,Maranhão,10,21,Q42362,maranhao,1889,,State,America/Fortaleza,-3,-3,[65000-000 65999-999],331937,PA PI TO,6zpg1xsgd,22S 23S 24S,6yjmdecsf 7pf60cvnm,-10.2617647013313 -1.0439768220344,-48.755150737 -41.795884381,
+MG,SE,Estado de,Minas Gerais,11,31,Q39109,minas.gerais,1889,,State,America/Sao_Paulo,-3,-2,[30000-000 39999-999],586521,BA DF ES GO MS RJ SP,7h8pp2juc,22S 23S 24S,6ggtw7j3k 7j7xj0cjs,-22.9227552606775 -14.2331806654503,-51.046081811 -39.8568288909999,
+MS,CO,Estado do,Mato Grosso do Sul,12,50,Q43319,mato.grosso.sul,1977,,State,America/Campo_Grande,-4,-3,[79000-000 79999-999],357145,GO MG MT PR SP,6u2urgw8u,21S 22S,6ewxh66yr 6ugy34znf,-24.0685836277032 -17.1663485555327,-58.168511688 -50.9229090799999,
+MT,CO,Estado do,Mato Grosso,13,51,Q42824,mato.grosso,1889,,State,America/Cuiaba,-4,-3,[78000-000 78899-999],903199,AM GO MS PA RO TO,6v8nrdwnb,20S 21S 22S,6su1m7xun 6ysq1n5kv,-18.0415982405563 -7.34902838123962,-61.633382982 -50.2248063819999,
+PA,N,Estado do,Pará,14,15,Q39517,para,1889,,State,America/Belem,-3,-3,[66000-000 68899-999],1247956,AM AP MA MT RR TO,6z632krvt,21N 22N 21S 22S 23S,6wq058rx1 dbrnxzemy,-9.84115347731817 2.59102704608526,-58.898328399 -46.060946793,
+PB,NE,Estado da,Paraíba,15,25,Q38088,paraiba,1889,,State,America/Fortaleza,-3,-3,[58000-000 58999-999],56468,CE PE RN,7ntz3zeky,24S 25S,7ns2vb7xz 7nzm8r08e,-8.30295505127 -6.02591190619729,-38.7656034319999 -34.7928849739999,
+PE,NE,Estado de,Pernambuco,16,26,Q40942,pernambuco,1889,,State,America/Recife,-2,-2,[50000-000 56999-999],98076,AL BA CE PB PI,7nsbxk7jd,24S 25S,7n6d4cey0 7r2fnzj8h,-9.48289744330698 -3.82871869112592,-41.3583361839999 -32.3909143449999,
+PI,NE,Estado do,Piauí,17,22,Q42722,piaui,1889,,State,America/Fortaleza,-3,-3,[64000-000 64999-999],251612,BA CE MA PE TO,7n9mypphw,23S 24S,6yp3c67zr 7pe23m746,-10.9287563493517 -2.73930892009017,-45.994294838 -40.370509762,
+PR,S,Estado do,Paraná,18,41,Q15499,parana,1889,,State,America/Sao_Paulo,-3,-2,[80000-000 87999-999],199308,MS SC SP,6ge7c7jvk,21S 22S,6g30j073m 6gvzgjn34,-26.7171220077584 -22.5162951646681,-54.6193046382566 -48.0235374349999,
+RJ,SE,Estado do,Rio de Janeiro,19,33,Q8678,rio.janeiro,1889,,State,America/Sao_Paulo,-3,-2,[20000-000 28999-999],43782,ES MG SP,7h19tpmdw,23S 24S,75b549bd5 7h6cgunvt,-23.3689319626877 -20.7632054616261,-44.889320551 -40.958518518,
+RN,NE,Estado do,Rio Grande do Norte,20,24,Q43255,rio.grande.norte,1889,,State,America/Fortaleza,-3,-3,[59000-000 59999-999],52811,CE PB,7nvyv2zjq,24S 25S,7nu860c6e 7pphs22wn,-6.98273481222803 -4.83155550815856,-38.582098522 -34.96853802,
+RO,N,Estado de,Rondônia,21,11,Q43235,rondonia,1981,,State,America/Porto_Velho,-4,-4,[76800-000 76999-999],237765,AM MT,6w53cvrcg,19S 20S 21S,6t86penk2 6wt6xu19h,-13.6937001234344 -7.97586829725958,-66.8102531119999 -59.7743528516697,
+RR,N,Estado de,Roraima,22,14,Q42508,roraima,1947,,State,America/Boa_Vista,-4,-4,[69300-000 69399-999],224301,AM PA,d8k7fg6mm,20N 21N 20S,6x9zhb78n d8yjgzxys,-1.58063310605206 5.27184107717292,-64.825253704 -58.886884395,changed level in 1988
+RS,S,Estado do,Rio Grande do Sul,23,43,Q40030,rio.grande.sul,1889,,State,America/Sao_Paulo,-3,-2,[90000-000 99999-999],268753,SC,6fdp48jrg,21S 22S,69zpbpu9p 6ghtvjzf5,-33.7511779942397 -27.0823020217654,-57.6497428239773 -49.691351788,
+SC,S,Estado de,Santa Catarina,24,42,Q41115,santa.catarina,1889,,State,America/Sao_Paulo,-3,-2,[88000-000 89999-999],95738,PR RS,6ghhgrv88,22S,6fc9nbhfr 6gmsk6ck3,-29.3550658888067 -25.9558418217432,-53.8371492609176 -48.3270908869999,
+SE,NE,Estado do,Sergipe,25,28,Q43783,sergipe,1889,,State,America/Maceio,-3,-3,[49000-000 49999-999],21918,AL BA,7nj7gcnhv,24S,7juy1tyz9 7nq1ggffc,-11.5686557363712 -9.51502990830803,-38.2450470224021 -36.393867821,
+SP,SE,Estado de,São Paulo,26,35,Q175,sao.paulo,1889,,State,America/Sao_Paulo,-3,-2,[01000-000 09999-999]; [11000-000 19999-999],248222,MG MS PR RJ,6uj374ssp,22S 23S,6gd0p2n3h 7h2x7p4xj,-25.3123209497299 -19.7796557956015,-53.110111532 -44.1613651636666,
+TO,N,Estado de,Tocantins,27,17,Q43695,tocantins,1988,,State,America/Araguaina,-3,-2,[77000-000 77999-999],277721,BA GO MA MT PA PI,6yjwk0pwp,22S 23S,6vegmk6bb 6zpd85hsn,-13.4677126634278 -5.16838051516951,-50.742063978 -45.696670745,
+FN,NE,Território de,Fernando de Noronha,30,,Q41535907,fernando.noronha,1943,1946,Territory,,,,,,,,,,,,"extinct, merged into PE"
+GB,,Estado da,Guanabara,31,,Q1155409,guanabara,1960,1975,State,,,,,,,,,,,,"extinct, merged as city into RJ"
+GU,,Território do,Guaporé,32,,Q10380855,guapore,1943,1946,Territory,,,,,,,,,,,,renamed to Rondônia (RO)
+IG,,Estado de,Iguaçu,33,,Q2893222,iguacu,1943,1946,Territory,,,,,,,,,,,,"extinct, merged into PR"
+PP,,Território de,Ponta Porã,34,,Q10380854,ponta.pora,1943,1946,Territory,,,,,,,,,,,,extinct (now rest a city in MS)
+RB,N,Território de,Rio Branco,35,,Q10380856,rio.branco,1943,1962,State,,,,,,,,,,,,renamed to Roraima (RR)
